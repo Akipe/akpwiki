@@ -2,7 +2,7 @@
 title: VST
 description: 
 published: true
-date: 2024-03-04T12:47:12.466Z
+date: 2024-03-04T12:47:29.923Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T12:47:12.466Z
@@ -40,6 +40,21 @@ C:\Program Files\Common Files\Avid\Audio\Plug-Ins
 ```
 
 ## Ressources
+
+				- Sax
+					- Saxophio
+				- Batterie
+					- Mt-power(powen?)drumkit
+				- Guitar Acoustique
+					- Agml2
+				- Basse
+					- Ab(r?)pl2
+				- Percussion
+					- Latin set 1.0
+				- Flute
+					- Redtrim_se
+				- Ampli guitar
+					- Revalver 4 x64
 
 Recherche de VST gratuits :
 
