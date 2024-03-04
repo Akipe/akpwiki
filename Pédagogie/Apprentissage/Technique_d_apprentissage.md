@@ -2,7 +2,7 @@
 title: Technique d'apprentissage
 description: 
 published: true
-date: 2024-03-04T13:20:28.982Z
+date: 2024-03-04T13:27:00.769Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T13:20:28.982Z
@@ -100,6 +100,59 @@ Pour ce faire, il existe l'outil Anki qui permet de gérer les quiz et les espac
 ## Mise en place
 
 ### Obsidian
+
+## Modèles
+
+```txt
+
+## Modèle mentale
+
+*Une seul phrase de résumé qui peut être une métaphore.
+
+## Aperçu
+
+*Trois ou quatre phrase donnant un aperçu de la chose. Ça doit être simple et facile à retenir.
+
+## Profondeur
+
+*Plusieurs paragraphes pour approfondir, qui doivent être aussi long que necessaire. Ils ne doit pas y avoir de simplification.
+
+## Schema
+
+*Une image, un schéma ou un graphique de l'idée ou du concepts. Permet de comprendre en un coup d'œil.
+
+## Quiz
+
+*8 à 10 questions.
+
+*Question à carte double face :*
+```anki
+deck: DeckA
+tags:
+  - tag1
+  - tag2
+---
+
+Quel est le type MIME pour un fichier HTML encodé au format UTF-8 ?
+
+===
+
+`text/html; charset=utf-8`
+```
+
+*Question mot à deviner : 
+```anki
+deck: DeckA
+tags:
+  - tag1
+  - tag2
+---
+
+==Paris== est la capital de la ==France==
+```
+
+```
+
 ## Ressources
 
 ### Livres
