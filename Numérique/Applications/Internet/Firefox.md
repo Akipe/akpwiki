@@ -2,7 +2,7 @@
 title: Firefox
 description: 
 published: true
-date: 2024-03-04T14:26:30.369Z
+date: 2024-03-04T14:33:35.664Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T14:21:51.732Z
@@ -41,4 +41,12 @@ identity.sync.tokenserver.uri = https://MY_SERVER/1.0/sync/1.5
 # webchannel.allowObject.urlWhitelist
 # identity.fxaccounts.remote.profile.uri
 # identity.fxaccounts.remote.oauth.uri
+```
+
+### Définir différents état des extensions en fonctions des machines avec Firefox Sync
+
+<https://wiki.mozilla.org/Services/Sync/Addon_Sync#Can_I_have_different_enabled_states_on_different_machines.3F>
+
+```
+services.sync.addons.ignoreUserEnabledChanges = true
 ```
