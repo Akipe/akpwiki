@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-03-08T13:34:48.378Z
+date: 2024-03-08T13:35:08.763Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -18,6 +18,7 @@ dateCreated: 2024-03-08T13:06:28.273Z
 - Savon de Marseille
 - Savon noire
 - Acide citrique
+	- <https://www.leroymerlin.fr/magazine/conseils-pratiques/acide-citrique-10-conseils-pour-utiliser-a-maison.html>
 	- <https://www.compagnie-bicarbonate.com/12-utilisations-courantes-de-l-acide-citrique>
   - <https://www.consoglobe.com/acide-citrique-astuces-conseils-cg>
 - Percarbonate de soude (poudre)
