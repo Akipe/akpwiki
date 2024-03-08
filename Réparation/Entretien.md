@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-03-08T13:32:39.153Z
+date: 2024-03-08T13:33:24.225Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -13,6 +13,7 @@ dateCreated: 2024-03-08T13:06:28.273Z
 ## Les produits indispensable
 
 - Vinaigre blanc
+- Vinaigre d'alcool ménager
 - Bicarbonate de soude
 - Savon de Marseille
 - Savon noire
