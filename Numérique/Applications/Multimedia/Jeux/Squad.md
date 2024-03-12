@@ -2,7 +2,7 @@
 title: Squad
 description: 
 published: true
-date: 2024-03-12T11:52:17.029Z
+date: 2024-03-12T11:53:20.804Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-12T11:52:17.029Z
@@ -20,4 +20,5 @@ dateCreated: 2024-03-12T11:52:17.029Z
 
 ### Anglais
 
-- <https://steamcommunity.com/sharedfiles/filedetails/?id=1315065649
+- Squad Leader 101 : <https://steamcommunity.com/sharedfiles/filedetails/?id=1469812414>
+- Squad - Code of Conduct : <https://steamcommunity.com/app/393380/discussions/6/2568690416477707526/>
