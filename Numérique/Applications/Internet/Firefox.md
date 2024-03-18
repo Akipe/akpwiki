@@ -2,13 +2,22 @@
 title: Firefox
 description: 
 published: true
-date: 2024-03-04T14:33:35.664Z
+date: 2024-03-18T09:07:20.900Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T14:21:51.732Z
 ---
 
 # Firefox
+
+## Installation
+
+### Réinitialiser la configuration
+
+```shell
+% mv ~/.mozilla ~/.mozilla.BACKUP
+% rm -rf ~/.cache/mozilla/firefox
+```
 
 ## Configuration
 
