@@ -2,7 +2,7 @@
 title: Firefox
 description: 
 published: true
-date: 2024-03-18T09:13:49.884Z
+date: 2024-03-18T09:14:53.533Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T14:21:51.732Z
@@ -29,6 +29,10 @@ dateCreated: 2024-03-04T14:21:51.732Z
 - https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/
 
 ## Configuration
+
+### Ublock origin
+
+- <https://majkiit.github.io/polish-ads-filter/en/>
 
 ### Changer le serveur de synchronisation
 
