@@ -2,7 +2,7 @@
 title: Firefox
 description: 
 published: true
-date: 2024-03-18T09:14:53.533Z
+date: 2024-03-18T09:17:36.979Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T14:21:51.732Z
@@ -29,6 +29,8 @@ dateCreated: 2024-03-04T14:21:51.732Z
 - https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/
 
 ## Configuration
+
+- https://vermaden.wordpress.com/2024/03/18/sensible-firefox-setup/
 
 ### Ublock origin
 
