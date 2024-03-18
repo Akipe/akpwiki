@@ -2,7 +2,7 @@
 title: Firefox
 description: 
 published: true
-date: 2024-03-18T09:07:40.278Z
+date: 2024-03-18T09:13:49.884Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T14:21:51.732Z
@@ -20,6 +20,13 @@ dateCreated: 2024-03-04T14:21:51.732Z
 ```
 
 - <https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data>
+
+### Extensions
+
+- https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/
+- https://addons.mozilla.org/en-US/firefox/addon/select-link-text/
+- https://addons.mozilla.org/en-US/firefox/addon/clearurls/
+- https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/
 
 ## Configuration
 
