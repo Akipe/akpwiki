@@ -2,7 +2,7 @@
 title: Firefox
 description: 
 published: true
-date: 2024-03-18T09:07:20.900Z
+date: 2024-03-18T09:07:40.278Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T14:21:51.732Z
@@ -18,6 +18,8 @@ dateCreated: 2024-03-04T14:21:51.732Z
 % mv ~/.mozilla ~/.mozilla.BACKUP
 % rm -rf ~/.cache/mozilla/firefox
 ```
+
+- <https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data>
 
 ## Configuration
 
