@@ -2,7 +2,7 @@
 title: OPNsense
 description: 
 published: true
-date: 2024-03-25T13:53:31.168Z
+date: 2024-03-25T13:57:04.229Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-25T13:49:44.252Z
