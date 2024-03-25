@@ -2,7 +2,7 @@
 title: OPNsense
 description: 
 published: true
-date: 2024-03-25T13:49:44.252Z
+date: 2024-03-25T13:53:31.168Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-25T13:49:44.252Z
@@ -24,3 +24,5 @@ Si nécessaire il faut augmenter le nombre d'entrées autorisés. Pour ce faire 
 
 <https://github.com/duggytuxy/malicious_ip_addresses>
 
+- `https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/main/botnets_zombies_scanner_spam_ips.txt`
+- `https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/main/botnets_zombies_scanner_spam_ips_ipv6.txt`
