@@ -2,7 +2,7 @@
 title: NixOS
 description: 
 published: true
-date: 2024-03-29T23:42:50.530Z
+date: 2024-03-29T23:48:19.221Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T12:54:30.573Z
