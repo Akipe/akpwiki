@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T20:03:58.173Z
+date: 2024-04-12T20:05:16.044Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -92,7 +92,11 @@ Permet de réduire les démangeaisons des piqûres.
 
 > Appliquer quelques gouttes sur la zone concernée avec une petite compresse ou un coton.
 
-> 
+##### Nettoyer les appareils numériques
+
+Clavier, souris, écrans, tablettes ou smartphones pour éliminer les bactéries.
+
+> Imbibé un chiffon microfibre de vinaigre blanc, et nettoyer l'appareil.
 
 ##### Pour la cuisine
 
