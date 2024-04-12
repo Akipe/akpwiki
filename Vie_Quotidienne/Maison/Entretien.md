@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T21:18:15.243Z
+date: 2024-04-12T21:20:39.347Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -116,9 +116,15 @@ Bonne alternative à l'eau de Javel.
 
 ### Bicarbonate de soude
 
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/bicarbonate-de-soude-12-conseils-pour-utiliser-a-maison.html>
+
 ### Savon de Marseille
 
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/savon-de-marseille-10-conseils-pour-utiliser-a-maison.html>
+
 ### Savon noire
+
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/savon-noir-12-conseils-pour-utiliser-a-maison.html>
 
 ### Acide citrique
 
@@ -185,11 +191,15 @@ Liste de surfaces compatibles :
 
 ### Cristaux de soude
 
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/cristaux-de-soude-12-conseils-pour-utiliser-a-maison.html>
+
 ### Blanc de meudon
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/blanc-de-meudon-10-conseils-pour-utiliser-a-maison.html>
 
 ### Terre de sommière
+
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/terre-de-sommieres-9-conseils-pour-utiliser-a-maison.html>
 
 ### Sel d'oseille
 
