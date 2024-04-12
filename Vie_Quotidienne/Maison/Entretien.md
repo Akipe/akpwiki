@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T21:14:56.863Z
+date: 2024-04-12T21:18:15.243Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -187,6 +187,8 @@ Liste de surfaces compatibles :
 
 ### Blanc de meudon
 
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/blanc-de-meudon-10-conseils-pour-utiliser-a-maison.html>
+
 ### Terre de sommière
 
 ### Sel d'oseille
@@ -197,7 +199,7 @@ Borax en poudre
 
 ### Terre de diatomée
 
-
+### A FAIRE !!!
 
 - Vinaigre blanc
 - Vinaigre d'alcool ménager
