@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T19:25:18.972Z
+date: 2024-04-12T19:46:17.555Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -25,6 +25,16 @@ dateCreated: 2024-03-08T13:06:28.273Z
 - Puissant antibactérien : tue 99% des bactéries et 82% des moisissures. 
 
 #### Précautions
+
+- Type de vinaigre :
+	- taux d'acidité affiche entre 5 et 8% : pour la cuisine.
+  - taux d'acidité supérieurs à 8% : remplace les produits ménagers.
+- Eviter les mélanges qui générerait une réaction chimique dangereuse avec des émanations toxiques avec :
+	- Eau de Javel
+  - Eau oxygénées
+  - Chlore
+- Proter les yeux
+- Privilégier les gants de ménage
 
 #### Cas d'utilisation
 
