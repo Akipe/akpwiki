@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T19:59:37.658Z
+date: 2024-04-12T20:03:58.173Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -73,6 +73,26 @@ Ne pollue pas le sol.
 ##### Déboucher un évier
 
 > Verser du bicarbonate de soude avec du vinaigre blanc directement dans le tuyaux et patientez.
+
+##### Détarter
+
+Il vaut mieux privilégier l'acide citrique qui est moins fort pour certains appareils qui ont des joins ou des piéces fragiles comme les machines à cafés.
+
+##### Nettoyer les vitres
+
+> Mélanger de l'eau et du vinaigre blanc puis utilisez un chiffon imbibé pour frotter la vitre.
+
+##### Nettoyer les objets des animaux
+
+Permer de nettoyer, désinfecter et chasser les mauvaises odeurs.
+
+##### Soulager les piqûres d'insectes
+
+Permet de réduire les démangeaisons des piqûres.
+
+> Appliquer quelques gouttes sur la zone concernée avec une petite compresse ou un coton.
+
+> 
 
 ##### Pour la cuisine
 
