@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T21:03:24.017Z
+date: 2024-04-12T21:09:16.632Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -11,6 +11,10 @@ dateCreated: 2024-03-08T13:06:28.273Z
 # Entretien
 
 ## Les produits indispensable
+
+- <https://media.adeo.com/media/1769007>
+- <https://media.adeo.com/media/1769009>
+- <https://media.adeo.com/media/1648675/format/pdf>
 
 ### Vinaigre blanc
 
