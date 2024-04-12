@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T20:46:48.631Z
+date: 2024-04-12T20:47:22.767Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -235,12 +235,12 @@ Il faut mélanger les produits dans une bouteille et de bien mélanger.
 ##### Recette efficace
 
 Ingrédients :
-- 50g de savon de marseille en copeaux
+- 50g de savon de marseille en copeaux (en paillettes)
 - 1 cs de savon noir
 - 1 cs de bicarbonate de soude
-- 1 cs de cristaux de soude
+- (1 cs de cristaux de soude)
 - quelques gouttes d'huile essentielle
-- optionnel pour faire mousser : Sodium coco sulfate / Tensioactif Sodium coco sulfate (SCS)
+- (optionnel pour faire mousser : Sodium coco sulfate / Tensioactif Sodium coco sulfate (SCS))
 
 - Faire bouillir un grand verre d'eau
 - Mélanger avec le savon de marseille jusqu'à ce que tout soit homigène.
