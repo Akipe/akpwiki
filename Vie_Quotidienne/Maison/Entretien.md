@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T20:05:16.044Z
+date: 2024-04-12T20:46:48.631Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -218,7 +218,33 @@ Borax en poudre
   
 ## Guides
 
-### Maison
+### Nettoyage
+
+#### Liquide vaisselle
+
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/produit-vaisselle-maison-7-recettes-a-tester-pour-faire-soi-meme.html>
+
+##### Recette de base
+
+Ingrédients :
+- Cristaux de soude
+- Savon noir liquide
+
+Il faut mélanger les produits dans une bouteille et de bien mélanger.
+
+##### Recette efficace
+
+Ingrédients :
+- 50g de savon de marseille en copeaux
+- 1 cs de savon noir
+- 1 cs de bicarbonate de soude
+- 1 cs de cristaux de soude
+- quelques gouttes d'huile essentielle
+- optionnel pour faire mousser : Sodium coco sulfate / Tensioactif Sodium coco sulfate (SCS)
+
+- Faire bouillir un grand verre d'eau
+- Mélanger avec le savon de marseille jusqu'à ce que tout soit homigène.
+- Ajouter les autres ingrédients au fur et à mesure.
 
 #### Parquet
 
