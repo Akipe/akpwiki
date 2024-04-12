@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T21:10:09.473Z
+date: 2024-04-12T21:10:33.673Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -313,6 +313,10 @@ C'est un nettoyant multi-usages parfait pour les tables encrassées, le plan de 
 #### Nettoyant sol
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/les-meilleures-recettes-de-nettoyant-sol-maison.html>
+
+#### Degraissant
+
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/les-meilleures-recettes-de-degraissant-naturel.html>
 
 ### Nettoyage
 
