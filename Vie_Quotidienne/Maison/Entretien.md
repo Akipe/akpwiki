@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T18:35:58.750Z
+date: 2024-04-12T18:47:07.166Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -23,6 +23,45 @@ dateCreated: 2024-03-08T13:06:28.273Z
 ### Savon noire
 
 ### Acide citrique
+
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/acide-citrique-10-conseils-pour-utiliser-a-maison.html>
+
+#### Environement
+
+- Biodégradable et non toxique.
+- Fongicide, bactéricide et anti-algues.
+
+#### Dangereusité
+
+- **NE CONVIENT PAS AUX SURFACES SENSIBLES À L'ACIDE !!!**
+	- Aluminium
+  - Marbre
+  - Émail
+  - Ne pas mettre au contact avec de la soude ou avec des nettoyants à base de chlore ou de Javel.
+- On ne mélangera uniquement avec de l'eau, un peu de savon et quelques goutes d'huiles essentielles.
+- Irritant
+	- Yeux
+  - Peau
+  - Muqueuses
+- Protéger les textiles de couleur
+
+#### Cas d'utilisation
+
+- Retirer le tartre (notamment produits ménagé comme la machine à café)
+- Nettoyer les traces de rouille
+- Nettoyant multi surface (attention, voir les contres indications dans Dangereusité)
+	- Inox
+  - Chrome
+  - Plastique
+  - Céramique
+  - Ustensiles de cuisine
+> Diluez 5 cuillères à soupe d'acide citrique dans 1 litre d'eau chaude. Frottez avant de rincer soigneusement à l'eau.
+
+- Nettoyrant des fonds d'ustensiles brûlés
+> Diluez 2 cuillères à soupe d'acide citrique dans l'eau claire et versez le tout dans votre casserole brûlée. Faites chauffer ce mélange naturel et portez-le à ébullition quelques minutes.  Une fois décollé, rincer abondamment.
+
+- Nettoyer les dépôts des tasses, théières ou vases
+> Versez 2 cuillères à soupe d'acide citrique dans le récipient. Recouvrez d'eau bouillante et laissez agir au moins 30 minutes.
 
 ### Percarbonate de soude
 
