@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T20:47:22.767Z
+date: 2024-04-12T20:53:09.722Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -218,7 +218,7 @@ Borax en poudre
   
 ## Guides
 
-### Nettoyage
+### Produit de nettoyage
 
 #### Liquide vaisselle
 
@@ -245,6 +245,41 @@ Ingrédients :
 - Faire bouillir un grand verre d'eau
 - Mélanger avec le savon de marseille jusqu'à ce que tout soit homigène.
 - Ajouter les autres ingrédients au fur et à mesure.
+
+
+
+#### Nettoyant multi-usages
+
+##### Spray au bicarbonate
+
+1 cs de bicarbonate de soude pour 1 litre d'eau.
+
+##### Spray vinaigre blanc
+
+1/2 litre d'eau, 1/4 de vinaigre blanc. Pas besoin de le rincer.
+
+##### Spray écorces d'agrumes
+
+- 1 cuillère à soupe de bicarbonate de soude
+- L'écorce de 3 clémentines
+- L'écorce d'un citron
+- 1 litre d'eau
+
+Mettre tous les ingrédients dans le flacon et laisser au moins une semaine les écorces dans le produit avant de les enlever. Ce nettoyant ne se rince pas. 
+
+##### Liquide à diluer
+
+- 2 cuillères à soupe de savon noir liquide
+- 1 cuillère à soupe de bicarbonate de soude
+- 10 gouttes d'huile essentielle (citron, pin ou lavande selon vos goûts)
+- Presque un litre d'eau
+
+- Mélanger les ingrédients dans l'ordre dans la bouteille puis de compléter avec l'eau pour remplir une bouteille d'un litre.
+
+Puisqu'il y a du savon, il faudra rincer.  
+C'est un nettoyant multi-usages parfait pour les tables encrassées, le plan de travail de la cuisine, les sols...
+
+### Nettoyage
 
 #### Parquet
 
