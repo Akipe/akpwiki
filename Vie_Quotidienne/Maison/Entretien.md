@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T19:16:29.324Z
+date: 2024-04-12T19:19:28.541Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -82,12 +82,16 @@ Bonne alternative à l'eau de Javel.
 ##### Nettoyer les traces de rouille
 > Il suffit d'asperger l'objet rouillé d'acide citrique. Brosser, rincer et sécher.
 
-##### Nettoyant multi surface (attention, voir la partie précautions)
-	- Inox
-  - Chrome
-  - Plastique
-  - Céramique
-  - Ustensiles de cuisine
+##### Nettoyant multi surface
+Attention! Ne convient pas à tous les types de surfaces, voir la partie précautions.
+
+Liste de surfaces compatibles :
+- Inox
+- Chrome
+- Plastique
+- Céramique
+- Ustensiles de cuisine
+
 > Diluez 5 cuillères à soupe d'acide citrique dans 1 litre d'eau chaude. Frottez avant de rincer soigneusement à l'eau.
 
 ##### Nettoyrant des fonds d'ustensiles brûlés
