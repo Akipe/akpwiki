@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T21:20:39.347Z
+date: 2024-04-12T21:26:00.741Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -15,6 +15,8 @@ dateCreated: 2024-03-08T13:06:28.273Z
 - <https://media.adeo.com/media/1769007>
 - <https://media.adeo.com/media/1769009>
 - <https://media.adeo.com/media/1648675/format/pdf>
+
+- <https://www.leroymerlin.fr/produits/droguerie/faire-ses-produits-menagers/produit-menager-a-faire-soi-meme/>
 
 ### Vinaigre blanc
 
@@ -129,6 +131,8 @@ Bonne alternative à l'eau de Javel.
 ### Acide citrique
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/acide-citrique-10-conseils-pour-utiliser-a-maison.html>
+<https://www.compagnie-bicarbonate.com/12-utilisations-courantes-de-l-acide-citrique>
+<https://www.consoglobe.com/acide-citrique-astuces-conseils-cg>
 
 #### Pollution
 
@@ -196,6 +200,7 @@ Liste de surfaces compatibles :
 ### Blanc de meudon
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/blanc-de-meudon-10-conseils-pour-utiliser-a-maison.html>
+<https://jardinage.lemonde.fr/dossier-3297-utilisations-blanc-meudon-maison.html>
 
 ### Terre de sommière
 
@@ -203,34 +208,13 @@ Liste de surfaces compatibles :
 
 ### Sel d'oseille
 
+<https://trucmania.ouest-france.fr/utiliser-sel-oseille-maison/>
+
 ### Acide borique
 
 Borax en poudre
 
 ### Terre de diatomée
-
-### A FAIRE !!!
-
-- Vinaigre blanc
-- Vinaigre d'alcool ménager
-- Bicarbonate de soude
-- Savon de Marseille
-- Savon noire
-- Acide citrique
-	- <https://www.leroymerlin.fr/magazine/conseils-pratiques/acide-citrique-10-conseils-pour-utiliser-a-maison.html>
-	- <https://www.compagnie-bicarbonate.com/12-utilisations-courantes-de-l-acide-citrique>
-  - <https://www.consoglobe.com/acide-citrique-astuces-conseils-cg>
-- Percarbonate de soude (poudre)
-- cristaux de soude
-- blanc de meudon
-	- <https://www.leroymerlin.fr/magazine/conseils-pratiques/blanc-de-meudon-10-conseils-pour-utiliser-a-maison.html>
-  - <https://jardinage.lemonde.fr/dossier-3297-utilisations-blanc-meudon-maison.html>
-- terre de sommières
-	- <https://www.leroymerlin.fr/magazine/conseils-pratiques/terre-de-sommieres-9-conseils-pour-utiliser-a-maison.html>
-- sel d'oseille
-	- <https://trucmania.ouest-france.fr/utiliser-sel-oseille-maison/>
-  
-- <https://www.leroymerlin.fr/produits/droguerie/faire-ses-produits-menagers/produit-menager-a-faire-soi-meme/>
   
 ## Guides
 
