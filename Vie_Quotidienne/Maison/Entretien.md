@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T21:02:04.455Z
+date: 2024-04-12T21:03:24.017Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -257,7 +257,6 @@ Ingrédients :
 - Ajouter les autres ingrédients au fur et à mesure.
 
 
-
 #### Nettoyant multi-usages
 
 ##### Spray au bicarbonate
@@ -301,6 +300,11 @@ C'est un nettoyant multi-usages parfait pour les tables encrassées, le plan de 
 - Transférez votre préparation dans une boîte qui ferme et tassez bien la préparation
 - Laissez sécher pendant plusieurs jours avant de refermer le couvercle
 - Quand vous en avez besoin, frottez directement votre éponge ou votre brosse sur la pierre pour prélever un peu de produit.
+
+
+#### Crème à récurer
+
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/les-meilleures-recettes-de-creme-a-recurer-maison.html>
 
 ### Nettoyage
 
