@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T21:10:33.673Z
+date: 2024-04-12T21:14:56.863Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -360,3 +360,13 @@ Question entretien des parquets, voici ce qu'en dit le guide Larousse "Votre mai
 On peut aussi consulter à ce sujet le site : Tout pratique.
 
 Des sites professionnels comme Décoplus, Le chêne Ebénisterie, Terre & bois vous apporteront des informations complémentaires plus techniques sur les spécificités des ces différents traitement du bois et les traitements correspondants. 
+
+#### Déboucher les canalisations
+
+##### Recette basique
+
+Verser quelques cuillères de bicarbonate de soude à l'entrée de la canalisation, puis de verser par dessus un verre de vinaigre blanc. Après quelques minutes, verser de l'eau bouillante pour finir de désagréger le bouchon.
+
+##### Recette plus costaut
+
+Comme la recette du dessus mais remplacer bicarbonate de soude par du percarbonate qui a un fort pouvoir décrassant.
