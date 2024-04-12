@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T19:52:11.612Z
+date: 2024-04-12T19:57:44.942Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -51,6 +51,24 @@ Il remplace tous les produits d'entretien des grandes surfaces : vitres, réfrig
 ##### Protéger la machine à laver et le lave vaisselles
 
 > Ajouter 500 ml directement à l'intérieur de la machine. La faire tourner à vide en demi-charge en cycle normal.
+
+##### Adoucissant pour linge
+
+> Verser 250 ml dans le réservoir du lave linge et faires tourner la machine normalement.
+
+##### Déshérbant
+
+Ne pollue pas le sol.
+
+> Préparer un mélange avec pour une dose de vinaigre blanc 9 doses d'eau. Vaporiser les mauvaises herbes.
+
+##### Détachant pour tissus, moqettes et tapis
+
+> Imprégner un chiffon puis le frotter sur la zone délicatement.
+
+##### Retirer une tache de vin
+
+> Empécher la tache de s'incruster en épongeant le liquide avec du papier absorbant. Verser de l'eau tiède sur la tache puis tamponner la zone avec un linge imbibé de vinaigre blanc.
 
 ##### Pour la cuisine
 
