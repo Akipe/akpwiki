@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T21:01:38.798Z
+date: 2024-04-12T21:02:04.455Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -303,6 +303,10 @@ C'est un nettoyant multi-usages parfait pour les tables encrassées, le plan de 
 - Quand vous en avez besoin, frottez directement votre éponge ou votre brosse sur la pierre pour prélever un peu de produit.
 
 ### Nettoyage
+
+#### Tapis et moquette
+
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/tous-nos-conseils-pour-nettoyer-une-tache-sur-un-tapis-ou-une-moquette.html>
 
 #### Parquet
 
