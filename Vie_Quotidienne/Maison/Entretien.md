@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T20:53:09.722Z
+date: 2024-04-12T20:56:32.928Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -218,6 +218,11 @@ Borax en poudre
   
 ## Guides
 
+### Produit pour textile
+
+#### Assouplissant
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/assouplissant-maison-6-recettes-a-faire-soi-meme.html>
+
 ### Produit de nettoyage
 
 #### Liquide vaisselle
@@ -278,6 +283,19 @@ Mettre tous les ingrédients dans le flacon et laisser au moins une semaine les 
 
 Puisqu'il y a du savon, il faudra rincer.  
 C'est un nettoyant multi-usages parfait pour les tables encrassées, le plan de travail de la cuisine, les sols...
+
+##### Pierre d’argile
+
+- 125 g d'argile verte ou blanche
+- 90 g de savon noir
+- 90 g de bicarbonate de soude
+- 75 gouttes d'huile essentielle de tea tree
+
+- Mélangez l'argile et le bicarbonate dans un saladier
+- Mélangez avec le savon noir et enfin les huiles essentielles.
+- Transférez votre préparation dans une boîte qui ferme et tassez bien la préparation
+- Laissez sécher pendant plusieurs jours avant de refermer le couvercle
+- Quand vous en avez besoin, frottez directement votre éponge ou votre brosse sur la pierre pour prélever un peu de produit.
 
 ### Nettoyage
 
