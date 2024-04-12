@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T18:57:52.758Z
+date: 2024-04-12T18:58:39.719Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -26,12 +26,12 @@ dateCreated: 2024-03-08T13:06:28.273Z
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/acide-citrique-10-conseils-pour-utiliser-a-maison.html>
 
-#### Environement
+#### Polution
 
 - Biodégradable et non toxique.
 - Fongicide, bactéricide et anti-algues.
 
-#### Dangereusité
+#### Précautions
 
 - **NE CONVIENT PAS AUX SURFACES SENSIBLES À L'ACIDE !!!**
 	- Aluminium
@@ -59,7 +59,7 @@ dateCreated: 2024-03-08T13:06:28.273Z
 - Nettoyer les traces de rouille
 > Il suffit d'asperger l'objet rouillé d'acide citrique. Brosser, rincer et sécher.
 
-- Nettoyant multi surface (attention, voir les contres indications dans Dangereusité)
+- Nettoyant multi surface (attention, voir la partie précautions)
 	- Inox
   - Chrome
   - Plastique
