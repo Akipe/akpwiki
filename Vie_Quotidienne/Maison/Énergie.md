@@ -2,7 +2,7 @@
 title: Énergie
 description: 
 published: true
-date: 2024-04-12T20:22:40.682Z
+date: 2024-04-12T20:38:14.538Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-12T20:09:35.600Z
@@ -37,3 +37,20 @@ Il existes des bandes à coller ou à clouer, en mousse ou en thermoplastique. R
 > - Ne pas obstuez les grilles et les conduits
 > - Dépoussiérez réguliérement
 > - Nettoyer uniquement avec de l'eau chaude et du liquide vaisselle
+
+## Qualité de l'air
+
+### Astuces
+
+#### Purificateur d'air
+
+#### Plantes
+
+- Anthurium : Réputé pour assaininr l'air dans lequel sont présents des COV issus de produits ménagers.
+
+#### Retirer l'odeur de tabac
+
+- diffuer des huiles essentielles d'eucalyptus, de romarin ou de citron.
+- Utiliser un purificateur d’air.
+- Nettoyer les vitres et le sol.
+- bougies anti-tabac : certaines sont capables de détruire une partie des odeurs grâce à l'action d'une molécule qui se libère pendant la combustion de la bougie.
