@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T18:58:39.719Z
+date: 2024-04-12T19:16:29.324Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -13,6 +13,29 @@ dateCreated: 2024-03-08T13:06:28.273Z
 ## Les produits indispensable
 
 ### Vinaigre blanc
+
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/vinaigre-blanc-12-conseils-pour-utiliser-a-maison.html>
+
+Également appelé **vinaigre d'alcool** ou **vinaigre cristale**. 
+
+#### Pollution
+
+- Biodégradable et non toxique.
+- Sans danger pour les enfants.
+
+#### Précautions
+
+#### Cas d'utilisation
+
+Bonne alternative à l'eau de Javel.
+
+- nettoie et désinfecte
+- désodorise
+- assainit
+- élimine le calcaire
+- détache
+- assouplit le linge
+- protège naturellement le jardin des mauvaises herbes. 
 
 ### Alcool ménager
 
@@ -26,7 +49,7 @@ dateCreated: 2024-03-08T13:06:28.273Z
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/acide-citrique-10-conseils-pour-utiliser-a-maison.html>
 
-#### Polution
+#### Pollution
 
 - Biodégradable et non toxique.
 - Fongicide, bactéricide et anti-algues.
@@ -47,19 +70,19 @@ dateCreated: 2024-03-08T13:06:28.273Z
 
 #### Cas d'utilisation
 
-- Détartrant pour machine à café
+##### Détartrant pour machine à café
 > Diluer 2 cuillères à soupe d'acide citrique dans 1 litre d'eau froide. Mettre la machine en marche et laissez passer un peu de liquide avant de l'éteindre. Laissons agir pendant 30 minutes avant de la remettre en marche et laisser couler le reste du mélange. Une fois l'opération réussie, refaire fonctionner la cafetière à deux reprises avec de l'eau claire pour rincer le produit.
 
-- Détartrer la robinetterie
+##### Détartrer la robinetterie
 > Dissoudre 2 à 5 cuillères à soupe d'acide citrique dans 1 litre d'eau chaude. Frottez énergiquement les parties les plus entartrées. Laissez agir environ 30 minutes si le tartre est bien incrusté.
 
-- Retirer le calcaire dans les toilettes et la salle de bain
+##### Retirer le calcaire dans les toilettes et la salle de bain
 > Muni de gants de ménage, nettoyez à l'aide d'une éponge imbibée d'un mélange de 4 cuillères à soupe d'acide citrique à 1 litre d'eau chaude.
 
-- Nettoyer les traces de rouille
+##### Nettoyer les traces de rouille
 > Il suffit d'asperger l'objet rouillé d'acide citrique. Brosser, rincer et sécher.
 
-- Nettoyant multi surface (attention, voir la partie précautions)
+##### Nettoyant multi surface (attention, voir la partie précautions)
 	- Inox
   - Chrome
   - Plastique
@@ -67,11 +90,17 @@ dateCreated: 2024-03-08T13:06:28.273Z
   - Ustensiles de cuisine
 > Diluez 5 cuillères à soupe d'acide citrique dans 1 litre d'eau chaude. Frottez avant de rincer soigneusement à l'eau.
 
-- Nettoyrant des fonds d'ustensiles brûlés
+##### Nettoyrant des fonds d'ustensiles brûlés
 > Diluez 2 cuillères à soupe d'acide citrique dans l'eau claire et versez le tout dans votre casserole brûlée. Faites chauffer ce mélange naturel et portez-le à ébullition quelques minutes.  Une fois décollé, rincer abondamment.
 
-- Nettoyer les dépôts des tasses, théières ou vases
+##### Nettoyer les dépôts des tasses, théières ou vases
 > Versez 2 cuillères à soupe d'acide citrique dans le récipient. Recouvrez d'eau bouillante et laissez agir au moins 30 minutes.
+
+##### Assouplissant pour le linge
+> Ajoutez une cuillère à soupe de mélange d'Acide citrique, d'eau déminéralisée et des gouttes d'huiles essentielles directement dans le compartiment de la machine à laver.
+
+##### Blanchir ou redonner de l'éclat à du linge blanc jauni ou terne
+> Avant de lancer la machine à laver, ajouter une cuillère à soupe dans le tambour.
 
 ### Percarbonate de soude
 
