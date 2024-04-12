@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T21:09:16.632Z
+date: 2024-04-12T21:10:09.473Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -309,6 +309,10 @@ C'est un nettoyant multi-usages parfait pour les tables encrassées, le plan de 
 #### Crème à récurer
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/les-meilleures-recettes-de-creme-a-recurer-maison.html>
+
+#### Nettoyant sol
+
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/les-meilleures-recettes-de-nettoyant-sol-maison.html>
 
 ### Nettoyage
 
