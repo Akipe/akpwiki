@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T19:46:17.555Z
+date: 2024-04-12T19:52:11.612Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -37,6 +37,20 @@ dateCreated: 2024-03-08T13:06:28.273Z
 - Privilégier les gants de ménage
 
 #### Cas d'utilisation
+
+##### Nettoyant multi-usages
+
+Il remplace tous les produits d'entretien des grandes surfaces : vitres, réfrigérateurs, micro-ondes, pignées de porte...
+
+> Remplir un vaporisateur avec autant de vinaigre blanc que d'eau. Pulvériser sur les surfaces et laisser agir si besoin.
+
+##### Anticalcaire
+
+> Vaporisez sur les surfaces entartrées. Laissez agir une vingtaine de minutes et finaliser avec un chiffon.
+
+##### Protéger la machine à laver et le lave vaisselles
+
+> Ajouter 500 ml directement à l'intérieur de la machine. La faire tourner à vide en demi-charge en cycle normal.
 
 ##### Pour la cuisine
 
