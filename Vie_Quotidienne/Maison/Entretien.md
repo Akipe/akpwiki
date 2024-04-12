@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T19:19:28.541Z
+date: 2024-04-12T19:20:37.078Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -16,7 +16,7 @@ dateCreated: 2024-03-08T13:06:28.273Z
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/vinaigre-blanc-12-conseils-pour-utiliser-a-maison.html>
 
-Également appelé **vinaigre d'alcool** ou **vinaigre cristale**. 
+Également appelé **vinaigre d'alcool**, **vinaigre ménager** ou **vinaigre cristale**. 
 
 #### Pollution
 
