@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T19:20:37.078Z
+date: 2024-04-12T19:25:18.972Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -22,10 +22,19 @@ dateCreated: 2024-03-08T13:06:28.273Z
 
 - Biodégradable et non toxique.
 - Sans danger pour les enfants.
+- Puissant antibactérien : tue 99% des bactéries et 82% des moisissures. 
 
 #### Précautions
 
 #### Cas d'utilisation
+
+##### Pour la cuisine
+
+On privilégie les vinaigres avec un taux d'acidité entre 5% et 8%.  
+
+##### Nettoyer l'intérieur d'un réfrigirateur et chasser les mauvaises odeurs
+
+On utilisera du vinaigre vlanc de cuisie avec un taux d'acidité entre 5% et 8%.
 
 Bonne alternative à l'eau de Javel.
 
