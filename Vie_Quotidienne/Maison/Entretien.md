@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T18:50:22.604Z
+date: 2024-04-12T18:56:54.015Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -47,7 +47,8 @@ dateCreated: 2024-03-08T13:06:28.273Z
 
 #### Cas d'utilisation
 
-- Retirer le tartre (notamment produits ménagé comme la machine à café)
+- Détartrant pour machine à café
+> Diluer 2 cuillères à soupe d'acide citrique dans 1 litre d'eau froide. Mettre la machine en marche et laissez passer un peu de liquide avant de l'éteindre. Laissons agir pendant 30 minutes avant de la remettre en marche et laisser couler le reste du mélange. Une fois l'opération réussie, refaire fonctionner la cafetière à deux reprises avec de l'eau claire pour rincer le produit.
 
 - Détartrer la robinetterie
 > Dissoudre 2 à 5 cuillères à soupe d'acide citrique dans 1 litre d'eau chaude. Frottez énergiquement les parties les plus entartrées. Laissez agir environ 30 minutes si le tartre est bien incrusté.
