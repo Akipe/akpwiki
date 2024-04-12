@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T18:47:07.166Z
+date: 2024-04-12T18:50:22.604Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -48,7 +48,16 @@ dateCreated: 2024-03-08T13:06:28.273Z
 #### Cas d'utilisation
 
 - Retirer le tartre (notamment produits ménagé comme la machine à café)
+
+- Détartrer la robinetterie
+> Dissoudre 2 à 5 cuillères à soupe d'acide citrique dans 1 litre d'eau chaude. Frottez énergiquement les parties les plus entartrées. Laissez agir environ 30 minutes si le tartre est bien incrusté.
+
+- Retirer le calcaire dans les toilettes et la salle de bain
+> Muni de gants de ménage, nettoyez à l'aide d'une éponge imbibée d'un mélange de 4 cuillères à soupe d'acide citrique à 1 litre d'eau chaude.
+
 - Nettoyer les traces de rouille
+> Il suffit d'asperger l'objet rouillé d'acide citrique. Brosser, rincer et sécher.
+
 - Nettoyant multi surface (attention, voir les contres indications dans Dangereusité)
 	- Inox
   - Chrome
