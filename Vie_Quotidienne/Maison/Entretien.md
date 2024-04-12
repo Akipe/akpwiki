@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T20:56:32.928Z
+date: 2024-04-12T21:01:38.798Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -221,7 +221,12 @@ Borax en poudre
 ### Produit pour textile
 
 #### Assouplissant
+
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/assouplissant-maison-6-recettes-a-faire-soi-meme.html>
+
+#### Lessive
+
+<https://www.leroymerlin.fr/magazine/conseils-pratiques/les-meilleures-recettes-de-lessive-maison.html>
 
 ### Produit de nettoyage
 
