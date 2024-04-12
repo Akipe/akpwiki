@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T19:57:44.942Z
+date: 2024-04-12T19:59:37.658Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -70,6 +70,10 @@ Ne pollue pas le sol.
 
 > Empécher la tache de s'incruster en épongeant le liquide avec du papier absorbant. Verser de l'eau tiède sur la tache puis tamponner la zone avec un linge imbibé de vinaigre blanc.
 
+##### Déboucher un évier
+
+> Verser du bicarbonate de soude avec du vinaigre blanc directement dans le tuyaux et patientez.
+
 ##### Pour la cuisine
 
 On privilégie les vinaigres avec un taux d'acidité entre 5% et 8%.  
@@ -79,14 +83,6 @@ On privilégie les vinaigres avec un taux d'acidité entre 5% et 8%.
 On utilisera du vinaigre vlanc de cuisie avec un taux d'acidité entre 5% et 8%.
 
 Bonne alternative à l'eau de Javel.
-
-- nettoie et désinfecte
-- désodorise
-- assainit
-- élimine le calcaire
-- détache
-- assouplit le linge
-- protège naturellement le jardin des mauvaises herbes. 
 
 ### Alcool ménager
 
