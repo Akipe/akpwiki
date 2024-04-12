@@ -2,7 +2,7 @@
 title: Énergie
 description: 
 published: true
-date: 2024-04-12T20:17:33.853Z
+date: 2024-04-12T20:22:40.682Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-12T20:09:35.600Z
@@ -24,3 +24,16 @@ Il existes des bandes à coller ou à clouer, en mousse ou en thermoplastique. R
 - Pose des rideaux épais (thermiques) devant les fenêtes et la porte d'entrée.
 - Pose de base de porte, à visser ou à glisser, ou des boudins de sol. Poser également une barre de seuil pour combler l'espace vide entre deux surfaces de sol.
 - Vérifier les fuites d'airs au niveau des prises de courants
+
+## Humidité
+
+### Astuces
+
+#### Limiter l'humidité
+
+> Aérer au moins 5 à 0 minutes par jour les pièces de la maison.
+
+> Entrerenez la ventilation :
+> - Ne pas obstuez les grilles et les conduits
+> - Dépoussiérez réguliérement
+> - Nettoyer uniquement avec de l'eau chaude et du liquide vaisselle
