@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-03-08T13:35:08.763Z
+date: 2024-04-12T18:35:58.750Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -11,6 +11,36 @@ dateCreated: 2024-03-08T13:06:28.273Z
 # Entretien
 
 ## Les produits indispensable
+
+### Vinaigre blanc
+
+### Alcool ménager
+
+### Bicarbonate de soude
+
+### Savon de Marseille
+
+### Savon noire
+
+### Acide citrique
+
+### Percarbonate de soude
+
+### Cristaux de soude
+
+### Blanc de meudon
+
+### Terre de sommière
+
+### Sel d'oseille
+
+### Acide borique
+
+Borax en poudre
+
+### Terre de diatomée
+
+
 
 - Vinaigre blanc
 - Vinaigre d'alcool ménager
@@ -33,10 +63,43 @@ dateCreated: 2024-03-08T13:06:28.273Z
   
 - <https://www.leroymerlin.fr/produits/droguerie/faire-ses-produits-menagers/produit-menager-a-faire-soi-meme/>
   
-## Catégories
+## Guides
 
 ### Maison
 
 #### Parquet
 
 - <https://www.leroymerlin.fr/comment-choisir/comment-choisir-ses-produits-entretien-du-parquet.html>
+
+##### Comment reconnaitre le type de parquet ?
+
+<https://www.guichetdusavoir.org/question/voir/37379>
+
+Reconnaître la finition d'un parquet est une question que se pose beaucoup de monde, et très répandue sur le web.
+
+Tout d'abord, il est nécessaire de distinguer techniquement les différents produits qui peuvent être utilisés pour protéger les parquets :
+- vernis et vitrificateur recouvrent le bois d'une couche dure, transparente et imperméable. Le vitrificateur, plus courant, est plus résistant que le vernis.
+- huile et cire imprègnent le bois, en le laissant "respirer". L'huile est hydrofuge, la cire laisse passer l'eau.
+
+Pour essayer d'identifier ce qui concerne votre parquet, il faut commencer par le regarder de près. S'il est particulièrement brillant et lisse, que la surface est très dure, c'est qu'il est vernis ou vitrifié. Si le parquet est peu brillant, plutôt lustré, et qu'on peut sentir sa texture, mais aussi une certaine douceur, il n'est donc pas recouvert de vernis, mais huilé ou ciré. Cette différence visuelle prend de l'ampleur avec le temps, les cires et huiles pouvant ternir, vieillir, alors que le vernis reste brillant, mais prend des rayures. Comme vous nous dites que votre parquet est récent, ce n'est sans doute pas encore visible. De plus on peut dire que les parquets anciens étaient plus souvent cirés ou huilés auparavant, mais que la modernité a fait pencher la balance en faveur des vernis et vitrificateurs.
+
+Cependant, la distinction visuelle des parquets neufs s'estompe aujourd'hui, avec l'évolution des produits. Il existe en effet des vernis peu brillants, voire satinés, qui gardent un aspect plus naturel au bois. Là c'est plus difficile à reconnaître. De plus, comme l'explique la société Axol, "de nouvelles huiles, souvent teintées ont fait leur apparition sur le marché, mais bien que vendues sous l'appellation huile, ce sont en réalité des vitrificateurs maigres qui ne demandent que peu d'entretien. [...] L'aspect esthétique de la vitrification varie selon le gloss et la teinte. Des sous-couches techniques et des teintes peuvent rendre votre bois vieilli, patiné, aspect huilé, aspect ciré. Il est ainsi parfois difficile de distinguer la différence entre un huilage et une vitrification mate !!!"
+
+Si votre propriétaire ne peut vraiment pas vous informer, il faut donc passer aux tests physiques, comme ceux que nous avons trouvés sur divers forums.
+- Chiffon
+Si votre parquet est ciré, il devient plus brillant au fur et à mesure que vous le frottez avec un chiffon. (source : Yahoo)
+- Eau
+Verser une goutte d'eau par terre. Si elle reste en surface, c'est vitrifié. Si ça pénètre, et change la couleur du bois, c'est ciré ou huilé. (source : supertoinette)
+- Papier de verre
+Prendre du papier de verre (grain fin) et poncer légèrement, à la main. Si on obtient de la poudre : parquet verni ou vitrifié. Si le papier de verre s'encrasse : parquet huilé ou ciré. (source : Leroy Merlin, comprendre choisir)
+- Térébenthine
+Imbiber un chiffon d'un peu d'alcool ou de térébentine, et frotter le parquet. Si le mouchoir se colore (autre que poussière) et que le sol s'éclaircit c'est de la cire ! Si le sol ne s'éclaircit pas c'est probablement huilé et si rien ne bouge, c'est vitrifié.
+(Sources : bois.com, cyber bricoleur)
+
+Question entretien des parquets, voici ce qu'en dit le guide Larousse "Votre maison : tout pour bien vivre chez soi", p. 300 :
+- Parquet ciré : à condition d'éviter les taches, il consiste à l'encaustiquer de temps en temps avec une bonne cire d'abeille... Respecter le sens du bois... Ne jamais appliquer en excès. Les encaustiques à base de silicone protègent mieux des taches.
+- Parquet vitrifié : entretien des plus simples. Tous les 3 mois environ, lavez-le avec une serpillière trempée dans de l'eau additionnée d'un détergent doux multiusages. Laisser sécher. Pour conserver le brillant, appliquer sans frotter une fine couche d'un produit spécifique. Attention : ne jamais cirer un parquet vitrifié.
+
+On peut aussi consulter à ce sujet le site : Tout pratique.
+
+Des sites professionnels comme Décoplus, Le chêne Ebénisterie, Terre & bois vous apporteront des informations complémentaires plus techniques sur les spécificités des ces différents traitement du bois et les traitements correspondants. 
