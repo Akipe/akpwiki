@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T10:59:18.246Z
+date: 2024-04-13T11:00:51.138Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -188,6 +188,14 @@ Le bicarbonate technique est très utile pour lutter contre le tartre et nettoye
 ##### Déboucher les canalisations obstruées
 
 > Verser le bicarbonate dans la canalisation avec un peu de vinaigre blanc. Laissez agir pendant un quart d'heure puis rincez à l'eau bouillante. Répétez l'opération autant de fois que nécessaire.
+
+##### Nettoyant pour le four et les plaques de cuisson
+
+> Appliquez une pâte confectionnée à partir de bicarbonate et d'eau puis laissez agir le mélange sur la surface. Rincez après quelques minutes.
+
+##### Adoucissant pour linge
+
+> Placez l'équivalent d'un verre de poudre dans le tambour de la machine.
 
 ### Savon de Marseille
 
