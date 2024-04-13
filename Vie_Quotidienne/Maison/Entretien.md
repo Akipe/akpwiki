@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T15:29:27.507Z
+date: 2024-04-13T15:30:54.859Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -693,11 +693,9 @@ Sur de nombreuses surfaces comme :
 
 > Placez la poudre sur les taches, laissez agir et brossez. Dernière étape : aspirez les résidus. 
 
-##### Réaliser un détachant
+##### Nettoyer et entretenir le mobilier en marbre
 
-Il servira à enlever les taches difficiles après plusieurs heures de bricolage ou de mécanique. Il servira aussi à détacher le linge avant de le passer en machine ou encore à nettoyer les sols
-
-> Additionnez 5 cuillères à soupe de terre de Sommières, 1 cuillère à soupe de savon de Marseille en paillettes et un peu d'eau chaude. Mélangez le tout dans un récipient pour former une pâte compacte et lisse. Placez la pâte dans un bocal ou une bassine et laissez sécher à l'air libre. La pâte se solidifie et devient un joli morceau de savon. Avant utilisation, pensons à effectuer un essai en traitant une partie peu visible de la surface à détacher.
+> Saupoudrez sur l'espace à nettoyer et laissez agir au minimum 3 heures. En cas de tache récalcitrante, mélangeons la poudre avec de l'essence de térébenthine pour en faire une pâte que l'on applique sur la zone. Après une nuit d'attente, nettoyez avec un chiffon propre.
 
 ### Sel d'oseille
 
@@ -826,6 +824,12 @@ C'est un nettoyant multi-usages parfait pour les tables encrassées, le plan de 
 #### Degraissant
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/les-meilleures-recettes-de-degraissant-naturel.html>
+
+#### Réaliser un détachant
+
+Il servira à enlever les taches difficiles après plusieurs heures de bricolage ou de mécanique. Il servira aussi à détacher le linge avant de le passer en machine ou encore à nettoyer les sols
+
+> Additionnez 5 cuillères à soupe de terre de Sommières, 1 cuillère à soupe de savon de Marseille en paillettes et un peu d'eau chaude. Mélangez le tout dans un récipient pour former une pâte compacte et lisse. Placez la pâte dans un bocal ou une bassine et laissez sécher à l'air libre. La pâte se solidifie et devient un joli morceau de savon. Avant utilisation, pensons à effectuer un essai en traitant une partie peu visible de la surface à détacher.
 
 ### Guide de nettoyage
 
