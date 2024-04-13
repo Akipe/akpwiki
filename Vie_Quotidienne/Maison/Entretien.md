@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T14:03:40.580Z
+date: 2024-04-13T14:04:35.976Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -471,7 +471,7 @@ Liste de surfaces compatibles :
 
 #### Pollution
 
-- Dangereux : il peut être irritant pour la peau.
+- Dangereux : ne pas inhaler, éviter le contact avec les yeux, ne pas appliquer sur la peau.
 - inoffensif pour l’environnement
 - nettoie
 - désinfecte
