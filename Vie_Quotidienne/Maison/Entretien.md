@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T11:06:21.384Z
+date: 2024-04-13T11:23:26.734Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -117,11 +117,80 @@ Bonne alternative à l'eau de Javel.
 
 ### Alcool ménager
 
+Il est basé sur de l'alcool à bruler qui a été dénaturé. Il est compé de 75% d'alcool à bruler, d'éthanol, de méthanol et d'un désinctant.
+
 #### Pollution
 
 #### Précautions
 
+- Moins dangereux que la plupart des autres produits puissants utilisables en intérieur, il est possible de l’utiliser sans masque, mais le port de gants de protection reste recommandé.
+- Utilisez-le toujours dans une pièce ventilée.
+- Équiper de gants de protection pour le manipuler.
+- Mettre toujours à distance du feu ou de la chaleur, car il est inflammable.
+- Ne JAMAIS diluez de l'eau de javel avec de l’alcool ménager.
+
 #### Cas d'utilisation
+
+##### Nettoyage
+
+Plastiques, carrelages, lino, faïences, miroirs, inox, stores… il est utilisable sur presque tout.
+
+> Appliquer pur ou dilué dans de l’eau sur vos surfaces à nettoyer à l’aide d’une éponge ou d’un chiffon propre. Rincer à l’eau claire les surfaces et objets qui peuvent être portés à la bouche des enfants ou léchés par des animaux.
+
+##### Désinfecter
+
+> Imbibez une éponge ou un chiffon propres d’alcool ménager pur ou dilué dans un peu d’eau et nettoyez les surfaces à désinfecter.
+
+##### Faire briller
+
+fait briller de nombreux objets et surfaces :
+- bijoux
+- objets en métal
+- plaque vitrocéramique
+- plans de travail
+- éviers en inox
+- éliminer les traces de calcaire
+
+> Appliquez l’alcool ménager à l’aide d’un chiffon propre que vous aurez imbibé et essoré.
+
+> Pour les surfaces et objets très sales ou rouillés, laissez-les tremper dans une bassine remplie d’alcool ménager et laissez agir toute une nuit. Terminez par un séchage à l’aide d’un chiffon propre le lendemain. Cette solution est notamment très efficace et sans danger sur les bijoux.
+
+##### Dégraisser
+
+L’alcool ménager est très utile pour dégraisser les surfaces, notamment les vitres et miroirs. Il élimine tous les dépôts graisseux et poussiéreux sans laisser aucune trace.
+
+> Verser de l’alcool ménager dans un récipient de type bassin. Laissez à l’air libre pendant une dizaine de minutes et formez des boules avec du papier journal. Imbibez le journal d’alcool ménager sur sa moitié et frottez les surfaces en faisant des mouvements circulaires. Laissez sécher et terminez par un lustrage avec un chiffon microfibres propre si nécessaire.
+
+##### Détacher
+
+L’alcool ménager détache les surfaces et les tissus, même fragiles, sans difficulté.
+
+Il est efficace contre les taches de :
+- chocolat
+- peinture
+- vin
+- graisse
+- cire
+- colle
+- encre
+- chewing-gum
+- légumes
+- plantes
+- maquillage
+- et bien d’autres encore
+
+> Imbibez un chiffon propre de produit pur, tamponnez la zone tachée, rincez puis passez le textile en machine.
+
+##### Éliminer les mauvaises odeurs
+
+Retire les mauvaises odeurs comme celles des chaussures, d’urine de chat et d'autres.
+
+> Frottez les surfaces malodorantes et les textiles empreints de mauvaises odeurs avec un chiffon imprégné d’alcool ménager.
+
+##### Dégivrer
+
+> Versez de l’alcool ménager sur le pare-brise, les vitres et les portières.
+> Il est possible d'agir en prévention en en versant le soir avant le gel.
 
 ### Bicarbonate de soude
 
