@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T12:27:21.280Z
+date: 2024-04-13T12:37:46.027Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -350,16 +350,57 @@ Il nettoie, nourrit et prolonge la durée de vie du cuir.
 
 > Préparez dans un récipient adapté un mélange de pâte de savon de Marseille avec un peu d'eau. Vaporisez la solution sur les feuilles, plantes et jardinières.
 
-
 ### Savon noire
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/savon-noir-12-conseils-pour-utiliser-a-maison.html>
 
+Également appelé "savon Beldi" ou "savon mou" et existe sous la forme d'un liquide ou de pâte à diluer selon les usages.
+
 #### Pollution
+
+- fongicide
 
 #### Précautions
 
+- Il existe deux types de savon noir:
+	- Le savon noir ménager est idéal pour entretenir la maison.
+  - Le savon noir cosmétique dont ses bienfaits pour le corps sont nombreux.
+
 #### Cas d'utilisation
+
+##### Nettoyant ménager multi-usages
+
+> S'équiper d'une éponge humide et y déposer un peu de produit. Pour dégraisser certaines surfaces, il est préférable de laver puis rincer à l'eau chaude.
+
+##### Produit d'entretien pour sols, carrelages et parquets
+
+> Versez un bouchon de savon noir liquide ou 2 cuillères à soupe dans un seau d'eau chaude de 5 litres. Nettoyez, puis laissez sécher sans rincer.
+
+##### Détachant textile
+
+> Étaler un peu de savon noir liquide sur la zone impactée à l'envers et l'endroit. On frictionne délicatement le tissu et on le place en machine.
+
+##### Dégraissant
+
+Pour plans de travail, plaques de cuisson, hottes, poêles, casseroles, friteuses...
+
+> En mettre directement sur une éponge humide.
+
+##### Entretenir de fauteuils en cuir
+
+> Déposez sur un chiffon microfibre un peu de matière puis frottez et rincez à l'eau tiède.
+
+##### Répulsif naturel pour plantes contre pucerons et insectes
+
+> Dans un pulvérisateur, diluez une cuillère à soupe de savon noir mou dans un litre d'eau chaude. Secouez vivement pour bien mélanger. Répandons la préparation directement sur les plantes à traiter. 
+
+##### Lustrer l'argenterie et les cuivres
+
+> Mélanger 3 à 4 cuillères à soupe de savon noir dans de l'eau tiède avant de laisser tremper 5 minutes, puis essuyer au chiffon microfibre.
+
+##### Nettoyant pour le bricolage et les travaux
+
+Il sert à entretenir les pinceaux, enlever les taches de peinture sur les tissus et même à lessiver les murs peints.
 
 ### Acide citrique
 
