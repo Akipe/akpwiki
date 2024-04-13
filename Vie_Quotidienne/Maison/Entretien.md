@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T15:04:45.953Z
+date: 2024-04-13T15:08:15.161Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -600,11 +600,26 @@ Les cristaux de soude sont beaucoup plus corrosifs et plus efficaces contre la s
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/blanc-de-meudon-10-conseils-pour-utiliser-a-maison.html>
 <https://jardinage.lemonde.fr/dossier-3297-utilisations-blanc-meudon-maison.html>
 
+Également appelé le **blanc de Meudon blanc d'Espagne**.
+
 #### Pollution
+
+- biodégradable
+- ne présente pas de danger pour les enfants
 
 #### Précautions
 
 #### Cas d'utilisation
+
+##### Lustrer son argenterie et ses métaux
+
+> Réaliser une pâte crayeuse en diluant le blanc de Meudon avec un peu d'eau, puis de déposer un peu de matière sur une brosse et de frotter la surface. Laissons sécher avant d'essuyer avec une peau de chamois ou un chiffon microfibre.
+
+##### Comment enlever les rayures avec le blanc de Meudon
+
+Permet d'enlever les rayures d'un meuble en métal.
+
+> À l'aide d'un chiffon en microfibre imbibé de produit, frottez délicatement la rayure en effectuant des gestes circulaires pendant quelques minutes.
 
 ### Terre de sommière
 
