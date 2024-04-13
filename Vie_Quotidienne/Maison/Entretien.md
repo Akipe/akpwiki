@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T14:04:35.976Z
+date: 2024-04-13T14:08:24.443Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -469,6 +469,8 @@ Liste de surfaces compatibles :
 
 Également appelé **eau oxygénée solide**, le percarbonate de sodium de formule 2Na2CO3. 3H2O2 est fabriqué à base de carbonate de sodium (cristaux de soude) additionné de peroxyde d’hydrogène (appelé eau oxygénée).
 
+Lorsqu'il est en contact avec l'eau chaude (au moins 40 degrés), le percarbonate de soude se dissout et libère de l'oxygène actif, ce qui en fait un agent de blanchiment, de nettoyage et de désinfection efficace.
+
 #### Pollution
 
 - Dangereux : ne pas inhaler, éviter le contact avec les yeux, ne pas appliquer sur la peau.
@@ -507,7 +509,10 @@ Liste de surfaces compatibles :
 
 ##### Nettoie les toilettes
 
-> Diluez 2 cuillères à soupe de percarbonate de soude dans 1 litre d’eau chaude (mais pas bouillante) et versez ce mélange dans la cuvette des toilettes. Laissez agir 15 minutes, puis frottez.
+> Diluez 2 cuillères à soupe de percarbonate de soude dans 1 litre d’eau chaude (mais pas bouillante) et versez ce mélange dans la cuvette des toilettes. Laissez agir 30 minutes, puis frottez.
+
+> Pour un nettoyage complet : Dans un bol ou un seau, mélangez environ 2 à 3 cuillères à soupe de percarbonate de soude avec de l'eau très chaude pour créer une pâte. Vous pouvez ajouter quelques gouttes d'huile essentielle (citron, eucalyptus) pour un parfum frais. Ne touchez pas cette pâte sans gants. Appliquez la pâte de percarbonate de soude sur les parois de la cuvette des toilettes, en insistant sur les zones tachées ou les dépôts calcaires. Laissez la pâte agir 30 minutes. Ensuite, frottez la cuvette et les parois. Veillez à bien rincer la cuvette après utilisation pour éliminer tout résidu de percarbonate de soude.
+
 
 ##### Entretenir les canalisations
 
