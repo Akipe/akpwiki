@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T11:23:26.734Z
+date: 2024-04-13T11:31:40.330Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -128,6 +128,7 @@ Il est basé sur de l'alcool à bruler qui a été dénaturé. Il est compé de 
 - Équiper de gants de protection pour le manipuler.
 - Mettre toujours à distance du feu ou de la chaleur, car il est inflammable.
 - Ne JAMAIS diluez de l'eau de javel avec de l’alcool ménager.
+- Prenez soin de bien refermer le bouchon pour éviter que le produit ne s'évapore.
 
 #### Cas d'utilisation
 
@@ -137,9 +138,15 @@ Plastiques, carrelages, lino, faïences, miroirs, inox, stores… il est utilisa
 
 > Appliquer pur ou dilué dans de l’eau sur vos surfaces à nettoyer à l’aide d’une éponge ou d’un chiffon propre. Rincer à l’eau claire les surfaces et objets qui peuvent être portés à la bouche des enfants ou léchés par des animaux.
 
+##### Nettoyer vitres et miroirs
+
+> Imbibez une feuille de papier journal roulée en boule avec de l'alcool ménager et procédez au nettoyage des vitres. 
+
 ##### Désinfecter
 
 > Imbibez une éponge ou un chiffon propres d’alcool ménager pur ou dilué dans un peu d’eau et nettoyez les surfaces à désinfecter.
+
+> Vaporisez un mélange d'alcool et d'eau additionné de quelques gouttes d'huile essentielle.
 
 ##### Faire briller
 
@@ -583,3 +590,31 @@ Verser quelques cuillères de bicarbonate de soude à l'entrée de la canalisati
 ##### Recette plus costaut
 
 Comme la recette du dessus mais remplacer bicarbonate de soude par du percarbonate qui a un fort pouvoir décrassant.
+
+## Animaux
+
+### Cafart
+
+### Punaises de lit
+
+#### Poudres odorantes
+
+##### Terre de diatomée
+
+Asphyxie les punaises de lit. Une fois inhalée par les punaises, cette poudre perturbe leur système respiratoire et les asphyxie immédiatement.
+
+> Verser légèrement la terre de diatomée en saupoudrant sur les zones concernées: les montants du lit, le matelas, les oreillers et les sommiers.
+
+##### Poudre de café
+
+Les punaises de lit ont horreur de l’odeur du café.
+
+> Saupoudrer le café sur tous les coins et recoins infectés.
+
+> Associez quelques fèves de café avec de l’eau que vous laisserez reposer pendant 24 heures au moins. Il faudra ensuite pulvériser ce liquide sur les zones concernées et patienter que les punaises l’inhalent.
+
+##### Bicarbonate de soude
+
+Élimine les punaises de lit. Contrairement à l’organisme des êtres humains, celui des punaises ne supporte pas le bicarbonate, le moindre contact avec ce produit les étouffe.
+
+> Remplissez un pulvérisateur avec une cuillère à soupe de bicarbonate que vous associez avec de l’eau, puis agitez énergiquement ce mélange et vaporisez sur l’ensemble de votre literie.
