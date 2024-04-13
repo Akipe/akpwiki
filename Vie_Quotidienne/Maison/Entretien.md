@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T11:00:51.138Z
+date: 2024-04-13T11:06:09.326Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -134,6 +134,7 @@ Bonne alternative à l'eau de Javel.
 - Non toxique : ne représente aucun danger pour l'environement et la santé.
 - Biodégradable
 - Non allergène
+- Fongicide
 
 #### Précautions
 
@@ -144,6 +145,14 @@ Bonne alternative à l'eau de Javel.
 - ! N'est PAS du cristaux de soude
 
 #### Cas d'utilisation
+
+##### En nourriture et sur la peau
+
+**!!! Utiliser le bicarbonate de soude alimentaire !!!**
+
+- Aide pour les problèmes de digestion et l'acidité gastrique.
+- Combat la plaque dentaire : utilisable en bain de bouche ou en dentifrice classique (il possède également un agent de blanchiment).
+- Utilisable pour remplacer les shampoings secs.
 
 ##### Poudre à récurer
 
@@ -196,6 +205,14 @@ Le bicarbonate technique est très utile pour lutter contre le tartre et nettoye
 ##### Adoucissant pour linge
 
 > Placez l'équivalent d'un verre de poudre dans le tambour de la machine.
+
+##### Nettoyer le fer à repasser
+
+> Sur un fer froid et hors fonctionnement, saupoudrer un peu de bicarbonate puis frottez doucement avec un chiffon légèrement humide. Une pâte se formera et nettoiera en profondeur sans pour autant abîmer le fer à repasser.
+
+##### Stabilisant de pH pour la piscine
+
+C'est un stabiliseur naturellement le pH de l'eau de la piscine. Il empêche également les algues de s'installer et de proliférer sans avoir recours à un seul produit chimique.
 
 ### Savon de Marseille
 
