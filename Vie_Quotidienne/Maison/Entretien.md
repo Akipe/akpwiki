@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T10:45:38.264Z
+date: 2024-04-13T10:50:41.055Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -16,6 +16,7 @@ dateCreated: 2024-03-08T13:06:28.273Z
 - <https://media.adeo.com/media/1769009>
 - <https://media.adeo.com/media/1648675/format/pdf>
 
+Lieux pour en acheter :
 - <https://www.leroymerlin.fr/produits/droguerie/faire-ses-produits-menagers/produit-menager-a-faire-soi-meme/>
 
 ### Vinaigre blanc
@@ -126,9 +127,21 @@ Bonne alternative à l'eau de Javel.
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/bicarbonate-de-soude-12-conseils-pour-utiliser-a-maison.html>
 
+Également appelé **bicarbonate de sodium**, **carbonate monosodique**, **Sel de Vichy** ou **baking soda**.
+
 #### Pollution
 
+- Non toxique : ne représente aucun danger pour l'environement et la santé.
+- Biodégradable
+- Non allergène
+
 #### Précautions
+
+- Différence entre bicarbonate de soude alimentaire et technique :
+	- Alimentaire : comestible
+  - Technique : non comestible
+- ! N'est PAS de **la soude caustique** ou **carbonate de soude** (**hydroxyde de sodium**) qui sont eux bien plus toxique et corrosif.
+- ! N'est PAS du cristaux de soude
 
 #### Cas d'utilisation
 
