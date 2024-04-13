@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T12:42:50.385Z
+date: 2024-04-13T14:03:40.580Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -467,11 +467,67 @@ Liste de surfaces compatibles :
 
 ### Percarbonate de soude
 
+Également appelé **eau oxygénée solide**, le percarbonate de sodium de formule 2Na2CO3. 3H2O2 est fabriqué à base de carbonate de sodium (cristaux de soude) additionné de peroxyde d’hydrogène (appelé eau oxygénée).
+
 #### Pollution
+
+- Dangereux : il peut être irritant pour la peau.
+- inoffensif pour l’environnement
+- nettoie
+- désinfecte
+- désodorise
 
 #### Précautions
 
+- Il ne faut **surtout pas** confondre le percarbonate de sodium et le bicarbonate de soude :
+	-	le bicarbonate est une sorte de sel qui s’utilise pour l'entretien de la maison, la cuisine et même en beauté
+  - le percarbonate de soude c’est de l’eau oxygénée solide qu'on utilise essentiellement pour le linge.
+- Mettre des gants lors de son utilisation
+- Ne l’appliquez pas non plus sur des surfaces cirées ou peintes ou encore de l’aluminium.
+
 #### Cas d'utilisation
+
+##### Blanchir le linge
+
+> Mélangez 2 cuillères à soupe de percarbonate de soude ou de sodium dans une bassine d’eau chaude (pas bouillante), faites tremper le linge au moins 1 heure avant de le laver en machine.
+
+> Pour l’entretien du blanc au quotidien, vous pouvez mettre 1 à 2 cuillères à soupe de percarbonate de soude dans la machine.
+
+##### Détacher les tapis et les moquettes
+
+> Diluez 1 cuillère à soupe dans 2 litre d’eau chaude et frottez la tache avec une éponge
+
+##### Redonner vie aux éponges
+
+> Faites tremper vos éponges usagées dans 1 litre d’eau chaude avec 1/2 cuillère de percarbonate de soude. Laissez tremper les éponges une nuit et rincez.
+
+##### Nettoyer les joints de la salle de bain
+
+> Diluez 1 cuillère à soupe dans 75 cl d’eau chaude et versez cette préparation dans un flacon à spray. Pulvérisez sur vos joints de salle de bain légèrement noircis. Laissez agir et frottez les joints avec une brosse à dents. Rincez.
+
+##### Nettoie les toilettes
+
+> Diluez 2 cuillères à soupe de percarbonate de soude dans 1 litre d’eau chaude (mais pas bouillante) et versez ce mélange dans la cuvette des toilettes. Laissez agir 15 minutes, puis frottez.
+
+##### Entretenir les canalisations
+
+> Mélangez 2 cuillères à soupe à ¼ de litre d’eau chaude, versez dans l’évier ou le lavabo. Laissez agir toute la nuit.
+
+##### Enlèver les moisissures
+
+> Diluez 1 cuillère à soupe dans 3 litres d’eau chaude, appliquez sur la surface avec une brosse ou une éponge et laissez sécher.
+
+##### Blanchir votre salon de jardin
+
+> Diluez 2 cuillères à soupe dans 3 litres d’eau chaude. Frottez les meubles en plastique avec une éponge. Laissez agir quelques minutes puis rincez.
+
+##### Nettoyer le bac à litière du chat
+
+> Faites tremper le bac rempli d’eau chaude avec 4 cuillères à soupe de percarbonate de soude pendant 30 min, frottez puis rincez.
+
+##### Dégriser les terrasses en bois
+
+> Pour détacher une terrasse en bois ou un sol extérieur, brossez-le avec un mélange d’eau chaude avec un peu de percarbonate de soude, laissez agir et rincez abondamment.
 
 ### Cristaux de soude
 
