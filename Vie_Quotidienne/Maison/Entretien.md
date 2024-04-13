@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T11:34:34.134Z
+date: 2024-04-13T11:46:37.585Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -198,6 +198,10 @@ Retire les mauvaises odeurs comme celles des chaussures, d’urine de chat et d'
 
 > Versez de l’alcool ménager sur le pare-brise, les vitres et les portières.
 > Il est possible d'agir en prévention en en versant le soir avant le gel.
+
+##### Traces de marqueur
+
+Il est possible de les effacer ou du moins de les rendre moins persistantes grâce à l’alcool ménager.
 
 ### Bicarbonate de soude
 
@@ -597,6 +601,13 @@ Comme la recette du dessus mais remplacer bicarbonate de soude par du percarbona
 
 ### Punaises de lit
 
+Pesticide contre les punaises :
+
+
+#### Vétements
+
+Si vous n’êtes pas en mesure de sécher vos effets personnels à haute température, placez-les dans des sacs à ordures solides, attachez-les et placez-les à un endroit où il fera probablement très chaud pendant de longues périodes, par exemple dans une voiture en été. 
+
 #### Terre de diatomée
 
 Asphyxie les punaises de lit. Une fois inhalée par les punaises, cette poudre perturbe leur système respiratoire et les asphyxie immédiatement.
@@ -619,6 +630,12 @@ Les punaises de lit ont horreur de l’odeur du café.
 
 #### Alcool isopropylique
 
-Il a une forte teneur en acide que ces insectes ne supportent pas.
+Il a une forte teneur en acide que ces insectes ne supportent pas. L’alcool ne tue qu’au contact.
+
+**A éviter d'utiliser : faire appel à un professionnelle.**
 
 > Verser dans un pulvérisateur et asperger les draps, les oreillers et le matelas. Veillez ensuite à aérer la pièce infectée pour y éliminer l'odeur. Réitérer cette opération une fois par semaine.
+
+#### Intercepteurs de punaises de lit
+
+> Placez des intercepteurs de punaises de lit sur les jambes de votre lit pour empêcher les punaises de lit de grimper.
