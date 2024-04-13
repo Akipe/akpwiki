@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T14:56:16.936Z
+date: 2024-04-13T15:04:45.953Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -555,6 +555,7 @@ Les cristaux de soude sont beaucoup plus corrosifs et plus efficaces contre la s
 	- parquets en bois
   - aux meubles cirés
   - à l’aluminium
+- Corrosifs, les cristaux de soude peuvent provoquer des irritations de la peau, ils sont donc à manipuler avec précaution. Il est d’ailleurs fortement conseillé de prévoir le port de gants en caoutchouc lors de leur utilisation. 
 
 #### Cas d'utilisation
 
@@ -572,9 +573,27 @@ Les cristaux de soude sont beaucoup plus corrosifs et plus efficaces contre la s
 
 > Ajoutez simplement 2 à 3 cuillères à soupe de cristaux de soude dans de l’eau bouillante. Versez la solution dans les canalisations. Laissez agir au minimum 1h avant de bien rincer. Renouvelez l’opération si nécessaire en laissant agir un peu plus longtemps.
 
-##### Décoller le papier peint
+##### Antitartre
 
-##### Lessiver les murs avant de peindre
+> Dans 3 litres d'eau chaude, versez l'équivalent d'une tasse de cristaux de soude. Mélangez bien avant d'appliquer la solution sur les surfaces sales. On rince pour peaufiner le travail.
+
+##### Nettoyant naturel pour les grilles et barbecues encrassés
+
+> Préparez une pâte en mélangeant les cristaux de soude à de l’eau chaude. Il suffit ensuite de l’appliquer sur la grille. Frottez avec une brosse et laissez agir toute la nuit si besoin. Le lendemain, rincez la grille avec une éponge ou un chiffon humide.
+
+> Sinon, faites la tremper directement dans une bassine d’eau chaude avec ½ tasse de cristaux de soude.
+
+##### Enlever le papier peint et la peinture des murs ou lessiver avant de peindre
+
+> Versez en 2 à 3 cuillères à soupe dans un seau d’eau chaude. Appliquez sur les murs avec une éponge. Quelques minutes suffiront à décoller plus facilement le papier peint. La technique est aussi valable pour décaper les peintures à huile.
+
+##### Nettoyer le carrelage ou les sols de la terrasse du jardin
+
+> Pour nettoyer vos sols, versez en 2 cuillères à soupe dans 1 litre d’eau chaude. On lave la surface comme d’habitude avec un balai-brosse.
+
+##### Enlever une tache sur les surfaces bétonnées
+
+> Créer une petite pâte avec des cristaux de soude et de l’eau. Sur les surfaces spécifiques comme le béton, on vient frotter avec une brosse à poils durs la zone concernée. Laissez agir plusieurs heures avant de rincer.
 
 ### Blanc de meudon
 
