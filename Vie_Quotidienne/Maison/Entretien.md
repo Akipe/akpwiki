@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T10:50:41.055Z
+date: 2024-04-13T10:52:10.123Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -144,6 +144,14 @@ Bonne alternative à l'eau de Javel.
 - ! N'est PAS du cristaux de soude
 
 #### Cas d'utilisation
+
+##### Poudre à récurer
+
+> Mélangez 5 cuillères à soupe de bicarbonate de soude dans un peu d'eau chaude pour former une pâte. Appliquer à l'éponge et frotter. Laissez agir si la surface est très sale avant de rincer. 
+
+##### Nettoyant ménager pour les sols
+
+> Dans 2 litres d'eau chaude, ajoutez 2 cuillères à soupe de bicarbonate de soude. Puis passez le balai ou la serpillère.
 
 ### Savon de Marseille
 
