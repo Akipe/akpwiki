@@ -2,7 +2,7 @@
 title: ntfy
 description: 
 published: true
-date: 2024-04-13T12:13:04.902Z
+date: 2024-04-13T12:14:26.279Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-13T12:13:04.902Z
@@ -20,5 +20,5 @@ dateCreated: 2024-04-13T12:13:04.902Z
 #### Terminal
 
 ```shell
-curl -d "Hi" website/subjet
+curl -d "MESSAGE" https://WEBSITE.org/TOPIC
 ```
