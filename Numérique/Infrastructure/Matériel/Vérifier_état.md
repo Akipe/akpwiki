@@ -2,7 +2,7 @@
 title: Vérifier l'état d'appareils
 description: 
 published: true
-date: 2024-04-13T13:52:26.520Z
+date: 2024-04-13T13:52:53.135Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-13T13:52:26.520Z
@@ -24,6 +24,10 @@ Vérifier la santé de la clé USB :
 badblocks -w -s -o error.log /dev/sdX
 ```
 
+- `-w` : Use write-mode test to scans for bad blocks by writing some patternson every block of the device, reading every block and comparing the contents.
+- `-s` : Show the progress of the scan.
+- `-o error.log` : Write the list of bad blocks to the error.log file in the current working directory.
+
 Test de rapidité (avec l'application `f3`) :
 
 ```shell
@@ -32,10 +36,6 @@ f3write /mnt/
 # Test lecture
 f3read /mnt/
 ```
-
-- `-w` : Use write-mode test to scans for bad blocks by writing some patternson every block of the device, reading every block and comparing the contents.
-- `-s` : Show the progress of the scan.
-- `-o error.log` : Write the list of bad blocks to the error.log file in the current working directory.
 
 Test de capacité (avec l'application `f3`) :
 
