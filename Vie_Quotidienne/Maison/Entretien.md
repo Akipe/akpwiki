@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T11:50:04.310Z
+date: 2024-04-13T12:15:33.266Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -300,9 +300,49 @@ C'est un stabiliseur naturellement le pH de l'eau de la piscine. Il empêche ég
 
 #### Pollution
 
+- insecticide
+
 #### Précautions
 
+#### Où en acheter ?
+
+Les savonneries ancestrales :
+
+- Marius Fabre à Salon-de-Provence
+- Les savonneries du Fer à cheval, du Midi
+- Le Sérail situées dans la cité phocéenne
+
 #### Cas d'utilisation
+
+##### Hygienne humaine
+
+Remplace le gel douche et le shampoing.
+
+##### Détacher les taches tenaces
+
+> Humidifier le savon dur avec un peu d'eau puis de frotter la tache directement avec. Répétez l'opération à l'envers et l'endroit du tissu. Laissez agir quelques minutes puis enchaînez sur une machine.
+
+##### Faire briller les matériaux en pierres naturelles
+
+Pierres naturelles :
+
+- Travertin
+- marbre
+- granit
+- ardoise
+- terre cuite
+
+> Imbibez une brosse d'eau et de savon de Marseille puis frottez votre revêtement de sol ou mural.
+
+##### Nettoyer les plafonds
+
+> Dans un seau, mélangez quelques copeaux à de l'eau chaude puis nettoyez la surface à l'aide d'une éponge. Laissez sécher.
+
+##### Entretenir le mobilier en cuir
+
+Il nettoie, nourrit et prolonge la durée de vie du cuir.
+
+> Dépoussiérer le cuire. Puis, à l'aide d'un chiffon microfibre humidifié par un mélange d'eau et de savon de Marseille, nettoyez le cuir par des mouvements circulaires. Laissons quelques minutes au séchage.
 
 ### Savon noire
 
