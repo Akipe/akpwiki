@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T15:30:54.859Z
+date: 2024-04-13T15:35:44.416Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -703,9 +703,36 @@ Sur de nombreuses surfaces comme :
 
 #### Pollution
 
+
 #### Précautions
 
+- **!! ATTENTION !!**
+	- Se protéger les yeux avec des lunettes de protection.
+  - Se protéger les mains avec des gants.
+  - Évitez aussi d’en respirer les émanations.
+  - En intérieur, travaillez les fenêtres ouvertes.
+
 #### Cas d'utilisation
+
+##### Blanchir le bois et la pierre
+
+<https://trucmania.ouest-france.fr/utiliser-sel-oseille-maison/>
+
+##### Éffacer les traces de rouille
+
+##### Linge et textile en machine
+
+##### Retirer les taches
+
+Produit détachant naturel, il efface aussi les taches de :
+
+- Sang
+- Encre
+- Alimentation
+- etc.
+
+
+> Ajoutez simplement 2 cuillères à soupe de Sel d’Oseille dans le compartiment lessive de votre machine à laver ou dans votre eau de lavage si vous lavez à la main.
 
 ### Acide borique
 
