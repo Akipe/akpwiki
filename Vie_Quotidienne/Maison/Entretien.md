@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T10:58:49.200Z
+date: 2024-04-13T10:59:18.246Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -182,6 +182,8 @@ Pour retirer les traces de calcaire.
 > Saupoudré sur une éponge humidifiée, le bicarbonate. Frotter sur les traces de calcaire.
 
 ##### Détartrant pour les toilettes
+
+Le bicarbonate technique est très utile pour lutter contre le tartre et nettoyer en profondeur.
 
 ##### Déboucher les canalisations obstruées
 
