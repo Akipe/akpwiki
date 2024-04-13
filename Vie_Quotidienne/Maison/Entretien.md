@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T15:35:44.416Z
+date: 2024-04-13T15:39:00.839Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -731,8 +731,13 @@ Produit détachant naturel, il efface aussi les taches de :
 - Alimentation
 - etc.
 
-
 > Ajoutez simplement 2 cuillères à soupe de Sel d’Oseille dans le compartiment lessive de votre machine à laver ou dans votre eau de lavage si vous lavez à la main.
+
+##### Garder la blancheur et l’éclat des vêtements blancs
+
+##### Agent blanchisseur du cuir et du papier
+
+##### Raviver le marbre jauni
 
 ### Acide borique
 
