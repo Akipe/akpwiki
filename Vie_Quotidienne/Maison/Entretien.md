@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T15:17:42.333Z
+date: 2024-04-13T15:29:27.507Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -649,7 +649,7 @@ La pierre à récurer est un nettoyant abrasif fort qui sert à détacher toutes
 
 > Mélanger du bicarbonate de soude, du savon noir et du blanc de Meudon dans un récipient style bocal avec couvercle. Après 24h de séchage, la préparation est terminée.
 
-### Terre de sommière
+### Terre de Sommière
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/terre-de-sommieres-9-conseils-pour-utiliser-a-maison.html>
 
@@ -676,6 +676,28 @@ Sur de nombreuses surfaces comme :
 - …
 
 > Éliminer dans un premier temps l'excédent de la tache de gras ou de liquide à l'aide d'un papier absorbant. Ensuite, saupoudrez la terre de Sommières sur toute l'étendue de la tache sans frotter et laissez agir 2 à 3 heures minimum. Une fois cette étape validée, il n'y a plus qu'à frotter et tamponner délicatement, puis à passer l'aspirateur pour éliminer la poudre. Sur les taches difficiles ou plus anciennes, on renouvelle l'opération en laissant agir plus longtemps jusqu'à absorption complète.
+
+##### Nettoyer les sols et parquets
+
+> Après avoir épongé une taches, déposez la terre de Sommières qui va agir pendant quelques heures. Il ne reste plus qu'à aspirer la poudre et passer un chiffon propre afin de lustrer le parquet. 
+
+##### Nettoyer tapis tachés
+
+> Laisser agir toute une nuit la Terre de Sommières sur la partie concernée puis d'aspirer les résidus. Essuyer enfin le tapis à l'aide d'un chiffon propre. Pour un résultat optimal, compléter le nettoyage à sec avec du bicarbonate de soude si la matière du tapis le permet.
+
+##### Nettoyer un canapé
+
+> Appliquez la poudre en quantité suffisante sur les taches. Patientez quelques heures avant de l'aspirer. Frottez avec un chiffon propre ou une brosse à poils doux pour tout retirer.
+
+##### Nettoyer les traces sur les matelas
+
+> Placez la poudre sur les taches, laissez agir et brossez. Dernière étape : aspirez les résidus. 
+
+##### Réaliser un détachant
+
+Il servira à enlever les taches difficiles après plusieurs heures de bricolage ou de mécanique. Il servira aussi à détacher le linge avant de le passer en machine ou encore à nettoyer les sols
+
+> Additionnez 5 cuillères à soupe de terre de Sommières, 1 cuillère à soupe de savon de Marseille en paillettes et un peu d'eau chaude. Mélangez le tout dans un récipient pour former une pâte compacte et lisse. Placez la pâte dans un bocal ou une bassine et laissez sécher à l'air libre. La pâte se solidifie et devient un joli morceau de savon. Avant utilisation, pensons à effectuer un essai en traitant une partie peu visible de la surface à détacher.
 
 ### Sel d'oseille
 
