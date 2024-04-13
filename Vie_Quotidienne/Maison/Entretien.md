@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T12:15:33.266Z
+date: 2024-04-13T12:27:21.280Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -318,6 +318,8 @@ Les savonneries ancestrales :
 
 Remplace le gel douche et le shampoing.
 
+Le savon de Marseille brut, extra pur, est très bon pour les peaux sensibles, mixtes ou grasses à tendances acnéiques. Contrairement à un gel douche ou nettoyant visage habituel, il nettoie en profondeur et régule le sébum. 
+
 ##### Détacher les taches tenaces
 
 > Humidifier le savon dur avec un peu d'eau puis de frotter la tache directement avec. Répétez l'opération à l'envers et l'endroit du tissu. Laissez agir quelques minutes puis enchaînez sur une machine.
@@ -343,6 +345,11 @@ Pierres naturelles :
 Il nettoie, nourrit et prolonge la durée de vie du cuir.
 
 > Dépoussiérer le cuire. Puis, à l'aide d'un chiffon microfibre humidifié par un mélange d'eau et de savon de Marseille, nettoyez le cuir par des mouvements circulaires. Laissons quelques minutes au séchage.
+
+##### Contre les attaques de pucerons
+
+> Préparez dans un récipient adapté un mélange de pâte de savon de Marseille avec un peu d'eau. Vaporisez la solution sur les feuilles, plantes et jardinières.
+
 
 ### Savon noire
 
