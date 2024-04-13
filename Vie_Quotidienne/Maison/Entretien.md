@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T15:13:28.927Z
+date: 2024-04-13T15:17:42.333Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -655,9 +655,27 @@ La pierre à récurer est un nettoyant abrasif fort qui sert à détacher toutes
 
 #### Pollution
 
+- non toxique
+- ne présente aucun risque, ni pour l'Homme, ni pour l'environnement
+
 #### Précautions
 
 #### Cas d'utilisation
+
+##### Détachante à sec
+
+Sur de nombreuses surfaces comme :
+- le textiles
+- les tissus d'ameublement
+- les tapis
+- les cuirs
+- les marbres
+- l'ébénisterie
+- le parquets
+- le carrelages
+- …
+
+> Éliminer dans un premier temps l'excédent de la tache de gras ou de liquide à l'aide d'un papier absorbant. Ensuite, saupoudrez la terre de Sommières sur toute l'étendue de la tache sans frotter et laissez agir 2 à 3 heures minimum. Une fois cette étape validée, il n'y a plus qu'à frotter et tamponner délicatement, puis à passer l'aspirateur pour éliminer la poudre. Sur les taches difficiles ou plus anciennes, on renouvelle l'opération en laissant agir plus longtemps jusqu'à absorption complète.
 
 ### Sel d'oseille
 
@@ -682,6 +700,8 @@ Borax en poudre
 ### Terre de diatomée
 
 #### Pollution
+
+- Antiparasitaire puissant et naturel
 
 #### Précautions
 
