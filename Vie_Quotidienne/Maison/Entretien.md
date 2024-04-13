@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T15:08:15.161Z
+date: 2024-04-13T15:13:28.927Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -620,6 +620,34 @@ Les cristaux de soude sont beaucoup plus corrosifs et plus efficaces contre la s
 Permet d'enlever les rayures d'un meuble en métal.
 
 > À l'aide d'un chiffon en microfibre imbibé de produit, frottez délicatement la rayure en effectuant des gestes circulaires pendant quelques minutes.
+
+##### Nettoyer et entretenir du marbre
+
+> Mélanger simplement avec de l'eau pour obtenir une pâte qui nous aide à frotter la surface.
+
+##### Nettoyer les vitres et les miroirs
+
+Pour entretenir les surfaces vitrées, c'est une très bonne alternative aux produits ménagers classiques.
+
+> Diluez 100g de savon de Marseille dans de l'eau chaude puis mélangez le tout avec un volume de blanc de Meudon de 100g. À l'aide d'un chiffon imbibé du mélange, il ne reste plus qu'à nettoyer par des mouvements circulaires le support. Une fois terminé, rincez-le soigneusement. On n'oublie pas d'essuyer le tout au sec avec un chiffon microfibre.
+
+##### Boucher les trous
+
+Il assure aussi comme enduit de rebouchage pour les poutres, surfaces en bois et le placo.
+
+##### Blanchir les joints de carrelage
+
+> Mélanger la poudre à de l'eau, étalez la pâte obtenue sur les joints tout en frottant délicatement. Laissez poser une heure, rincez à l'eau claire et essuyez avec un chiffon propre.
+
+##### Dégraisser une plaque vitrocéramique ou à induction
+
+La pierre à récurer est un nettoyant abrasif fort qui sert à détacher toutes les tâches tenaces comme les fonds de casseroles, les surfaces difficiles, les tâches qui ont vraiment besoin d’être récurées. 
+
+> Appliquer la pâte à base d'eau et de poudre directement sur la plaque. Laissez agir puis retirez le produit avec un chiffon propre.
+
+##### Réaliser de la pierre à récurer
+
+> Mélanger du bicarbonate de soude, du savon noir et du blanc de Meudon dans un récipient style bocal avec couvercle. Après 24h de séchage, la préparation est terminée.
 
 ### Terre de sommière
 
