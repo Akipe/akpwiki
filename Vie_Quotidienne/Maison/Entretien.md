@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T14:23:21.374Z
+date: 2024-04-13T14:56:16.936Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -538,11 +538,43 @@ Lorsqu'il est en contact avec l'eau chaude (au moins 40 degrés), le percarbonat
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/cristaux-de-soude-12-conseils-pour-utiliser-a-maison.html>
 
+Également appelé **carbonate de sodium**
+
+Les cristaux de soude sont beaucoup plus corrosifs et plus efficaces contre la saleté que le bicarbonate de soude.
+
 #### Pollution
+
+- Fongicides
+- bactéricides
+- neutralisants
+- Non toxiques pour l’environnement
 
 #### Précautions
 
+- **!! Ne CONVIENNE PAS aux (pourraient être endommagés sous l’effet corrosif de la soude)** :
+	- parquets en bois
+  - aux meubles cirés
+  - à l’aluminium
+
 #### Cas d'utilisation
+
+##### Dégraisser les surfaces grasses
+
+> Placer dans un récipient adapté 3 cuillères à soupe de cristaux de soude, 1 cuillère à café de savon noir et 1 litre d’eau bouillante. Mélangez tous les ingrédients puis traitez directement les zones encrassées à l’aide d’une éponge. Il ne reste plus qu’à rincer et à essuyer avec un chiffon microfibre.
+
+##### Nettoyant pour toilettes
+
+> Diluer une poignée dans un seau d’eau chaude avant de passer une éponge imprégnée de la solution dans les sanitaires. On laisse agir 15 minutes avant de venir frotter avec la brosse ou le grattoir de l’éponge les WC.
+
+> Si encastré, dissoudre 2 à 3 cuillères à soupe de cristaux de soude dans 1 litre d’eau bouillante. Versez le mélange directement dans la cuvette. Un quart d’heure plus tard, frottez les toilettes.
+
+##### Déboucheur de canalisations ou suppression des odeurs des canalisations
+
+> Ajoutez simplement 2 à 3 cuillères à soupe de cristaux de soude dans de l’eau bouillante. Versez la solution dans les canalisations. Laissez agir au minimum 1h avant de bien rincer. Renouvelez l’opération si nécessaire en laissant agir un peu plus longtemps.
+
+##### Décoller le papier peint
+
+##### Lessiver les murs avant de peindre
 
 ### Blanc de meudon
 
