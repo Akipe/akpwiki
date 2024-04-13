@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T11:31:40.330Z
+date: 2024-04-13T11:34:34.134Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -597,15 +597,13 @@ Comme la recette du dessus mais remplacer bicarbonate de soude par du percarbona
 
 ### Punaises de lit
 
-#### Poudres odorantes
-
-##### Terre de diatomée
+#### Terre de diatomée
 
 Asphyxie les punaises de lit. Une fois inhalée par les punaises, cette poudre perturbe leur système respiratoire et les asphyxie immédiatement.
 
 > Verser légèrement la terre de diatomée en saupoudrant sur les zones concernées: les montants du lit, le matelas, les oreillers et les sommiers.
 
-##### Poudre de café
+#### Poudre de café
 
 Les punaises de lit ont horreur de l’odeur du café.
 
@@ -613,8 +611,14 @@ Les punaises de lit ont horreur de l’odeur du café.
 
 > Associez quelques fèves de café avec de l’eau que vous laisserez reposer pendant 24 heures au moins. Il faudra ensuite pulvériser ce liquide sur les zones concernées et patienter que les punaises l’inhalent.
 
-##### Bicarbonate de soude
+#### Bicarbonate de soude
 
 Élimine les punaises de lit. Contrairement à l’organisme des êtres humains, celui des punaises ne supporte pas le bicarbonate, le moindre contact avec ce produit les étouffe.
 
 > Remplissez un pulvérisateur avec une cuillère à soupe de bicarbonate que vous associez avec de l’eau, puis agitez énergiquement ce mélange et vaporisez sur l’ensemble de votre literie.
+
+#### Alcool isopropylique
+
+Il a une forte teneur en acide que ces insectes ne supportent pas.
+
+> Verser dans un pulvérisateur et asperger les draps, les oreillers et le matelas. Veillez ensuite à aérer la pièce infectée pour y éliminer l'odeur. Réitérer cette opération une fois par semaine.
