@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T10:52:10.123Z
+date: 2024-04-13T10:57:18.330Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -152,6 +152,34 @@ Bonne alternative à l'eau de Javel.
 ##### Nettoyant ménager pour les sols
 
 > Dans 2 litres d'eau chaude, ajoutez 2 cuillères à soupe de bicarbonate de soude. Puis passez le balai ou la serpillère.
+
+##### Nettoyer des surfaces brillantes
+
+Faire disparaître tartre et saletés.
+
+> Mélanger le vinaigre blanc et le bicarbonate
+
+##### Désodorisant sur zones
+
+> Saupoudrer le bicarbonate de soude aux endroits concernés : toilettes, litière, poubelle, lave-vaisselle, ou les textiles à traiter.
+
+##### Désodorisant à poser
+
+Dans le réfrigérateur ou à la maison.
+
+> Placez une coupelle remplie de bicarbonate de soude dans un coin à renouveler tous les 3 mois.
+
+##### Raviver les meubles et murs
+
+Pour meuble terne et raviver la peinture des murs.
+
+> Mélangez 20 g de bicarbonate de soude, 10 cl de vinaigre d'alcool et 50 cl d'eau. Frottez ensuite le meuble ou le murs avec la préparation avant d'essuyer à l'aide d'une éponge humide.
+
+##### Nettoyant cabine de douche
+
+Pour retirer les traces de calcaire.
+
+> Saupoudré sur une éponge humidifiée, le bicarbonate. Frotter sur les traces de calcaire.
 
 ### Savon de Marseille
 
