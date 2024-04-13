@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-12T21:26:21.641Z
+date: 2024-04-13T10:45:38.264Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -10,7 +10,7 @@ dateCreated: 2024-03-08T13:06:28.273Z
 
 # Entretien
 
-## Les produits indispensable
+## Les produits de base indispensable
 
 - <https://media.adeo.com/media/1769007>
 - <https://media.adeo.com/media/1769009>
@@ -116,17 +116,41 @@ Bonne alternative à l'eau de Javel.
 
 ### Alcool ménager
 
+#### Pollution
+
+#### Précautions
+
+#### Cas d'utilisation
+
 ### Bicarbonate de soude
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/bicarbonate-de-soude-12-conseils-pour-utiliser-a-maison.html>
+
+#### Pollution
+
+#### Précautions
+
+#### Cas d'utilisation
 
 ### Savon de Marseille
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/savon-de-marseille-10-conseils-pour-utiliser-a-maison.html>
 
+#### Pollution
+
+#### Précautions
+
+#### Cas d'utilisation
+
 ### Savon noire
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/savon-noir-12-conseils-pour-utiliser-a-maison.html>
+
+#### Pollution
+
+#### Précautions
+
+#### Cas d'utilisation
 
 ### Acide citrique
 
@@ -193,29 +217,71 @@ Liste de surfaces compatibles :
 
 ### Percarbonate de soude
 
+#### Pollution
+
+#### Précautions
+
+#### Cas d'utilisation
+
 ### Cristaux de soude
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/cristaux-de-soude-12-conseils-pour-utiliser-a-maison.html>
+
+#### Pollution
+
+#### Précautions
+
+#### Cas d'utilisation
 
 ### Blanc de meudon
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/blanc-de-meudon-10-conseils-pour-utiliser-a-maison.html>
 <https://jardinage.lemonde.fr/dossier-3297-utilisations-blanc-meudon-maison.html>
 
+#### Pollution
+
+#### Précautions
+
+#### Cas d'utilisation
+
 ### Terre de sommière
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/terre-de-sommieres-9-conseils-pour-utiliser-a-maison.html>
+
+#### Pollution
+
+#### Précautions
+
+#### Cas d'utilisation
 
 ### Sel d'oseille
 
 <https://trucmania.ouest-france.fr/utiliser-sel-oseille-maison/>
 
+#### Pollution
+
+#### Précautions
+
+#### Cas d'utilisation
+
 ### Acide borique
 
 Borax en poudre
 
+#### Pollution
+
+#### Précautions
+
+#### Cas d'utilisation
+
 ### Terre de diatomée
-  
+
+#### Pollution
+
+#### Précautions
+
+#### Cas d'utilisation
+
 ## Guides
 
 ### Produit pour textile
@@ -228,7 +294,7 @@ Borax en poudre
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/les-meilleures-recettes-de-lessive-maison.html>
 
-### Produit de nettoyage
+### Produit de nettoyage fait maison
 
 #### Liquide vaisselle
 
@@ -314,7 +380,7 @@ C'est un nettoyant multi-usages parfait pour les tables encrassées, le plan de 
 
 <https://www.leroymerlin.fr/magazine/conseils-pratiques/les-meilleures-recettes-de-degraissant-naturel.html>
 
-### Nettoyage
+### Guide de nettoyage
 
 #### Tapis et moquette
 
