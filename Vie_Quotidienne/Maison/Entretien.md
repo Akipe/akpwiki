@@ -2,7 +2,7 @@
 title: Entretien
 description: 
 published: true
-date: 2024-04-13T10:57:18.330Z
+date: 2024-04-13T10:58:49.200Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-08T13:06:28.273Z
@@ -180,6 +180,12 @@ Pour meuble terne et raviver la peinture des murs.
 Pour retirer les traces de calcaire.
 
 > Saupoudré sur une éponge humidifiée, le bicarbonate. Frotter sur les traces de calcaire.
+
+##### Détartrant pour les toilettes
+
+##### Déboucher les canalisations obstruées
+
+> Verser le bicarbonate dans la canalisation avec un peu de vinaigre blanc. Laissez agir pendant un quart d'heure puis rincez à l'eau bouillante. Répétez l'opération autant de fois que nécessaire.
 
 ### Savon de Marseille
 
