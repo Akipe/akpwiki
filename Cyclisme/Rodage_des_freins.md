@@ -2,7 +2,7 @@
 title: Rodage des freins
 description: 
 published: true
-date: 2024-04-17T20:25:23.811Z
+date: 2024-04-17T20:25:36.905Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T20:25:23.811Z
@@ -34,7 +34,6 @@ Pendant le rodage :
 ## Concéquences en cas de non rodage
 
 Si le rodage n'est pas fait, les plaquettes risque d'être glacées et ne sera plus utilisable.
-
 
 ## Ressources
 
