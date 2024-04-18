@@ -2,7 +2,7 @@
 title: Archlinux - Installation guide
 description: 
 published: true
-date: 2024-04-18T09:10:02.710Z
+date: 2024-04-18T09:30:32.785Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T09:08:07.405Z
@@ -251,7 +251,8 @@ sgdisk --zap-all $PATH_DISK_1 && \
     lsblk
 ```
 
-#### One disk
+##### One disk
+
 ```bash
 sgdisk --zap-all $PATH_DISK && \
     sgdisk --clear \
@@ -264,7 +265,8 @@ sgdisk --zap-all $PATH_DISK && \
     lsblk
 ```
 
-### BIOS (MBR)
+#### BIOS (MBR)
+
 ```bash
 sfdisk $PATH_DISK << EOF
 ,1024M,L
@@ -273,19 +275,21 @@ EOF
  && lsblk
 ```
 
-## Create boot partition
+### Create boot partition
 
-### EFI
+#### EFI
+
 ```bash
 mkfs.vfat -F32 -n "EFI" /dev/disk/by-partlabel/EFI
 ```
 
-### BIOS (MBR)
+#### BIOS (MBR)
+
 ```bash
 mkfs.ext4 -L akpsystem-boot ${PATH_DISK}1
 ```
 
-## Encrypt root partition
+### Encrypt root partition
 
 Test performance
 ```bash
@@ -295,8 +299,7 @@ cryptsetup benchmark
 For 4k sectors : `--align-payload=8192`  
 --key-size 512 is equal to 256 for XTS
 
-
-### Raid 0 with SSD
+#### Raid 0 with SSD
 
 ```bash
 # Use the same password for encryption
@@ -383,7 +386,8 @@ cryptsetup luksOpen \
             akpsystem-swap-2
 ```
 
-### Simple disk
+#### Simple disk
+
 ```bash
 # SSD
 cryptsetup \
@@ -433,9 +437,10 @@ cryptsetup luksOpen \
     /dev/disk/by-partlabel/akpsystem-encrypt akpsystem
 ```
 
-## swap
+### swap
 
-### Raid 0
+#### Raid 0
+
 ```bash
 mkswap \
         --label akpsystem-swap1 \
@@ -447,9 +452,10 @@ mkswap \
     swapon /dev/mapper/akpsystem-swap-2
 ```
 
-## System file (btrfs)
+### System file (btrfs)
 
-### Raid 0
+#### Raid 0
+
 ```bash
 mkfs.btrfs \
         --data raid0 \
@@ -487,10 +493,10 @@ mkfs.btrfs \
     lsblk
 ```
 
-Set up Archlinux
-========
+## Set up Archlinux
 
-# Install base system
+### Install base system
+
 ```bash
 pacstrap /mnt \
         base \
@@ -511,14 +517,16 @@ pacstrap /mnt \
     cp /etc/pacman.d/mirrorlist /mnt/etc/pacman.d/mirrorlist
 ```
 
-# Chroot to Arch
+### Chroot to Arch
+
 ```bash
 arch-chroot /mnt /bin/bash
 ```
 
-## Configure decryption
+#### Configure decryption
 
-### Raid 0
+##### Raid 0
+
 ```bash
 echo -e "
 akpsystem-sys-raid0-1 LABEL=akpsystem-sys-raid0-1-encrypt none timeout=360,discard,no-read-workqueue,no-write-workqueue
@@ -530,7 +538,8 @@ akpsystem-swap-2 LABEL=akpsystem-swap-2-encrypt none timeout=360,discard,no-read
     mkinitcpio -P
 ```
 
-### Simple disk
+##### Simple disk
+
 ```bash
 echo -e "
 akpsystem LABEL=akpsystem-encrypt none timeout=180,discard,no-read-workqueue,no-write-workqueue
@@ -539,14 +548,16 @@ akpsystem LABEL=akpsystem-encrypt none timeout=180,discard,no-read-workqueue,no-
     mkinitcpio -P
 ```
 
-## Configure date/time
+#### Configure date/time
+
 ```bash
 ln -sf /usr/share/zoneinfo/Europe/Paris /etc/localtime && \
     hwclock --systohc --utc && \
     timedatectl set-ntp true
 ```
 
-## Increase entropy
+#### Increase entropy
+
 ```bash
 sudo pacman --needed --noconfirm -Syy \
         rng-tools \
@@ -556,21 +567,24 @@ sudo pacman --needed --noconfirm -Syy \
     systemctl enable rngd.service
 ```
 
-## Configure language
+#### Configure language
+
 ```bash
 sed -i 's/#fr_FR.U/fr_FR.U/g' /etc/locale.gen && \
     sed -i 's/#en_US.U/en_US.U/g' /etc/locale.gen && \
     locale-gen
 ```
+
 ```bash
 echo LANG="en_US.UTF-8" > /etc/locale.conf && \
     echo LC_COLLATE="C" >> /etc/locale.conf && \
     export LANG=en_US.UTF-8
 ```
 
-## Set hostname
+#### Set hostname
 
 **IMPORTANT** define the var:
+
 ```bash
 export HOSTNAME=_____
 
@@ -591,20 +605,23 @@ ff02::2          ip6-allrouters
     less /etc/hosts
 ```
 
-## Configure keyboard
+#### Configure keyboard
+
 ```bash
 loadkeys fr-latin9 && \
     echo "KEYMAP=fr-latin9" > /etc/vconsole.conf
 ```
 
-# Configure root and user
+### Configure root and user
 
-## Root
+#### Root
+
 ```bash
 passwd root
 ```
 
-## User (akp)
+#### User (akp)
+
 ```bash
 groupadd akp && \
     useradd -m -g akp -G users,wheel -c "Akipe" akp && \
@@ -614,12 +631,13 @@ groupadd akp && \
     sudo -u akp xdg-user-dirs-update
 ```
 
-## Enable sudo for wheel group
+#### Enable sudo for wheel group
+
 ```bash
 echo "%wheel ALL=(ALL) ALL" > /etc/sudoers.d/10-grant-group-wheel-sudo
 ```
 
-# mkinitcpio
+### mkinitcpio
 
 ```bash
 sed -i 's/BINARIES=()/BINARIES=("btrfs")/' /etc/mkinitcpio.conf && \
@@ -630,9 +648,11 @@ less /etc/mkinitcpio.conf && \
 mkinitcpio -P
 ```
 
-# Optimization btrfs
+### Optimization btrfs
+
 1. Preventing snapshot slowdowns btrfs
 2. Enable Scrub for Raid
+
 ```bash
 echo 'PRUNENAMES = ".snapshots"' >> /etc/updatedb.conf && \
     systemctl enable btrfs-scrub@-.timer && \
@@ -640,7 +660,8 @@ echo 'PRUNENAMES = ".snapshots"' >> /etc/updatedb.conf && \
     systemctl enable btrfs-scrub@snapshots.timer
 ```
 
-## CPU microcode
+#### CPU microcode
+
 ```bash
 if (lscpu | grep -i intel);
 then
@@ -655,11 +676,12 @@ then
 fi
 ```
 
-# Bootloader
+### Bootloader
 
-## refind (EFI)
+#### refind (EFI)
 
-### Installation
+##### Installation
+
 ```bash
 pacman -S --needed --noconfirm \
         refind \
@@ -668,9 +690,10 @@ pacman -S --needed --noconfirm \
         python
 ```
 
-### Configure UEFI
+##### Configure UEFI
 
-#### For normal UEFI
+###### For normal UEFI
+
 ```bash
 refind-install && \
     sed -i 's/#extra_kernel_version_strings linux-lts,linux/extra_kernel_version_strings linux-hardened,linux-zen,linux-lts,linux/g' /boot/EFI/refind/refind.conf && \
@@ -688,7 +711,8 @@ Exec=/usr/bin/refind-install
     less /etc/pacman.d/hooks/refind.hook
 ```
 
-#### For buggie UEFI
+###### For buggie UEFI
+
 ```bash
 # /dev/sdXY is the EFI block device
 export DEVICE_BOOT=
@@ -709,9 +733,10 @@ Exec=/usr/bin/refind-install
     less /etc/pacman.d/hooks/refind.hook
 ```
 
-### Configure refind
+##### Configure refind
 
-#### Raid 0
+###### Raid 0
+
 ```bash
 echo -e '"Boot with standard options"  "initrd=MICROCODE_LOAD_BOOTLOADER initrd=initramfs-%v.img root=/dev/mapper/akpsystem-sys-raid0-1 rootflags=subvol=@root resume=/dev/mapper/akpsystem-swap-1 quiet rw"
 "Boot to console"    "initrd=MICROCODE_LOAD_BOOTLOADER initrd=initramfs-%v.img root=/dev/mapper/akpsystem-sys-raid0-1 rootflags=subvol=@root resume=/dev/mapper/akpsystem-swap-1 quiet rw systemd.unit=multi-user.target"
@@ -722,7 +747,8 @@ echo -e '"Boot with standard options"  "initrd=MICROCODE_LOAD_BOOTLOADER initrd=
     less /boot/refind_linux.conf
 ```
 
-#### Simple disk (config to recreate)
+###### Simple disk (config to recreate)
+
 ```bash
 pacman --needed --noconfirm -S refind gptfdisk imagemagick python sbsigntools fd && \
     sudo -u akp yay -S \
@@ -776,7 +802,8 @@ Exec=/usr/bin/refind-install --shim /usr/share/shim-signed/shimx64.efi --localke
 
 ...
 
-## GRUB (BIOS, MBR)
+#### GRUB (BIOS, MBR)
+
 ```bash
 pacman --needed --noconfirm -S grub && \
     grub-install --target=i386-pc --recheck ${PATH_DISK} && \
@@ -785,9 +812,10 @@ pacman --needed --noconfirm -S grub && \
     grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
-# Installer
+### Installer
 
-## Pacman
+#### Pacman
+
 ```bash
 pacman --needed --noconfirm -S \
         pacman-contrib \
@@ -801,7 +829,8 @@ pacman --needed --noconfirm -S \
     mkdir /etc/pacman.d/hooks -p
 ```
 
-## yay (AUR)
+#### yay (AUR)
+
 ```bash
 cd /tmp && \
     sudo -u akp git clone https://aur.archlinux.org/yay.git && \
@@ -810,7 +839,8 @@ cd /tmp && \
     cd ~
 ```
 
-## Enable OpenSSH server
+#### Enable OpenSSH server
+
 ```bash
 pacman --needed --noconfirm -S \
         openssh && \
@@ -819,7 +849,8 @@ pacman --needed --noconfirm -S \
     less /etc/ssh/sshd_config
 ```
 
-## Set NTP options
+#### Set NTP options
+
 ```bash
 echo -e "[Time]
 NTP=0.fr.pool.ntp.org 1.fr.pool.ntp.org 2.fr.pool.ntp.org 3.fr.pool.ntp.org
@@ -832,14 +863,16 @@ PollIntervalMaxSec=2048
     less /etc/systemd/timesyncd.conf
 ```
 
-## Network
+#### Network
+
 ```bash
 pacman --needed --noconfirm -S \
         networkmanager && \
     systemctl enable NetworkManager.service
 ```
 
-## Install KDE
+#### Install KDE
+
 ```bash
 sudo pacman -S --needed \
         plasma-meta \
@@ -863,7 +896,8 @@ sudo pacman -S --needed \
 #localectl set-x11-keymap fr
 
 
-## Install Gnome
+#### Install Gnome
+
 ```bash
 sudo pacman -S --needed \
         gnome \
@@ -876,7 +910,8 @@ sudo pacman -S --needed \
     sudo systemctl enable gdm.service
 ```
 
-## Prepare GNUPG, SSH and Yubikey
+#### Prepare GNUPG, SSH and Yubikey
+
 ```bash
 pacman -S --needed \
         git \
@@ -943,11 +978,10 @@ git config --global user.name "$GIT_USER_NAME" && \
     git config --global user.email $GIT_USER_EMAIL
 ```
 
-## Add SSH key
+#### Add SSH key
 
 ```bash
 su akp
-
 
 mkdir -p ~/.ssh && \
     echo -e "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDQF05BaRNIo6+CL5lYFSKSljMDRyE+vDPr3+IQYiHJ613cEo2TYQAK2vDv/gIZsDXAsVxnzUogQ1f7Jp4USceQ//d/QUdWAZkQfHH6Mvg5i30In8/YHVulSe1ENc6XGmVkmmc75mcd6CXWVEh0liQB6SwDRBO42rU4uhOUr77vs+wodCCSh6vF0whloOtm4jQhECAmnccnNKgBDkc35wfG3ugrfLFwRzhhvUDA0+CJG09yNT3Zg1Vx9OXasU0e+AoL722UN0UWuWtgAqNURgJiD4DQhsVZTLeS6HyL8o69bY6OOeAPxf1vE1vN9C1jvT+CSNsqYyPm5q2Putiiks8Pe8ZB0zDUF0qgIeOyJ+FuidMDJSzYJf7DGmzQQ90Pas9G3vUpWvkkJ1xMvtnnX2VcUBwKq52WvQfJkULYSqUJYwvk4XQ9uH1rqnkNtDPR08iyTaoQrjQgjGvaikm0v4jTjlweQjfW+Tivta51VSwhMDwKsAJthiV+F1iaBs5VU3psh28gv9fTKkOXhR+V7n2D3Pv4VKPsaww8PmMAZpEJGTDgXwim86XBkuRK0p2oWqbRx0eYG67It/A7Yo8MOxGlK3TXLJyC18z1iiwtDr37NnKfl/1NBpFVSe063Egu6XDmYpINwyha+v8Dm+ZdzFMtoGqQPZHn+FrdHfIr4/I10Q== cardno:000607318198" > ~/.ssh/authorized_keys && \
@@ -956,9 +990,10 @@ mkdir -p ~/.ssh && \
 
 **End of installation ! :)**
 
-# Reboot
+## Reboot
 
-## Raid 0
+### Raid 0
+
 ```bash
 swapoff /dev/mapper/akpsystem-swap-1 && \
     swapoff /dev/mapper/akpsystem-swap-2 && \
@@ -972,7 +1007,8 @@ umount -R /mnt && \
     reboot
 ```
 
-## Simple disk
+### Simple disk
+
 ```bash
 swapoff /swap/swapfile && \
 exit
@@ -982,19 +1018,16 @@ umount -R /mnt && \
     reboot
 ```
 
-# Post-Install
+## Post-Install
 
 ```bash
 localectl set-x11-keymap fr
 ```
 
+## Emergency with Arch Live-CD
 
-# Emergency with Arch Live-CD
+#### Mount the system (to /mnt)
 
-
-
-
-### Mount the system (to /mnt)
 ```bash
 cryptsetup luksOpen \
         /dev/disk/by-partlabel/akpsystem-sys-raid0-1-encrypt \
@@ -1012,7 +1045,8 @@ cryptsetup luksOpen \
     arch-chroot /mnt /usr/bin/fish
 ```
 
-### EFI not show
+#### EFI not show
+
 ```bash
 efibootmgr \
     --create \
@@ -1025,12 +1059,14 @@ efibootmgr \
 refind-install --usedefault /dev/sdXY 
 ```
 
-### Connect to wifi
+#### Connect to wifi
+
 ```bash
 nmcli --ask dev(ice) wifi connect WIFI_SSID_NAME
 ```
 
-### Reboot
+#### Reboot
+
 ```bash
 exit
 umount -R /mnt && \
@@ -1042,8 +1078,10 @@ umount -R /mnt && \
 ```
 
 ## Secure boot
+
 - <https://lunaryorn.com/secure-boot-on-arch-linux-with-sbctl-and-dracut>
 - <https://www.reddit.com/r/archlinux/comments/ji0be6/simple_way_to_set_up_secure_boot/>
+
 ```bash
 pacman -S sbctl
 
@@ -1067,14 +1105,9 @@ sbctl verify && \
 sbctl status
 ```
 
+## Old configs
 
-
-
-
-
-# Old configs
-
-## System file btrfs
+### System file btrfs
 ```
 
 mkfs.btrfs --label akpsystem --force /dev/mapper/akpsystem && \
@@ -1136,7 +1169,7 @@ mount /dev/disk/by-partlabel/EFI /mnt/efi && \
     lsblk
 ```
 
-## Set up LVM2
+### Set up LVM2
 ```
 # SSD or HDD with 4k bytes sectors
 pvcreate --dataalignment 4M /dev/mapper/akpsystem
@@ -1151,13 +1184,13 @@ vgcreate akpsystem /dev/mapper/akpsystem && \
     lvdisplay
 ```
 
-## Set up partions (ext4 and swap)
+### Set up partions (ext4 and swap)
 ```
 mkfs.ext4 -L akpsysroot /dev/mapper/akpsystem-root && \
     mkswap -L akpsysswap /dev/mapper/akpsystem-swap
 ```
 
-## Mount system
+### Mount system
 ```
 mount /dev/mapper/akpsystem-root /mnt && \
     mkdir /mnt/boot && \
@@ -1166,7 +1199,7 @@ mount /dev/mapper/akpsystem-root /mnt && \
     lsblk
 ```
 
-## Setup Archlinux
+### Setup Archlinux
 
 ```
 pacstrap /mnt \
@@ -1186,8 +1219,8 @@ pacstrap /mnt \
     cp /etc/pacman.d/mirrorlist /mnt/etc/pacman.d/mirrorlist
 ```
 
+#### Configure hibernate to swap file
 
-### Configure hibernate to swap file
 https://wiki.archlinux.org/title/Power_management/Suspend_and_hibernate#Hibernation_into_swap_file_on_Btrfs
 
 ```
@@ -1199,7 +1232,7 @@ cd /tmp/ && \
     export RESUME_OFFSET=$(("$(btrfs_map_physical /swap/swapfile | head -n2 | tail -n1 | awk '{print $6}') / $(getconf PAGESIZE) "))
 ```
 
-## systemd-boot (EFI)
+### systemd-boot (EFI)
 
 ```
 bootctl --path=/boot install && \
@@ -1227,8 +1260,8 @@ options root=/dev/mapper/akpsystem rootflags=subvol=@root rd.luks.options=discar
     less /boot/loader/entries/akpos-lts.conf
 ```
 
+### ZRAM
 
-## ZRAM
 ```
 pacman --needed --noconfirm -S \
         zram-generator && \
@@ -1239,7 +1272,8 @@ zram-fraction = 0.5
 " > /etc/systemd/zram-generator.conf
 ```
 
-## Emergency Mount the system (to /mnt)
+### Emergency Mount the system (to /mnt)
+
 ```
 cryptsetup luksOpen /dev/disk/by-label/akpsystem-encrypt akpsystem
 
@@ -1250,8 +1284,8 @@ mount -L EFI /mnt/boot
 arch-chroot /mnt /usr/bin/fish
 ```
 
+### Avahi
 
-## Avahi
 ```bash
 pacman --needed --noconfirm -S \
         avahi \
