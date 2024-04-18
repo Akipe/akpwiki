@@ -2,7 +2,7 @@
 title: Archlinux - Installation guide
 description: 
 published: true
-date: 2024-04-18T09:08:07.405Z
+date: 2024-04-18T09:10:02.710Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T09:08:07.405Z
@@ -16,22 +16,25 @@ Normaly you can copy/past the comands show below.
 
 **ATTENTION: Always check before execute !!!**
 
-# Installation
+## Installation
 
-## Prepare archlinux installer
+### Prepare archlinux installer
+
 Download Archlinux iso here : <https://www.archlinux.org/download/>
 
 And next boot to it on the computer.
 
-## Configure installer for SSH
+### Configure installer for SSH
+
 This step are falcultative, but prefered. It will enable connection with SSH to copy paste commands. 
 
-### Change keyboard language
+#### Change keyboard language
+
 ```bash
 loadkeys fr
 ```
 
-### Connect to Wifi
+#### Connect to Wifi
 
 ```bash
 iwctl # Then use tab for command helper
@@ -52,32 +55,37 @@ station $DEVICE connect "$SSID"
 quit
 ```
 
-### Enable SSH server
+#### Enable SSH server
+
 ```bash
 passwd root
 systemctl start sshd
 ip addr show # Get ip for ssh connect
 ```
 
-### Connect to the computer
+#### Connect to the computer
+
 ```bash
 ssh root@IP_COMPUTER
 ```
 
-### (not needed) Set terminal config
+#### (not needed) Set terminal config
+
 ```bash
 export TERM=xterm-256color
 export TERM=xterm
 ```
 
-## On computer
+### On computer
 
-### Fetch date/time
+#### Fetch date/time
+
 ```bash
 timedatectl set-ntp true
 ```
 
-### Edit Pacman mirror list
+#### Edit Pacman mirror list
+
 ```bash
 export COUNTRY=France && \
 pacman --needed --noconfirm -Syy \
@@ -90,8 +98,10 @@ pacman --needed --noconfirm -Syy \
         --save /etc/pacman.d/mirrorlist
 ```
 
-### Increase entropy
+#### Increase entropy
+
 - Verify if entropy is bigger than 2000
+
 ```bash
 sudo pacman --needed --noconfirm -S \
         rng-tools \
@@ -105,21 +115,21 @@ cat /sys/devices/virtual/misc/hw_random/rng_available && \
     cat /proc/sys/kernel/random/entropy_avail
 ```
 
-Disk preparation
-========
+## Disk preparation
 
+### Get disk info
 
-## Get disk info
 ```bash
 lsblk
 ```
 
 
-## IMPORTANT: Define var
+### IMPORTANT: Define var
 
-### Set disk var
+#### Set disk var
 
-#### Raid 0 disk
+##### Raid 0 disk
+
 ```bash
 export PATH_DISK_1=/dev/nvme0n1 && \
     export PATH_DISK_2=/dev/nvme1n1
@@ -128,7 +138,8 @@ export PATH_DISK_1=/dev/sda && \
     export PATH_DISK_2=/dev/sdb
 ```
 
-#### Simple disk
+##### Simple disk
+
 ```bash
 if [ -f /sys/block/nvme0n1/size ] ; then
     export PATH_DISK=/dev/nvme0n1
@@ -153,7 +164,8 @@ echo "PATH_DISK: ${PATH_DISK}" && \
     echo "PATH_PARTITION_SYSENCRYPT: ${PATH_PARTITION_SYSENCRYPT}"
 ```
 
-### Set partitions var
+#### Set partitions var
+
 Define auto encryption size for SSD, left 10% free space for provising, & for swap need x1.5 RAM size for suspend.
 
 ```bash
@@ -165,7 +177,8 @@ nvidia-smi -q -d MEMORY
 export SWAP_SIZE_ADD=_______
 ```
 
-#### Raid 0
+##### Raid 0
+
 ```bash
 export SWAP_PARTITION_SIZE_FLOAT=$(($(free|awk '/^Mem:/{print $2}')/1024/1024*1.5)) && \
     export SWAP_PARTITION_SIZE=$(expr $(echo $SWAP_PARTITION_SIZE_FLOAT |cut -f1 -d\.) + 1) && \
@@ -181,7 +194,7 @@ export SWAP_PARTITION_SIZE_FLOAT=$(($(free|awk '/^Mem:/{print $2}')/1024/1024*1.
     echo "$PATH_PARTITION_SYSENCRYPT (system) size: ${SYSTEM_PARTITION_SIZE}G"
 ```
 
-#### Simple disk
+##### Simple disk
 
 ```bash
 export SWAP_PARTITION_SIZE_FLOAT=$(($(free|awk '/^Mem:/{print $2}')/1024/1024*1.5)) && \
@@ -196,27 +209,29 @@ export SWAP_PARTITION_SIZE_FLOAT=$(($(free|awk '/^Mem:/{print $2}')/1024/1024*1.
     echo "$PATH_PARTITION_SYSENCRYPT (system) size: ${SYSTEM_PARTITION_SIZE}G"
 ```
 
+### Format disk 
 
-## Format disk 
+#### SSD
 
-### SSD
 Trim disk for better durability. it vill remove all data !
 
-#### Raid
+##### Raid
 
 ```bash
 blkdiscard $PATH_DISK_1 -f
 blkdiscard $PATH_DISK_2 -f
 ```
 
-#### Simple disk
+##### Simple disk
+
 ```bash
 blkdiscard $PATH_DISK
 ```
 
-### EFI
+#### EFI
 
-#### Raid 0
+##### Raid 0
+
 ```bash
 sgdisk --zap-all $PATH_DISK_1 && \
     sgdisk --clear \
