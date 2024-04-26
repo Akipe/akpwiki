@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-04-26T14:10:53.761Z
+date: 2024-04-26T14:25:04.142Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -17,3 +17,7 @@ dateCreated: 2024-04-26T14:04:51.357Z
 - FFQueue
 - FFmpeg Batch AV Converter
 
+### FFMPEG
+
+- <https://nixsanctuary.com/best-ffmpeg-advanced-commands-for-video-audio-and-images-encoding/>
+- <https://nixsanctuary.com/ffmpeg-now-supports-jpeg-xl-and-avif-how-to-convert-images/>
