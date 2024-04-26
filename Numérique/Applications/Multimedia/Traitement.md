@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-04-26T14:25:04.142Z
+date: 2024-04-26T14:29:17.060Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -16,6 +16,7 @@ dateCreated: 2024-04-26T14:04:51.357Z
 - Internet Friendly Media Encoder
 - FFQueue
 - FFmpeg Batch AV Converter
+- YOGA Image Optimizer
 
 ### FFMPEG
 
