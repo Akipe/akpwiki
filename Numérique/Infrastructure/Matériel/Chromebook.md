@@ -2,7 +2,7 @@
 title: Chromebook
 description: 
 published: true
-date: 2024-04-27T16:46:01.129Z
+date: 2024-04-27T16:46:26.874Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-27T16:46:01.129Z
@@ -14,3 +14,4 @@ dateCreated: 2024-04-27T16:46:01.129Z
 
 ### Modification du bios UEFI
 
+- <https://mrchromebox.tech/>
