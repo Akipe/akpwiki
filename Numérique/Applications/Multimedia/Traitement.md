@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-05-03T16:47:57.077Z
+date: 2024-05-05T22:39:58.208Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -17,6 +17,7 @@ dateCreated: 2024-04-26T14:04:51.357Z
 - FFQueue
 - FFmpeg Batch AV Converter
 - YOGA Image Optimizer
+- <https://www.videohelp.com/software/Hybrid>
 
 ### FFMPEG
 
