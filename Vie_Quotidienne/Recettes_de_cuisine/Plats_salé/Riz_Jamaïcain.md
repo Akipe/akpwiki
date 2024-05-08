@@ -2,7 +2,7 @@
 title: Riz Jamaïcain
 description: 
 published: true
-date: 2024-05-08T11:21:56.925Z
+date: 2024-05-08T11:22:31.148Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-07T17:11:35.892Z
@@ -32,3 +32,5 @@ dateCreated: 2024-05-07T17:11:35.892Z
 - 2 ou 3 courgettes
 - 2 bannanes
 - Ajouter des épices
+
+Ne pas hésiter à ajouter de l'eau si pas assez liquide.
