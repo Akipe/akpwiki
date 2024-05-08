@@ -2,7 +2,7 @@
 title: Tarte au flan aux pommes
 description: 
 published: true
-date: 2024-05-07T17:24:32.353Z
+date: 2024-05-08T11:15:13.299Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-07T17:24:32.353Z
@@ -26,3 +26,4 @@ dateCreated: 2024-05-07T17:24:32.353Z
 3. Couper les pommes en fine lamel
 4. Les poser sur la pate feuilletée
 5. Verser le mélange sur les pommes
+6. Mettre la vanille sopoudré dessus
