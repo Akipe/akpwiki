@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-05-09T12:02:23.007Z
+date: 2024-05-09T18:36:22.636Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -13,12 +13,13 @@ dateCreated: 2024-04-26T14:04:51.357Z
 ## Encodeur
 
 - Shutter Encoder : <https://www.shutterencoder.com/>
-- Internet Friendly Media Encoder
-- FFQueue
-- FFmpeg Batch AV Converter
-- YOGA Image Optimizer
-- <https://www.videohelp.com/software/Hybrid>
-- <https://xmedia-recode.de/en/index.php>
+- Videomass : <https://jeanslack.github.io/Videomass/>
+- Internet Friendly Media Encoder : <https://x265.github.io/>
+- FFQueue : <https://ffqueue.bruchhaus.dk/>
+- FFmpeg Batch AV Converter : <https://ffmpeg-batch.sourceforge.io/>
+- YOGA Image Optimizer : <https://yoga.flozz.org/>
+- Hybrid : <https://www.videohelp.com/software/Hybrid>
+- XMedia Recode : <https://xmedia-recode.de/en/index.php>
 
 ### FFMPEG
 
