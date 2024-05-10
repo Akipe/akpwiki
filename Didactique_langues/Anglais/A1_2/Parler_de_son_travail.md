@@ -2,7 +2,7 @@
 title: Parler de son travail
 description: 
 published: true
-date: 2024-05-10T11:21:33.056Z
+date: 2024-05-10T11:22:03.443Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-10T11:16:27.755Z
@@ -39,3 +39,5 @@ dateCreated: 2024-05-10T11:16:27.755Z
 Les adverbes de fréquence comme ***never*** ou ***usually*** se placent généralement **avant le verbe principale**, à l'exception du verbe ***to be***. Les adverbes de fréquence se placent toujours **dérrière** le verbe ***to be***.
 
 > I **usually go** hiking on Saturdays.
+
+> I **am always** tired.
