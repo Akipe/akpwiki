@@ -2,7 +2,7 @@
 title: Parler de son travail
 description: 
 published: true
-date: 2024-05-10T11:54:15.757Z
+date: 2024-05-10T12:02:46.650Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-10T11:16:27.755Z
@@ -46,8 +46,8 @@ dateCreated: 2024-05-10T11:16:27.755Z
   <dt><strong>What does he do for a living ?</strong></dt>
   <dd>Qu'est ce qu'il fait dans la vie ?</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Everyone</strong></dt>
+  <dd>Tout le monde, ou chacun. <i>Toujours au singulier</i>.</dd>
   
   <dt><strong></strong></dt>
   <dd></dd>
@@ -83,3 +83,21 @@ Les adverbes de fréquence comme ***never*** ou ***usually*** se placent génér
 > I **usually go** hiking on Saturdays.
 
 > I **am always** tired.
+
+### Questions
+
+On forme généralement les questions avec l'auxiliaire ***do/does***, placé avant le pronom personnel.
+
+> How **do** you do ?
+> *Comment allez-vous ?*
+
+> What **do** you do ?
+> *Qu'est ce que tu fais ?*
+
+> What **does** he do for a living ?
+> *Qu'est ce qu'il fait dans la vie ?*
+
+L'auxiliaire ***do*** sert également à souligner un élément.
+
+> Do you enjoy your job ? - Yes, I **do** !
+> *Tu aime ton métier ? Oui, (je l'aime) !
