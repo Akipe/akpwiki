@@ -2,7 +2,7 @@
 title: Parler de son travail
 description: 
 published: true
-date: 2024-05-10T11:16:27.755Z
+date: 2024-05-10T11:20:05.302Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-10T11:16:27.755Z
@@ -30,17 +30,12 @@ dateCreated: 2024-05-10T11:16:27.755Z
   
   <dt><strong>Sometimes</strong></dt>
   <dd>Parfois</dd>
-  
-  <dt><strong></strong></dt>
-  <dd></dd>
-  
-  <dt><strong></strong></dt>
-  <dd></dd>
-  
-  <dt><strong></strong></dt>
-  <dd></dd>
-  
-  <dt><strong></strong></dt>
-  <dd></dd>
-  
 </dl>
+
+## Grammaire
+
+### Adverbes de fréquence
+
+Les adverbes de fréquence comme ***never*** ou ***usually*** se placent généralement **avant le verbe principale**.
+
+> I **usually go** hiking on Saturdays.
