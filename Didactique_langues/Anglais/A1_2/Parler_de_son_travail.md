@@ -2,7 +2,7 @@
 title: Parler de son travail
 description: 
 published: true
-date: 2024-05-10T12:10:58.633Z
+date: 2024-05-10T12:12:18.138Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-10T11:16:27.755Z
