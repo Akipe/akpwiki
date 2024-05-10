@@ -2,7 +2,7 @@
 title: Parler de son travail
 description: 
 published: true
-date: 2024-05-10T12:43:16.782Z
+date: 2024-05-10T12:44:17.978Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-10T11:16:27.755Z
@@ -126,3 +126,5 @@ Contrairement au français, l'adjectif se place généralement ***avant*** le no
 
 > The news is ***bad***.
 > *La nouvelle est mauvaise.*
+
+Dans ce cas-là, l'adjectif se place ***après*** la forme conjuguée de ***to be***.
