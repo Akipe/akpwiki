@@ -2,7 +2,7 @@
 title: Parler de son travail
 description: 
 published: true
-date: 2024-05-10T12:12:18.138Z
+date: 2024-05-10T12:18:06.811Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-10T11:16:27.755Z
@@ -49,20 +49,20 @@ dateCreated: 2024-05-10T11:16:27.755Z
   <dt><strong>Everyone</strong></dt>
   <dd>Tout le monde, ou chacun. <i>Toujours au singulier</i>.</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Boring</strong></dt>
+  <dd>Ennuyeux</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt>Interesting<strong></strong></dt>
+  <dd>Intéressant</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Awesome</strong></dt>
+  <dd>Génial</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Bad</strong></dt>
+  <dd>Mauvais</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Fun</strong></dt>
+  <dd>Sympa, amusant</dd>
   
   <dt><strong></strong></dt>
   <dd></dd>
