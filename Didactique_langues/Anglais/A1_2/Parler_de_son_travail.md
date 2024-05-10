@@ -2,7 +2,7 @@
 title: Parler de son travail
 description: 
 published: true
-date: 2024-05-10T11:46:56.164Z
+date: 2024-05-10T11:54:15.757Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-10T11:16:27.755Z
@@ -30,6 +30,48 @@ dateCreated: 2024-05-10T11:16:27.755Z
   
   <dt><strong>Sometimes</strong></dt>
   <dd>Parfois</dd>
+  
+  <dt><strong>To enjoy</strong></dt>
+  <dd>Profiter, prendre plaisir mais également aimer quelque chose</dd>
+  
+  <dt><strong>Love</strong></dt>
+  <dd>Adorer</dd>
+  
+  <dt><strong>Team player</strong></dt>
+  <dd>Esprit d'équipe</dd>
+  
+  <dt><strong>Full-ime</strong></dt>
+  <dd>Temps plain</dd>
+  
+  <dt><strong>What does he do for a living ?</strong></dt>
+  <dd>Qu'est ce qu'il fait dans la vie ?</dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
 </dl>
 
 ## Grammaire
