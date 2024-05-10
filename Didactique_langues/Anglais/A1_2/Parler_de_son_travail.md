@@ -2,7 +2,7 @@
 title: Parler de son travail
 description: 
 published: true
-date: 2024-05-10T12:18:06.811Z
+date: 2024-05-10T12:21:15.204Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-10T11:16:27.755Z
@@ -114,3 +114,10 @@ En anglais, les métiers sont toujours précédés d'un article indéfini : ***a
 
 > We're **chefs**.
 > *Nous sommes chefs cuisiniers.*
+
+### Les adjectifs dans la phrase
+
+En anglais, les adjectifs ne s'accordent pas en fonction du nom qu'ils qualifient.
+
+> I want to work at a **famous** newspaper!
+> *Je veux travailler pour un journal célèbre !*
