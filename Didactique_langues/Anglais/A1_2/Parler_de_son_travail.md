@@ -2,7 +2,7 @@
 title: Parler de son travail
 description: 
 published: true
-date: 2024-05-10T12:02:46.650Z
+date: 2024-05-10T12:07:51.166Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-10T11:16:27.755Z
@@ -97,7 +97,20 @@ On forme généralement les questions avec l'auxiliaire ***do/does***, placé av
 > What **does** he do for a living ?
 > *Qu'est ce qu'il fait dans la vie ?*
 
-L'auxiliaire ***do*** sert également à souligner un élément.
+L'auxiliaire ***do*** sert également à souligner un élément. Lorsque la question commence par ***Do ...***, on répond généralement par ***I do, He does...***.
 
 > Do you enjoy your job ? - Yes, I **do** !
 > *Tu aime ton métier ? Oui, (je l'aime) !
+
+### Article indéfini pour les métier
+
+En anglais, les métiers sont toujours précédés d'un article indéfini : ***a/an***. Au pluriel, l'article disparait.
+
+> I'm **a** doctor.
+> *Je suis un médécin.*
+
+> He's **an** architect.
+> *Il est architecte.*
+
+> We're **chefs**.
+> *Nous sommes chefs cuisiniers.*
