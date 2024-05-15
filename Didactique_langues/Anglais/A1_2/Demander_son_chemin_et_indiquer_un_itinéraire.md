@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-15T17:34:24.338Z
+date: 2024-05-15T17:35:20.595Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -103,3 +103,8 @@ Pour dire que quelque chose est **permis**, on utilise souvent l'expression ***y
 
 > **You can** swim here.
 > *On peut se baigner ici.*
+
+À l'inverse, on emploie ***you can't*** pour indiquer que quelque chose **n'est pas permis**.
+
+> **You can't** smoke here.
+> *On ne peut pas fumer ici.*
