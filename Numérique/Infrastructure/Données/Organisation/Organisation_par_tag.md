@@ -2,7 +2,7 @@
 title: Organisation par tag
 description: 
 published: true
-date: 2024-05-15T10:35:21.573Z
+date: 2024-05-15T10:46:47.943Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T10:35:21.573Z
@@ -12,7 +12,40 @@ dateCreated: 2024-05-15T10:35:21.573Z
 
 ## Régles
 
+- ISO8601 : <https://en.wikipedia.org/wiki/ISO_8601>
+
+
 - <https://github.com/novoid/filetags/>
+
+```txt
+… filetags example demonstrating: controlled vocabulary file ~/.filetags, tagging multiple files at once, removing tags by prepending a minus character, tagging using the proposed number shortcuts, tab completion of tags via Tab, and mutually exclusive tags (switching from draft to final without removing draft).
+
+This Python script adds or removes tags to file names in the following form:
+
+    “file without time stamp in name -​- tag2.txt”
+    “file name with several tags -​- tag1 tag2.jpeg”
+    “another example file name with multiple example tags -​- fun videos kids.mpeg”
+    “2013-05-09 a file name with ISO date stamp in name -​- tag1.jpg”
+    “2013-05-09T16.17 file name with time stamp -​- tag3.csv”
+
+The script accepts an arbitrary number of files (see your shell for possible length limitations).
+
+    Target group: users who are able to use command line tools and who are using tags in file names.
+    Hosted on github: https://github.com/novoid/filetags
+    Note that “directories” are to “folders” what “files” are to “documents”.
+```
+
+```txt
+Besides the fact that I am using ISO dates and times in file names (as shown in examples above), I am using tags with file names. To separate tags from the file name, I am using the separator “space dash dash space”.
+
+For people familiar with Regular Expressions:
+
+(<ISO date/time stamp>)?(?<descriptive file name>)?( -- <list of tags separated by spaces>)?.<file extension>
+
+Tagging files this way requires a file renaming process. Adding (or removing) tag(s) to a set of file results in multiple renaming processes. Despite advanced renaming tools like vidir (from moreutils) it’s handy to have a tool that makes adding and removing tags as simple as possible.
+
+You may like to add this tool to your image or file manager of choice. I added mine to geeqie which is my favorite image viewer on GNU/Linux.
+```
 
 - <https://redlib.freedit.eu/r/ObsidianMD/comments/18wy4ba/best_way_to_organize_tags_if_you_have_hundreds_of/>
 
