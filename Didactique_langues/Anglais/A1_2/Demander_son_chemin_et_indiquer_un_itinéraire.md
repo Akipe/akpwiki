@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-15T17:35:20.595Z
+date: 2024-05-15T17:36:52.077Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -108,3 +108,8 @@ Pour dire que quelque chose est **permis**, on utilise souvent l'expression ***y
 
 > **You can't** smoke here.
 > *On ne peut pas fumer ici.*
+
+**Attention !** Le verbe qui suit ***can*** ou ***can't*** est toujours à l'infinitif **sans *to***.
+
+> You can't **eat** or **drink** here.
+> *On ne peut pas manger ou boire ici.*
