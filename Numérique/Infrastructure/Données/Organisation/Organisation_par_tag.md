@@ -2,7 +2,7 @@
 title: Organisation par tag
 description: 
 published: true
-date: 2024-05-15T10:46:47.943Z
+date: 2024-05-15T10:48:14.735Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T10:35:21.573Z
@@ -14,6 +14,9 @@ dateCreated: 2024-05-15T10:35:21.573Z
 
 - ISO8601 : <https://en.wikipedia.org/wiki/ISO_8601>
 
+
+- <https://karl-voit.at/managing-digital-photographs/>
+	- <https://karl-voit.at/demo-filetags-intro/>
 
 - <https://github.com/novoid/filetags/>
 
