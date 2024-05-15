@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-15T18:05:38.781Z
+date: 2024-05-15T18:09:43.234Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -73,7 +73,7 @@ dateCreated: 2024-05-15T17:23:59.439Z
   <dt><strong>Do I change at ... ?</strong></dt>
   <dd>Je change à ... ?</dd>
   
-  <dt><strong>Ge off at ...</strong></dt>
+  <dt><strong>Get off at ...</strong></dt>
   <dd>Descendez à ...</dd>
   
   <dt><strong>Take the 6 towards Pelham Bay Park.</strong></dt>
@@ -234,3 +234,11 @@ Indiquer le chemin est très facile en anglais. Pour former l'impératif, il suf
 
 > **Turn** left.
 > *Tourne à gauche.*
+
+### Acheter des tickets
+
+Pour un aller simple, on achète un **single *ticket***.
+
+> I'd like **a single ticket**, please.
+> *Je vousrais un aller simple, s'il vous plaît.*
+
