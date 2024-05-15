@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-15T17:36:52.077Z
+date: 2024-05-15T17:43:40.281Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -31,29 +31,29 @@ dateCreated: 2024-05-15T17:23:59.439Z
   <dt><strong>Dog</strong></dt>
   <dd>Chien</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Straight ahead</strong></dt>
+  <dd>Tout droit, droit devant</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Across the street</strong></dt>
+  <dd>En face, de l'autre côté de la rue</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Close to</strong></dt>
+  <dd>Près de</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>To cross</strong></dt>
+  <dd>Traverser</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>To turn</strong></dt>
+  <dd>Tourner</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>To go down the street</strong></dt>
+  <dd>Descendre de la rue</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>On the corner</strong></dt>
+  <dd>Au coin</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Left and right</strong></dt>
+  <dd>Gauche et droite</dd>
   
   <dt><strong></strong></dt>
   <dd></dd>
