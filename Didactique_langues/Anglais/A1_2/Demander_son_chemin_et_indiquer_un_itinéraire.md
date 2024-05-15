@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-15T18:01:31.453Z
+date: 2024-05-15T18:02:06.456Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -70,8 +70,8 @@ dateCreated: 2024-05-15T17:23:59.439Z
   <dt><strong>How to I get to the ... ?</strong></dt>
   <dd>Comment je fais pour aller à ... ?</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Do I change at ... ?</strong></dt>
+  <dd>Je change à ... ?</dd>
   
   <dt><strong></strong></dt>
   <dd></dd>
