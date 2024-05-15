@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-15T18:10:57.798Z
+date: 2024-05-15T18:17:00.395Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -79,8 +79,8 @@ dateCreated: 2024-05-15T17:23:59.439Z
   <dt><strong>Take the 6 towards Pelham Bay Park.</strong></dt>
   <dd>Prenez la 6 en direction de Pelham Bay Park.</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Subway</strong></dt>
+  <dd>Metro</dd>
   
   <dt><strong></strong></dt>
   <dd></dd>
