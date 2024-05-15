@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-15T18:09:43.234Z
+date: 2024-05-15T18:10:57.798Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -242,3 +242,7 @@ Pour un aller simple, on achète un **single *ticket***.
 > I'd like **a single ticket**, please.
 > *Je vousrais un aller simple, s'il vous plaît.*
 
+Pour un aller-retour, on achète un **return *ticket***.
+
+> We'd like two **return tickets**, please.
+> *Nous voudrions deux allers-retours, s'il vous plaît.*
