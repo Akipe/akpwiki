@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-15T17:55:10.413Z
+date: 2024-05-15T18:01:31.453Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -54,6 +54,114 @@ dateCreated: 2024-05-15T17:23:59.439Z
   
   <dt><strong>Left and right</strong></dt>
   <dd>Gauche et droite</dd>
+  
+  <dt><strong>A line</strong></dt>
+  <dd>Une ligne</dd>
+  
+  <dt><strong>To buy a ticket</strong></dt>
+  <dd>Acheter un ticket</dd>
+  
+  <dt><strong>To take the subway</strong></dt>
+  <dd>Prendre le métro</dd>
+  
+  <dt><strong>A ticket machine</strong></dt>
+  <dd>Un distributeur de tickets</dd>
+  
+  <dt><strong>How to I get to the ... ?</strong></dt>
+  <dd>Comment je fais pour aller à ... ?</dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
+  
+  <dt><strong></strong></dt>
+  <dd></dd>
   
   <dt><strong></strong></dt>
   <dd></dd>
