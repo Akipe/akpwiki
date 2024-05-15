@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-15T17:30:05.782Z
+date: 2024-05-15T17:34:24.338Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -19,17 +19,17 @@ dateCreated: 2024-05-15T17:23:59.439Z
   <dt><strong>No smoking</strong></dt>
   <dd>Interdiction de fumer</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>No drinking</strong></dt>
+  <dd>Interdiction de boire</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>No swimming</strong></dt>
+  <dd>Interdiction de se baigner</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>No cell phones</strong></dt>
+  <dd>Téléphone portables interdits</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Dog</strong></dt>
+  <dd>Chien</dd>
   
   <dt><strong></strong></dt>
   <dd></dd>
@@ -80,13 +80,13 @@ dateCreated: 2024-05-15T17:23:59.439Z
 
 Pour dire que quelchose est interdit, on utilise ***no*** suivi d'un **verbe** en **ing**.
 
-> No smoking
+> No smok**ing**
 > *Interdiction de fumer*
 
-> No eating or drinking
+> No eat**ing** or drink**ing**
 > *Interdiction de manger ou de boire*
 
-> No swimming
+> No swim**ming**
 > *Interdiction de se baigner*
 
 On peut également utiliser ***no*** suivi d'un **nom**.
@@ -96,3 +96,10 @@ On peut également utiliser ***no*** suivi d'un **nom**.
 
 > No cell phones
 > *Téléphones portables interdits*
+
+### Exprimer quelque chose de permis
+
+Pour dire que quelque chose est **permis**, on utilise souvent l'expression ***you can*** accompagnée du mot ***here (ici)***.
+
+> **You can** swim here.
+> *On peut se baigner ici.*
