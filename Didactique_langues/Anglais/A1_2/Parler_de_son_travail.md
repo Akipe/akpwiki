@@ -2,7 +2,7 @@
 title: Parler de son travail
 description: 
 published: true
-date: 2024-05-10T12:48:23.221Z
+date: 2024-05-15T16:16:10.382Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-10T11:16:27.755Z
@@ -40,7 +40,7 @@ dateCreated: 2024-05-10T11:16:27.755Z
   <dt><strong>Team player</strong></dt>
   <dd>Esprit d'équipe</dd>
   
-  <dt><strong>Full-ime</strong></dt>
+  <dt><strong>Full-time</strong></dt>
   <dd>Temps plain</dd>
   
   <dt><strong>What does he do for a living ?</strong></dt>
