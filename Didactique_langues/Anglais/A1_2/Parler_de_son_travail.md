@@ -2,7 +2,7 @@
 title: Parler de son travail
 description: 
 published: true
-date: 2024-05-15T16:16:10.382Z
+date: 2024-05-15T16:21:58.083Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-10T11:16:27.755Z
@@ -100,7 +100,7 @@ On forme généralement les questions avec l'auxiliaire ***do/does***, placé av
 L'auxiliaire ***do*** sert également à souligner un élément. Lorsque la question commence par ***Do ...***, on répond généralement par ***I do, He does...***.
 
 > Do you enjoy your job ? - Yes, I **do** !
-> *Tu aime ton métier ? Oui, (je l'aime) !
+> *Tu aime ton métier ? Oui, (je l'aime) !*
 
 ### Article indéfini pour les métier
 
