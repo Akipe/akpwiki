@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-15T17:47:52.697Z
+date: 2024-05-15T17:55:10.413Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -113,3 +113,16 @@ Pour dire que quelque chose est **permis**, on utilise souvent l'expression ***y
 
 > You can't **eat** or **drink** here.
 > *On ne peut pas manger ou boire ici.*
+
+### Indiquer le chemin
+
+Indiquer le chemin est très facile en anglais. Pour former l'impératif, il suffit d'utiliser le verbe à l'infinitif sans ***to***.
+
+> **Cross** the street
+> *Traversez la rue.*
+
+> **Go** straight ahead.
+> *Allez tout droit.*
+
+> **Turn** left.
+> *Tourne à gauche.*
