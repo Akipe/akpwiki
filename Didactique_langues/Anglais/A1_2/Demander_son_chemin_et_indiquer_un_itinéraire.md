@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-15T18:02:06.456Z
+date: 2024-05-15T18:05:38.781Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -73,11 +73,11 @@ dateCreated: 2024-05-15T17:23:59.439Z
   <dt><strong>Do I change at ... ?</strong></dt>
   <dd>Je change à ... ?</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Ge off at ...</strong></dt>
+  <dd>Descendez à ...</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Take the 6 towards Pelham Bay Park.</strong></dt>
+  <dd>Prenez la 6 en direction de Pelham Bay Park.</dd>
   
   <dt><strong></strong></dt>
   <dd></dd>
