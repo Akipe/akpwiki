@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-16T12:24:22.848Z
+date: 2024-05-16T12:27:15.191Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -94,11 +94,11 @@ dateCreated: 2024-05-15T17:23:59.439Z
   <dt><strong>Do you know ... well ?</strong></dt>
   <dd>Tu connais bien ... ?</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>What's ... like ?</strong></dt>
+  <dd>Comment est ... ?</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>It's a busy city.</strong></dt>
+  <dd>C'est une ville animées (occupée)</dd>
   
   <dt><strong></strong></dt>
   <dd></dd>
