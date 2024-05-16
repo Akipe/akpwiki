@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-15T18:17:00.395Z
+date: 2024-05-16T12:23:16.288Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -82,11 +82,11 @@ dateCreated: 2024-05-15T17:23:59.439Z
   <dt><strong>Subway</strong></dt>
   <dd>Metro</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Theaters</strong></dt>
+  <dd>Théâtres</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Museums</strong></dt>
+  <dd>Musées</dd>
   
   <dt><strong></strong></dt>
   <dd></dd>
