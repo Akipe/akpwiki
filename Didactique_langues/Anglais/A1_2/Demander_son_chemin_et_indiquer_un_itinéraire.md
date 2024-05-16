@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-16T12:27:15.191Z
+date: 2024-05-16T12:32:04.844Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -100,8 +100,8 @@ dateCreated: 2024-05-15T17:23:59.439Z
   <dt><strong>It's a busy city.</strong></dt>
   <dd>C'est une ville animées (occupée)</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Town</strong></dt>
+  <dd>Petite ville</dd>
   
   <dt><strong></strong></dt>
   <dd></dd>
@@ -182,7 +182,7 @@ dateCreated: 2024-05-15T17:23:59.439Z
   <dd></dd>
 </dl>
 
-## Grammaire
+## Régles
 
 ### Exprimer une interdiction
 
@@ -246,3 +246,14 @@ Pour un aller-retour, on achète un **return *ticket***.
 
 > We'd like two **return tickets**, please.
 > *Nous voudrions deux allers-retours, s'il vous plaît.*
+
+
+### `There is` et `there are`
+
+**Il y a** se traduit par **there is** ou **there are** selon que l'on parle d'une seule ou de plusieurs choses. ***There is*** est singulier tandis que ***there are*** est pluriel.
+
+> There **ise** a busy café.
+> *Il y a un café animé.*
+
+> There **are** a lots of interersting museums.
+> *Il y a beaucoup de musées intéressants.*
