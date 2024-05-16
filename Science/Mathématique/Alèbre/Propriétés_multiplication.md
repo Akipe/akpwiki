@@ -2,7 +2,7 @@
 title: Propriétés de la multiplication
 description: 
 published: true
-date: 2024-05-16T10:47:02.094Z
+date: 2024-05-16T10:50:50.109Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-16T10:36:03.137Z
@@ -22,23 +22,17 @@ En informatique, on utilise souvent le signe `*` pour la multiplication au lieu 
 
 Deux nombres sont inverses l'ubn de l'autre si leur produit est égale à 1.
 
-> `y/x` est l'inverse de `x/y`
+> `y/x` est l'inverse de `x/y`; On peut également dire : `1/5` est l'inverse de `5` et `5` est l'inverse de `1/5`.
 
-```txt
-5/5 = 1
-5/5 = 5 * 1/5 = 1
+> L'inverse de 5 :
+> 1 = 5/5
+> 1 = 5 * 1/5
+>
+> 1/5 = 0.20
+> Donc 5 et 1/5 (ou 0.20) sont inverses l'un de l'autre.
 
-1/5 = 0.20
 
-donc 5 et 1/5 (ou 0.20) sont inverses l'un de l'autre.
-
-(on peut également dire : 1/5 est l'inverse de 5 | 5 est l'inverse de 1/5.)
-```
-
-```txt
-L'inverse de 3/4 :
-
-3/4 x 4/3 = 12/12 = 1
-
-4/3 est l'inverse de 3/4
-```
+> L'inverse de `3/4` :
+> `1 = 3/4 * 4/3`
+> `1 = 12/12`
+> `4/3` est l'inverse de `3/4`
