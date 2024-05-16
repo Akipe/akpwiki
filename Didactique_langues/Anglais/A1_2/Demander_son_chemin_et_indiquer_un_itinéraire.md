@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-16T12:36:44.590Z
+date: 2024-05-16T12:37:56.753Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -264,7 +264,10 @@ Pour dire qu'il y a **beaucoup** de quelque chose, vous pouvez utiliser ***lots 
 Avant les noms au pluriel, on utilise ***there are + lots of*** ou ***a lot of***.
 
 > There are **lots of** people in the museum.
-> *Il y a beaucoup de gens dans le musée.
+> *Il y a beaucoup de gens dans le musée.*
 
 Avant un verbe, on utilise ***lots*** ou ***a lot*** sans le ***of*** pour dire qu'il y a beaucoup à faire, à voir, à manger, etc.
 Dans ce cas-là, on utilise ***there is + a lot*** ou ***lots***, puis on ajoute le verbe à l'infinitif avec ***to***.
+
+> There is **lots** to do in Brooklyn.
+> *Il y a beaucoup (de choses) à faire à Brooklyn.*
