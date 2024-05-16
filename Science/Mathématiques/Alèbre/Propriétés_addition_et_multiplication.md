@@ -1,8 +1,8 @@
 ---
-title: Propriétés de l'addition et de la multiplication
+title: Propriétés de l'addition
 description: 
 published: true
-date: 2024-05-16T10:32:13.114Z
+date: 2024-05-16T10:33:47.752Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-16T10:15:19.263Z
