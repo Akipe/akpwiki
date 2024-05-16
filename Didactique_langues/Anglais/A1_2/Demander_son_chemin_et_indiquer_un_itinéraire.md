@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-16T12:32:04.844Z
+date: 2024-05-16T12:34:39.689Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -257,3 +257,8 @@ Pour un aller-retour, on achète un **return *ticket***.
 
 > There **are** a lots of interersting museums.
 > *Il y a beaucoup de musées intéressants.*
+
+### **Lots of** et **a lot of**
+
+Pour dire qu'il y a **beaucoup** de quelque chose, vous pouvez utiliser ***lots of*** ou ***a lot of***. Les deux veulent dire la même chose.  
+Avant les noms au pluriel, on utilise ***there are + lots of*** ou ***a lot of***.
