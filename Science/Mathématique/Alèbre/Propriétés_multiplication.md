@@ -2,7 +2,7 @@
 title: Propriétés de la multiplication
 description: 
 published: true
-date: 2024-05-16T10:50:50.109Z
+date: 2024-05-16T10:52:03.850Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-16T10:36:03.137Z
@@ -11,6 +11,12 @@ dateCreated: 2024-05-16T10:36:03.137Z
 # Propriétés de la multiplication
 
 En informatique, on utilise souvent le signe `*` pour la multiplication au lieu du signe `x`.
+
+## Commutativité
+
+La multiplication est commutative : on peut changer l'ordre des termes.
+
+> `2 * 34` est égale à `34 * 2`
 
 ## Élément neutre
 
