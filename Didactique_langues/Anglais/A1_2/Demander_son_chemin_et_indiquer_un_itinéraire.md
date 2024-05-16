@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-16T12:42:08.019Z
+date: 2024-05-16T12:43:44.026Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -283,3 +283,10 @@ Lorsque l'on pose une question, on remplace ***some*** par ***any***.
 
 > Are there **any** beaches in Manchester?
 > *Y'a t'il des plages à Manchester ?*
+
+On utilise également ***any*** dans les négations.
+
+> There aren't **any** beaches in Manchester.
+> *Il n'y a aucune plages à Manchester.*
+
+*There are no beaches in Manchester* serait également correct.
