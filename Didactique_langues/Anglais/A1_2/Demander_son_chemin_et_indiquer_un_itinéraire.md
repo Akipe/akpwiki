@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-16T12:37:56.753Z
+date: 2024-05-16T12:42:08.019Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -103,8 +103,8 @@ dateCreated: 2024-05-15T17:23:59.439Z
   <dt><strong>Town</strong></dt>
   <dd>Petite ville</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Some</strong></dt>
+  <dd>Quelque</dd>
   
   <dt><strong></strong></dt>
   <dd></dd>
@@ -271,3 +271,15 @@ Dans ce cas-là, on utilise ***there is + a lot*** ou ***lots***, puis on ajoute
 
 > There is **lots** to do in Brooklyn.
 > *Il y a beaucoup (de choses) à faire à Brooklyn.*
+
+### **Some** et **any**
+
+Le mot ***some*** signifie ***quelques***. On l'utilise dans les phrases affirmatives.
+
+> There are **some** nice hotels in Manchester.
+> *Il y a quelques hotéls sympa à Manchester.*
+
+Lorsque l'on pose une question, on remplace ***some*** par ***any***.
+
+> Are there **any** beaches in Manchester?
+> *Y'a t'il des plages à Manchester ?*
