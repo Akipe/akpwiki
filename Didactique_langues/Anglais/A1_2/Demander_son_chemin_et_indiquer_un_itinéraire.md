@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-16T12:23:55.989Z
+date: 2024-05-16T12:24:22.848Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -91,8 +91,8 @@ dateCreated: 2024-05-15T17:23:59.439Z
   <dt><strong>There's a lot to see and do</strong></dt>
   <dd>Il y a beaucoup (de choses) à voir et à faire.</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Do you know ... well ?</strong></dt>
+  <dd>Tu connais bien ... ?</dd>
   
   <dt><strong></strong></dt>
   <dd></dd>
