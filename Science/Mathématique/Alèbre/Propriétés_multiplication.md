@@ -2,7 +2,7 @@
 title: Propriétés de la multiplication
 description: 
 published: true
-date: 2024-05-16T11:19:57.637Z
+date: 2024-05-16T11:24:12.107Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-16T10:36:03.137Z
@@ -19,6 +19,10 @@ La multiplication est commutative : on peut changer l'ordre des termes.
 > `2 * 34` est égale à `34 * 2`
 
 On peut donc changer l'ordre des facteurs d'un produit.
+
+## Associativité
+
+
 
 ## Élément neutre
 
