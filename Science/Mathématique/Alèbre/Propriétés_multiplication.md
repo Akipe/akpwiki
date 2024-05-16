@@ -2,7 +2,7 @@
 title: Propriétés de la multiplication
 description: 
 published: true
-date: 2024-05-16T11:24:12.107Z
+date: 2024-05-16T11:25:23.588Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-16T10:36:03.137Z
@@ -22,7 +22,9 @@ On peut donc changer l'ordre des facteurs d'un produit.
 
 ## Associativité
 
+La multiplication est associative : on peut regrouper les termes de différentes façons.
 
+> `(12 * 3) * 10` est égale à `12 * (3 * 10)`
 
 ## Élément neutre
 
