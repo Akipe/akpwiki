@@ -2,7 +2,7 @@
 title: Propriétés de l'addition et de la multiplication
 description: 
 published: true
-date: 2024-05-16T10:29:19.022Z
+date: 2024-05-16T10:32:13.114Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-16T10:15:19.263Z
@@ -10,21 +10,23 @@ dateCreated: 2024-05-16T10:15:19.263Z
 
 # Propriétés de l'addition
 
-## Commutative
+## Commutativité
 
-On peut calculer les additions dans n'importe quel ordre.
+L'addition est commutative : on peut changer l'ordre des termes.
 
 > `5 + 8 + 5` est égale à `5 + 5 + 8` et à `8 + 5 + 5`
 
-## Associative
+## Associativité
 
-On peut associer les additions dans n'importe quel ordre.
+L'addtion est assiciative : on peut regrouper les termes de différentes façons.
 
 > `(77 + 2) + 3` est égale à `77 + (2 + 3)`
 
 ## Élément neutre
 
-0 est l'élément neutre de l'addition. Celà veut dire que l'ont peut ignorer 0 lorsqu'il est présent dans une addition.
+0 est l'élément neutre de l'addition. Ajouter 0 à n'importe quel nombre ne change pas ce nombre. Ont peut donc l'ignorer lorsqu'il est présent dans une addition.
+
+> `0 + 4 = 4`
 
 > Calculer `0 + y + (-7)` lorsque `y = -3`, `y = 0` et `y = 7`
 
