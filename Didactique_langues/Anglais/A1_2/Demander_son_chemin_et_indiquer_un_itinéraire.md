@@ -2,7 +2,7 @@
 title: Demander son chemin et indiquer un itinéraire
 description: 
 published: true
-date: 2024-05-16T12:43:44.026Z
+date: 2024-05-17T09:55:14.797Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T17:23:59.439Z
@@ -106,8 +106,8 @@ dateCreated: 2024-05-15T17:23:59.439Z
   <dt><strong>Some</strong></dt>
   <dd>Quelque</dd>
   
-  <dt><strong></strong></dt>
-  <dd></dd>
+  <dt><strong>Towards</strong></dt>
+  <dd>En direction de</dd>
   
   <dt><strong></strong></dt>
   <dd></dd>
