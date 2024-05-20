@@ -2,7 +2,7 @@
 title: Android
 description: 
 published: true
-date: 2024-05-20T13:15:29.050Z
+date: 2024-05-20T13:15:56.063Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-20T13:14:58.401Z
