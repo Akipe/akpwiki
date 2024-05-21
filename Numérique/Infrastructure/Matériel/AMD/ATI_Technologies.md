@@ -2,13 +2,13 @@
 title: AMD ATI GPU
 description: 
 published: true
-date: 2024-04-19T17:22:02.795Z
+date: 2024-05-21T11:47:55.812Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:22:02.795Z
 ---
 
-# AMD ATI GPU
+# ATI Technologies
 
 ## Modification
 
