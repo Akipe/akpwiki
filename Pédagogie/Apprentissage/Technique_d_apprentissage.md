@@ -2,7 +2,7 @@
 title: Technique d'apprentissage
 description: 
 published: true
-date: 2024-03-04T13:27:00.769Z
+date: 2024-05-21T19:38:35.928Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T13:20:28.982Z
@@ -23,6 +23,7 @@ Commencer par les concepts algorithmique.
 Puis pratiquer du PHP pur. Enfin utiliser un framework. Ensuite partir sur un autre langage comme le JavaScript.
 
 Pour une technologie il faut :
+
 - comprendre globalement son fonctionnement
 - Quelle problème elle résoud
 - Dans quelle situation elle est pertinente.
@@ -67,6 +68,7 @@ C'est un ensemble de méthodes et pratiques pour apprendre plus efficacement.
 ![[DICzLUW.jpg]]
 
 Le système va permettent de traiter plusieurs étapes des phases de l'apprentissage de notre cerveau :
+
 - sotckage des connaissances
 - consolidation des connaissances
 
@@ -79,6 +81,7 @@ Les concepts sont souvent relié entre eux, on reliera donc les fichiers entre e
 On ne cherche pas à stocker des informations précises, comme l'ensemble des méthodes de l'API JS, mais les concepts clés, comme *l'event loop*, *les closures*, *les promesses*, *les contextes*, *les événements* ou *le DOM*.
 
 Structurer chaque page :
+
 1. **Modéle mentale** : une phrase pour comprendre l'idée expliquant rapidement la chose. Peut être une métaphore
 2. **Aperçu** : trois ou quatre phrase donnant un aperçu de la chose. Ça doit être simple et facile à retenir.
 3. **Profondeur** : plusieurs paragraphes pour approfondir, qui doivent être aussi long que necessaire. Ils ne doit pas y avoir de simplification.
@@ -140,7 +143,8 @@ Quel est le type MIME pour un fichier HTML encodé au format UTF-8 ?
 `text/html; charset=utf-8`
 ```
 
-*Question mot à deviner : 
+*Question mot à deviner : *
+
 ```anki
 deck: DeckA
 tags:
@@ -149,8 +153,6 @@ tags:
 ---
 
 ==Paris== est la capital de la ==France==
-```
-
 ```
 
 ## Ressources
