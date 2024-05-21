@@ -2,7 +2,7 @@
 title: Concepteur Développeur d'Application
 description: 
 published: true
-date: 2024-05-21T16:55:07.897Z
+date: 2024-05-21T16:55:41.469Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T16:53:13.989Z
@@ -10,7 +10,7 @@ dateCreated: 2024-05-21T16:53:13.989Z
 
 # Concepteur Développeur d'Application
 
-## Comment valider le titre
+## Comment valider le titre (année 2022/2023)
 
 ### Stage
 
