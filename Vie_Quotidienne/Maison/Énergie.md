@@ -2,13 +2,19 @@
 title: Énergie
 description: 
 published: true
-date: 2024-04-12T20:38:14.538Z
+date: 2024-05-21T13:25:24.785Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-12T20:09:35.600Z
 ---
 
 # Énergie
+
+## Électricité
+
+### Vérifier si une coupure de courant est prévu
+
+<https://www.monecowatt.fr/>
 
 ## Froid
 
