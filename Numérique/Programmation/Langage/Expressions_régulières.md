@@ -2,7 +2,7 @@
 title: Expressions régulières
 description: 
 published: true
-date: 2024-05-21T17:06:31.463Z
+date: 2024-05-21T17:08:07.042Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T14:14:49.262Z
@@ -195,6 +195,17 @@ Par exemple, si l'on cherche "1+1=2", le patterne sera : `1\+1=2`
 |`?`|
 |`<`|
 |`>`|
+
+### Raccourcis
+
+- `\w` qui équivaut à ``[a-zA-Z0-9_]`
+- `\W` à `[^a-zA-Z0-9_]` donc le contraire de `\w`
+- `\s` à `[\r\n\t\f\v]`
+- `\S` à tous les caractères autres que ceux de ``\s`
+- `\d` à `[0-9]`
+- `\D` à tous les caractères non numériques. `[^0-9]`
+- `.` à n’importe quel caractère sauf retour à la ligne
+- `\b` recherche toutes les séquences `\w` dont la première ou/et la dernière lettre est la précédant.
 
 ## Exemples de régles
 
