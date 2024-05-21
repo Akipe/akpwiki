@@ -2,7 +2,7 @@
 title: Décorateur
 description: 
 published: true
-date: 2024-05-21T17:29:47.997Z
+date: 2024-05-21T17:48:37.546Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T16:04:49.014Z
@@ -119,4 +119,5 @@ public float DeterminerPrix()
 
 ## Ressource
 
+- <https://medium.com/@mazlum.tosun/pattern-decorator-revisit%C3%A9-en-java-8-3cd06789b767>
 - <https://medium.com/@mazlum.tosun/pattern-decorator-revisit%C3%A9-en-java-8-3cd06789b767>
