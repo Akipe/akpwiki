@@ -1,14 +1,16 @@
 ---
-title: Regex
+title: Expressions régulières
 description: 
 published: true
-date: 2024-05-21T14:14:49.262Z
+date: 2024-05-21T17:06:01.376Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T14:14:49.262Z
 ---
 
-# Regex
+# Expressions régulières
+
+Également appelè ***Regex***.
 
 - <https://www.youtube.com/watch?v=XPrnB_v4NX8&t=226>
 - regex isn't hard <https://timkellogg.me/blog/2023/07/11/regex>
@@ -22,6 +24,11 @@ Présentation d'une regex classique :
 - `[Rr]` : classe de caractères
 - `?` : quantifiers and other special tokens in blue
 - `\?` : escaped characters
+
+Il existe plusieurs formats différentes :
+
+- PCRE2
+- ECMAScript 5
 
 ## Langage
 
