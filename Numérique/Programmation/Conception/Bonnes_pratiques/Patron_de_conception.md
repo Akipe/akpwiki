@@ -2,7 +2,7 @@
 title: Patron de conception
 description: 
 published: true
-date: 2024-05-21T15:32:59.603Z
+date: 2024-05-21T17:28:43.100Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T14:16:20.765Z
@@ -36,3 +36,5 @@ Il existe 3 groupes de designs patterns :
 ## Ressources
 
 - <https://refactoring.guru/design-patterns>
+- [https://afup.org/talks/2822-quelle-difference-y-a-t-il-entre-le-bon-et-le-mauvais-repository](https://afup.org/talks/2822-quelle-difference-y-a-t-il-entre-le-bon-et-le-mauvais-repository)
+	- <https://www.youtube.com/watch?v=cYFKkhtIr8w>
