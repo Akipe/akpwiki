@@ -2,7 +2,7 @@
 title: C# (C Sharp)
 description: 
 published: true
-date: 2024-05-21T14:02:31.719Z
+date: 2024-05-21T14:04:11.400Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T14:02:31.719Z
@@ -972,7 +972,7 @@ namespace EventHandler
 - pour opération lourde comme serialisation
 - quand on veut plusieurs taches en parallèles (plusieurs processus en parallèle)
 
-![Example de ligne de vie de deux processus](https://s1.o7planning.com/fr/10553/images/7600154.png "Example de ligne de vie de deux processus")
+![Example de ligne de vie de deux processus](/numerique/programmation/7600154.png)
 
 #### Fonction asynchrone `async`
 
