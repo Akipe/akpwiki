@@ -2,7 +2,7 @@
 title: C# (C Sharp)
 description: 
 published: true
-date: 2024-05-21T14:04:11.400Z
+date: 2024-05-21T14:56:40.313Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T14:02:31.719Z
@@ -1646,11 +1646,6 @@ string[] files
   |
 - Liaison de donnée avec la BDD (Factory)
 ```
-
-## API
-
-### Winform
-[Winform C#](https://wiki.akipe.fr///books/formation-cda/page/winform-c)
 
 ## Outils
 
