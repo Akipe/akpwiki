@@ -2,7 +2,7 @@
 title: Firefox
 description: 
 published: true
-date: 2024-03-18T09:17:36.979Z
+date: 2024-05-21T16:25:48.197Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T14:21:51.732Z
@@ -23,10 +23,14 @@ dateCreated: 2024-03-04T14:21:51.732Z
 
 ### Extensions
 
-- https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/
-- https://addons.mozilla.org/en-US/firefox/addon/select-link-text/
-- https://addons.mozilla.org/en-US/firefox/addon/clearurls/
-- https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/
+- <https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/>
+- <https://addons.mozilla.org/en-US/firefox/addon/select-link-text/>
+- <https://addons.mozilla.org/en-US/firefox/addon/clearurls/>
+- <https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/>
+
+#### Développement et infrastructure
+
+- <https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/>
 
 ## Configuration
 
