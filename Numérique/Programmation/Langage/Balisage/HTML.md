@@ -2,7 +2,7 @@
 title: HTML
 description: 
 published: true
-date: 2024-05-21T14:21:11.463Z
+date: 2024-05-21T14:28:30.162Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T14:19:46.430Z
@@ -321,9 +321,3 @@ Il faut également utiliser les bonnes balises pour définir le sens sémantique
 - Une liste de l'ensemble des balises HTML avec une description détaillée : <https://htmlreference.io/>
 - [http://html5doctor.com/](http://html5doctor.com/)
 - <https://eastmanreference.com/complete-list-of-html-tags>
-
-## Bibliothèques
-
-### AdminLTE
-
-<https://adminlte.io/>
