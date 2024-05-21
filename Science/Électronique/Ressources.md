@@ -2,7 +2,7 @@
 title: Ressources
 description: 
 published: true
-date: 2024-05-21T13:42:37.316Z
+date: 2024-05-21T13:48:51.535Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T13:42:37.316Z
@@ -25,3 +25,13 @@ dateCreated: 2024-05-21T13:42:37.316Z
 - <https://www.youtube.com/c/Electronicsrepairschool>
 - <https://www.youtube.com/watch?v=JUtZB_2ljE0>
 - <https://www.youtube.com/watch?v=5IT5ynj5wm8>
+
+## Simulateurs et Jeux
+
+- LTspice
+- Circuit JS
+- <https://www.falstad.com/circuit/>
+- <http://qucsstudio.de/>
+- <https://www.openmodelica.org/>
+- <https://store.steampowered.com/app/760920/ElectricVLab/>>
+- <https://userbase.kde.org/KTechlab>
