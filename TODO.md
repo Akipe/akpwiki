@@ -2,7 +2,7 @@
 title: TODO
 description: 
 published: true
-date: 2024-05-21T13:50:59.054Z
+date: 2024-05-21T17:21:34.363Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T13:50:59.054Z
@@ -19,3 +19,7 @@ dateCreated: 2024-05-21T13:50:59.054Z
 - https://www.reddit.com/r/electronics/
 - https://www.circuitlab.com/editor/#?id=7pq5wm&from=homepage
 - https://everycircuit.com/#0
+
+## A regarder
+
+- <https://cheatsheets.stephane.plus/>
