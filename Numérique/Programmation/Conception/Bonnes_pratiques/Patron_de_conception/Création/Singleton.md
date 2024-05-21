@@ -2,7 +2,7 @@
 title: Singleton
 description: 
 published: true
-date: 2024-05-21T15:57:01.679Z
+date: 2024-05-21T17:38:57.022Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T15:57:01.679Z
@@ -11,6 +11,8 @@ dateCreated: 2024-05-21T15:57:01.679Z
 # Singleton
 
 ## Utilité
+
+Permet de s'assurer qu'une classe ne possède qu'une seule instance et de fournir une méthode unique retournant cette instance.
 
 Il permet de résoudre le problème d'être sûr d'avoir une seul instance d'une classe.
 
