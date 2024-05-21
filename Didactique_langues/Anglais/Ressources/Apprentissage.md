@@ -2,7 +2,7 @@
 title: Apprentissage
 description: 
 published: true
-date: 2024-05-21T16:17:08.925Z
+date: 2024-05-21T19:36:30.892Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T13:38:29.464Z
@@ -30,6 +30,7 @@ dateCreated: 2024-05-21T13:38:29.464Z
 ## Rédaction
 
 - <https://writeandimprove.com/>
+- Correcteur avec proposition de suggestion de meilleurs formes de phrases :  <https://www.grammarly.com/spell-checker>
 
 ## Test de niveau
 
