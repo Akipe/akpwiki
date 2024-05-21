@@ -2,7 +2,7 @@
 title: Programmation orienté objet
 description: 
 published: true
-date: 2024-05-21T13:55:27.618Z
+date: 2024-05-21T13:55:52.991Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T13:53:16.041Z
@@ -90,10 +90,6 @@ public class MyClass
     Console.WriteLine($"La superficie du batiment est ${b.Loyer()}");
   }
 }
-```
-
-```c#
-
 ```
 
 ```c#
