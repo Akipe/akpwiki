@@ -2,7 +2,7 @@
 title: REST
 description: 
 published: true
-date: 2024-05-21T16:23:44.901Z
+date: 2024-05-21T16:24:13.381Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T16:23:44.901Z
@@ -84,6 +84,12 @@ Elle est responsable de prendre en charge le traitement des requêtes de la gén
 ##### Couche DTO (Data Transfer Objects, objet de transfert de données)
 
 La couche DTO est un objet qui transporte des données entre les processus. Ils sont utilisés pour découpler la représentation des données en objets de modèle.
+
+### Uniforme / Interface uniforme
+
+### Cacheable / Mise en cache
+
+### Code on demand (optional) - Code à la demande
 
 ## Resources
 
