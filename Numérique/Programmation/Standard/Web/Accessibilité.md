@@ -2,7 +2,7 @@
 title: Accessibilité
 description: 
 published: true
-date: 2024-05-21T15:11:42.402Z
+date: 2024-05-21T18:08:14.068Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T15:11:42.402Z
@@ -13,6 +13,7 @@ dateCreated: 2024-05-21T15:11:42.402Z
 - <https://pidila.gitlab.io/>
 - <https://design.numerique.gouv.fr/outils/checklist-pidila/>
 - <https://blog.ipedis.com/rgaa-savoir-referentiel-national>
+- <https://www.numerique.gouv.fr/publications/rgaa-accessibilite/obligations/>
 
 ## Le Référentiel général d’amélioration de l’accessibilité (RGAA)
 
