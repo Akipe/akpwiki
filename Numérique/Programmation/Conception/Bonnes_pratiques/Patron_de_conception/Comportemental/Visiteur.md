@@ -2,7 +2,7 @@
 title: Visiteur
 description: 
 published: true
-date: 2024-05-21T15:55:52.996Z
+date: 2024-05-21T15:59:21.275Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T15:55:52.996Z
@@ -40,3 +40,54 @@ public void Accept(IVisiteurDeFigure visiteur)
 ```
 
 [![](https://wiki.akipe.fr///uploads/images/gallery/2022-08/scaled-1680-/q4ufPKbObH6lNavE-image-1661951616310.png)](https://wiki.akipe.fr///uploads/images/gallery/2022-08/q4ufPKbObH6lNavE-image-1661951616310.png)
+
+
+---
+
+(double dispatche)
+
+On créer un classe intérmédiaire, qui va relier des classe entre elles en fonction de celles qui les appelles.
+
+On va manipuler uniquement des interfaces, des deux cotés (visiteur et les visitable).
+
+On envoie le visiteur (code métier).
+
+1. Interface visiteur
+2. Interface des visitable
+
+```c#
+public interface IVisitor
+{
+  public void VisiteBureau(Bureau batiment);
+  public void VisiteCabinetMedical(CabinetMedical batiment);
+  public void VisiteLocalCommercial(LocalCommercial batiment);
+}
+```
+
+```c#
+public interface IVisitable
+{
+  public void Accept(IVisitor visitor);
+}
+```
+
+```c#
+public abstract class BienImmobilier : IVisitable
+{
+  public abstract void Accept(IVisitor visitor);
+}
+```
+
+```c#
+public class Bureau : BienImmobilier // Implémente forcément IVisitable
+{
+  public void Accept(IVisitor visitor)
+  {
+    visitor.VisitBureau(this);
+  }
+}
+```
+
+```c#
+
+```
