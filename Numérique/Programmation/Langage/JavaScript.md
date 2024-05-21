@@ -2,7 +2,7 @@
 title: JavaScript
 description: 
 published: true
-date: 2024-05-21T14:38:25.915Z
+date: 2024-05-21T14:40:34.124Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T12:26:06.796Z
@@ -1051,17 +1051,6 @@ L'activation permets plus précisement :
 - "eval" ne créer pas de variable dépassant la porté de l'"eval"
 
 Plus d'informations sur [MDM Strict mode](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Strict_mode)
-
-## Typescript
-
-Typescript : transcriver JS pour ajouter des fonctionnalités en JS comme le typage.
-
-## NodeJS pour test
-
-On peut executer notre code sous NodeJS pour tester :
-```shell
-node fichier.js
-```
 
 ## Astuces
 
