@@ -1,14 +1,14 @@
 ---
-title: Méthode Agile
+title: Méthodologie Agile
 description: 
 published: true
-date: 2024-05-21T15:16:11.495Z
+date: 2024-05-21T15:17:11.928Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T15:16:11.495Z
 ---
 
-# Méthode Agile
+# Méthodologie Agile
 
 ## Philosophie Agile
 
