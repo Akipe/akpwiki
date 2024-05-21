@@ -2,13 +2,17 @@
 title: Fabrique abstraite
 description: 
 published: true
-date: 2024-05-21T16:02:39.890Z
+date: 2024-05-21T17:42:34.925Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T16:02:39.890Z
 ---
 
 # Fabrique abstraite
+
+Également appelé **abstract factory***.
+
+Permet la création d'objet regroupé en famille sans devoir connaitre les classes concrètes destinées à la création de ces objets.
 
 Patterne de création
 
