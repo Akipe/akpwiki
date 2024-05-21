@@ -2,7 +2,7 @@
 title: Expressions régulières
 description: 
 published: true
-date: 2024-05-21T17:08:07.042Z
+date: 2024-05-21T17:10:07.037Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T14:14:49.262Z
@@ -83,14 +83,16 @@ Les retours à ligne différes des OS :
 |:-:|-|
 | `.` | Tous les caractères sauf nouvelle ligne `\n` |
 | `\` | Echapper un caractère spéciaux |
-| `\n` | Caractère nouvelle ligne |
-| `\r` | Caractère chariot |
-| `\t` | Caractère tab |
+| `\n` | saut de ligne |
+| `\r` | retour chariot |
+| `\t` | tabulation |
 | `\v` | Caractère tab vertical |
-| `\f` | Form feed |
+| `\f` | saut de page |
 | `\a` | Alarm |
 | `[\b]` | Backspace |
-| `\e` | Escape |
+| `\e` | échappement |
+| `^` | désigne le début d’une ligne |
+| `$` | désigne la fin d’une ligne |
 | `\N{name}` | Named Character |
 | `\uFFFF` | Caractère unicode |
 | `\x{FFFF}` | Caractère unicode |
