@@ -2,7 +2,7 @@
 title: Accessibilité
 description: 
 published: true
-date: 2024-05-21T18:08:14.068Z
+date: 2024-05-21T18:37:01.974Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T15:11:42.402Z
@@ -14,6 +14,7 @@ dateCreated: 2024-05-21T15:11:42.402Z
 - <https://design.numerique.gouv.fr/outils/checklist-pidila/>
 - <https://blog.ipedis.com/rgaa-savoir-referentiel-national>
 - <https://www.numerique.gouv.fr/publications/rgaa-accessibilite/obligations/>
+<https://www.opquast.com/opquast-et-laccessibilite/>
 
 ## Le Référentiel général d’amélioration de l’accessibilité (RGAA)
 
@@ -32,3 +33,10 @@ dateCreated: 2024-05-21T15:11:42.402Z
 
 - <https://www.nvaccess.org/download/>
 - <https://grafikart.fr/tutoriels/nvda-accessibilite-windows-1946>
+
+## Ressources
+
+- Référentiel général d'amélioration de l'accessibilité – RGAA : <https://www.numerique.gouv.fr/publications/rgaa-accessibilite/>
+- Web Content Accessibility Guidelines (WCAG) 2.1 : <https://www.w3.org/TR/WCAG21/>
+- Qualité Web : la checklist de référence : <https://checklists.opquast.com/fr/assurance-qualite-web/>
+- Assurance Qualité Web : le livre : <https://www.opquast.com/rendre-le-web-meilleur/qualite-web-le-livre/#title-8>
