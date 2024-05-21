@@ -2,7 +2,7 @@
 title: Méthodologie Scrum
 description: 
 published: true
-date: 2024-05-21T15:21:16.117Z
+date: 2024-05-21T18:11:21.829Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T15:21:16.117Z
@@ -813,3 +813,7 @@ Ces taches peuvent être lié à la technique ou à un autre domaine : gérer la
 ### Réunion Daily Scrum
 
 ### Réunion Post-Mortem
+
+## Ressources
+
+- <https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ>
