@@ -2,13 +2,17 @@
 title: Commande
 description: 
 published: true
-date: 2024-05-21T16:01:02.333Z
+date: 2024-05-21T17:32:57.154Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T16:01:02.333Z
 ---
 
 # Commande
+
+Également appelé ***command***.
+
+Permet de transformer une requête en un objet, facilitant des opérations comme l'annulation, la mise en file des requêtes et leur suivi.
 
 Patron de conception comportemental.
 
