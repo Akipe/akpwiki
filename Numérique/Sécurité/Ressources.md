@@ -2,7 +2,7 @@
 title: Ressources
 description: 
 published: true
-date: 2024-05-21T12:44:00.631Z
+date: 2024-05-21T12:44:52.255Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T12:44:00.631Z
@@ -33,3 +33,15 @@ dateCreated: 2024-05-21T12:44:00.631Z
 ## Parcours d'apprentissage
 
 - Pour travailler dans la sécurité informatique : <https://www.youtube.com/watch?v=uTAaFExLgwQ&t=17>
+
+## Entrainement
+
+### Cybersécurité
+
+- <https://www.hackthebox.com/>
+- <https://tryhackme.com/>
+- <https://www.root-me.org/?lang=fr>
+- <https://websec.fr/>
+
+### Cracking
+
