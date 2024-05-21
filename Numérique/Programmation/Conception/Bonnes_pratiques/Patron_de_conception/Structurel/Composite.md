@@ -2,13 +2,15 @@
 title: Composite
 description: 
 published: true
-date: 2024-05-21T16:03:41.321Z
+date: 2024-05-21T17:36:31.324Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T16:03:41.321Z
 ---
 
 # Composite
+
+Permet d'offrir un cadre de conception d'une conception d'une composition d'objets dont la profondeur de composition est variable, la conception étant basée sur un arbre.
 
 Utile dans le cas d'arboréscences :
 
