@@ -2,7 +2,7 @@
 title: Recommandations de configurations
 description: 
 published: true
-date: 2024-05-21T12:26:14.094Z
+date: 2024-05-21T12:42:16.643Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T12:26:14.094Z
@@ -27,3 +27,11 @@ dateCreated: 2024-05-21T12:26:14.094Z
 ### CIS Benchmarks
 
 - <https://www.cisecurity.org/benchmark/microsoft_windows_desktop>
+
+### GNU/Linux
+
+<https://net-security.fr/securite/durcissement-gnulinux-1/>
+
+### macOS
+
+<https://objective-see.org/>
