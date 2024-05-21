@@ -2,13 +2,32 @@
 title: Android
 description: 
 published: true
-date: 2024-05-21T11:13:46.154Z
+date: 2024-05-21T11:17:37.010Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T11:13:46.154Z
 ---
 
 # Android
+
+## Astuces
+
+### Par constructeurs
+
+#### Qualcom
+
+##### Accès informations technique communication
+
+Dasn application téléphone :
+
+```txt
+*#*#4636#*#*
+```
+
+#### Activer VoWifi et VoLTE
+
+- <https://www.phonandroid.com/forum/threads/activer-la-vowifi-et-volte-sur-oneplus-6-7-8-sans-root.206649/>
+- <https://forum.xda-developers.com/t/guide-vowifi-activate.4151423/>
 
 ## Ressources
 
