@@ -2,7 +2,7 @@
 title: Expressions régulières
 description: 
 published: true
-date: 2024-05-21T17:06:01.376Z
+date: 2024-05-21T17:06:31.463Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T14:14:49.262Z
@@ -247,6 +247,10 @@ Ou plus précis : `^(([1-9]|[0-2][0-9]|3[0-1])\/([1-9]|1[0-2])\/\d{4})$`
 `^([0-9])+\.([0-9])+\.([0-9])+\.([0-9])+`
 
 ## Ressources
+
+### Outils de vérification
+
+- <https://regex101.com/>
 
 ### Cheatsheet
 
