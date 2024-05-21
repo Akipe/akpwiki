@@ -2,13 +2,17 @@
 title: Itérateur
 description: 
 published: true
-date: 2024-05-21T16:07:48.294Z
+date: 2024-05-21T17:31:56.671Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T16:07:48.294Z
 ---
 
 # Itérateur
+
+Également appelé ***iterator***.
+
+Permet de fournir un accès séquentiel à une collection d'objets sans que les clients se préoccupent de l'implantation de cette collection.
 
 Il permet de créer des iterateurs qui vont parcourir des collections. On peut personnalisé ces iterateur pour par exemple récupérer que des rectangles d'une collection de figures.
 
