@@ -2,7 +2,7 @@
 title: NodeJS
 description: 
 published: true
-date: 2024-05-21T14:44:54.914Z
+date: 2024-05-21T14:45:06.069Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T14:40:21.415Z
@@ -18,7 +18,6 @@ LTS : Long Term Support
 > Version du logiciel avec prise  en charge des mises à jours sur le long terme, par rapport à une version "classique", avec notamment des mises à jour de sécurité et des corrections de bogues.
 
 ## Commandes
-
 
 ### Executer une application
 
