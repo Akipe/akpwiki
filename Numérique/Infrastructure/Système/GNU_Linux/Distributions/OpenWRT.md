@@ -2,13 +2,39 @@
 title: OpenWRT
 description: 
 published: true
-date: 2024-05-21T11:21:01.050Z
+date: 2024-05-21T19:56:11.942Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T11:21:01.050Z
 ---
 
 # OpenWRT
+
+## Installation
+
+- <https://downloads.openwrt.org/releases/>
+- <https://downloads.openwrt.org/>
+- <https://firmware-selector.openwrt.org/>
+
+### Pour x86
+
+- <https://firmware-selector.openwrt.org/?version=23.05.2&target=x86%2F64&id=generic>
+- <https://teklager.se/en/knowledge-base/openwrt-installation-instructions/>
+
+## Mise à jour
+
+- <https://forum.openwrt.org/t/sysupgrade-help-for-x86-64/112043/14>
+- <https://sysupgrade.openwrt.org/>
+- <https://openwrt.org/docs/guide-user/installation/openwrt_x86#upgrading>
+
+```
+If you had used a **ext4-combined.img.gz** type of image to install, there are 4 options for upgrading:
+
+1. Write a new **ext4-combined.img.gz** image: this is the simplest option and is identical to first installation: all data, configs, packages and extra partitions will be wiped and you'll have a brand new OpenWrt system with default packages and configs. Then you can reinstall all packages and copy config files back and create extra partitions.
+2. Use **sysupgrade**: this is default upgrading procedure, but the least recommended option for x86 machines. Proceed to [Sysupgrade](https://openwrt.org/docs/guide-user/installation/installation_methods/sysupgrade) for details.
+3. Extracting boot partition image from **ext4-combined.img.gz** and writing it and **ext4-rootfs.img.gz**, leaving MBR partition table intact.
+4. Extracting boot partition image from **ext4-combined.img.gz** and writing it, then uncompressing **rootfs.tar.gz** to existing rootfs partition.
+```
 
 ## Package manager
 
