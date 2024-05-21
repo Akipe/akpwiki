@@ -2,7 +2,7 @@
 title: Le courant électrique
 description: 
 published: true
-date: 2024-03-04T12:11:01.573Z
+date: 2024-05-21T13:48:07.978Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T12:11:01.573Z
@@ -10,7 +10,7 @@ dateCreated: 2024-03-04T12:11:01.573Z
 
 # Le courant électrique
 
-galement appelé *électricité*, c'est un flux de particule porteuses d'une charge électrique appelées les *électrons*.
+Également appelé *électricité*, c'est un flux de particule porteuses d'une charge électrique appelées les *électrons*.
 
 Le terme électricité est trop vague, il existe 3 terminologies :
 - **Charge électrique** : c'est une propriété fondamentale de certaines particules. Une charge peut être positive ou négative. Des particules de même charge se repoussent, et celles de charge opposé s'attirent.
@@ -74,3 +74,8 @@ Ces interactions se faisant dans un milieu si petit et avec donc des proportions
 - **Un ampère (1 A)** correspond au déplacement d'un coulomb.
   - **1 milliampère (1 mA)** correspond à 1 millième d'ampère : `1 000 mA = 1 A`.
 - **un volte (1 V)** correspond à la mesure de la tension appliqué aux electrons libres.
+
+## Todo
+
+- <https://www.nextinpact.com/article/70770/courant-electrique-puissance-dephasage-wh-ah-kva-perdus-pas-panique-on-vous-explique>
+
