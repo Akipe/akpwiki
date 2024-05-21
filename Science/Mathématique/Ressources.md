@@ -2,7 +2,7 @@
 title: Ressources
 description: 
 published: true
-date: 2024-05-21T13:34:33.912Z
+date: 2024-05-21T19:37:04.204Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T13:34:33.912Z
@@ -17,3 +17,4 @@ dateCreated: 2024-05-21T13:34:33.912Z
 - <https://www.mathsisfun.com/>
 - <https://fr.khanacademy.org>
 - <https://www.afterclasse.fr/>
+- <https://www.maths-et-tiques.fr/index.php/cours-maths/niveau-terminale#32>
