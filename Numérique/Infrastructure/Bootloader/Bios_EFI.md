@@ -2,7 +2,7 @@
 title: Bios EFI
 description: 
 published: true
-date: 2024-05-21T11:37:14.234Z
+date: 2024-05-21T19:58:05.438Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T11:37:14.234Z
@@ -16,6 +16,11 @@ Website for learning :
 - <https://www.bios-mods.com/forum/Forum-Tutorials>
 - <https://www.bios-mods.com/forum/Thread-Tutorial-Thread-Index>
 - <https://www.bios-mods.com/wiki/List_of_BIOS_Hacking_Websites>
+
+## Réinitialiser le mot de passe
+
+- <https://bios-pw.org/>
+- <https://github.com/bacher09/pwgen-for-bios>
 
 ## Lecture et flash
 
