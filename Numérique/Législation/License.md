@@ -2,13 +2,17 @@
 title: License
 description: 
 published: true
-date: 2024-05-21T18:18:24.218Z
+date: 2024-05-21T18:18:59.288Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T18:18:24.218Z
 ---
 
 # License
+
+## Guide des license open source
+
+- <https://opensource.guide/legal/>
 
 ## Choisir une license
 
