@@ -2,7 +2,7 @@
 title: Apprentissage
 description: 
 published: true
-date: 2024-05-21T13:38:29.464Z
+date: 2024-05-21T13:39:35.776Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T13:38:29.464Z
@@ -18,3 +18,4 @@ dateCreated: 2024-05-21T13:38:29.464Z
 - <https://learnenglish.britishcouncil.org/business-english>
 - <https://learnenglish.britishcouncil.org/general-english>
 - <https://learnenglish.britishcouncil.org/getting-started>
+- <https://qioz.fr/fr>
