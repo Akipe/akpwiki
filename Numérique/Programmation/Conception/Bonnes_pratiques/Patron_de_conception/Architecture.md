@@ -1,8 +1,8 @@
 ---
-title: Patrons de conception architectural
+title: Architectural
 description: 
 published: true
-date: 2024-05-21T17:45:26.693Z
+date: 2024-05-21T17:46:04.360Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T17:45:26.693Z
