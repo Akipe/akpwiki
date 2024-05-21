@@ -2,7 +2,7 @@
 title: Commits Conventionnels
 description: 
 published: true
-date: 2024-05-21T17:18:30.490Z
+date: 2024-05-21T17:18:59.847Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T17:18:30.490Z
@@ -12,7 +12,7 @@ dateCreated: 2024-05-21T17:18:30.490Z
 
 Une spécification ajoutant une signification lisible pour l'humain et pour la machine dans les messages des commits.
 
-La spécification de Commits Conventionnels est une convention basique pour des messages de commit propres. Elle fournit un ensemble simple de règles pour créer un historique de commit explicite, ce qui facilite l’écriture d’outils automatisés. Cette convention suit SemVer, en décrivant les fonctionnalités, les correctifs et les modifications importantes apportées aux messages de commit.
+La spécification de Commits Conventionnels est une convention basique pour des messages de commit propres. Elle fournit un ensemble simple de règles pour créer un historique de commit explicite, ce qui facilite l’écriture d’outils automatisés. Cette convention suit [SemVer](http://semver.org/lang/fr/), en décrivant les fonctionnalités, les correctifs et les modifications importantes apportées aux messages de commit.
 
 Le message du commit doit être structuré comme suit :
 
