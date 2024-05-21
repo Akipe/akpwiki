@@ -2,7 +2,7 @@
 title: PHP
 description: 
 published: true
-date: 2024-05-21T14:07:02.223Z
+date: 2024-05-21T14:12:14.264Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T14:07:02.223Z
@@ -183,44 +183,6 @@ acheterVetement(Vetement::Chaussette) {}
 #### `array_map`
 
 - <https://tainix.fr/article-technique/array_map-en-PHP-mode-d-emploi-et-utilisation-avancee>
-
-## Outils
-
-### Composer
-
-<https://www.kaherecode.com/tutorial/le-guide-du-debutant-composer>
-
-#### Initialiser un projet
-
-```bash
-composer init
-```
-
-#### Initialiser un projet en installant une dépendance
-
-```bash
-composer install ...
-```
-
-#### Gérer les dépendances
-
-##### En production et développement
-
-```bash
-composer require ...
-```
-
-##### Uniquement en développement
-
-```bash
-composer require-dev ...
-```
-
-#### Astuces : composer sous windows manuellement
-
-```powershell
-function composer { php  C:\Chemin\du\repertoire\composer $args }
-```
 
 ## Sécurité
 
