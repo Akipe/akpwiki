@@ -2,7 +2,7 @@
 title: Gestion de projet
 description: 
 published: true
-date: 2024-05-21T15:13:46.704Z
+date: 2024-05-21T18:11:57.748Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T15:13:46.704Z
@@ -59,3 +59,7 @@ Celà induit que le planning du projet doit être mise à jour régulièrement.
 
 - Maitrise d'ouvrage (MOA) : également appelé product owner, il représente le client.
 - Maitre d'oeuvre (MOE) : il représente l'entreprise qui développe le système.
+
+## Ressources
+
+- <https://blog.eleven-labs.com/fr/comment-choisir-parmi-scrum-kanban-et-safe/>
