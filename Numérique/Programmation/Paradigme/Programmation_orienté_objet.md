@@ -2,7 +2,7 @@
 title: Programmation orienté objet
 description: 
 published: true
-date: 2024-05-21T13:53:16.041Z
+date: 2024-05-21T13:55:27.618Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T13:53:16.041Z
@@ -24,7 +24,7 @@ Tout comme les interfaces, elles mettent à disposition des methodes abstraites 
 
 Un constructeur de classe abstraite pourra être utilisé par la classe enfant.
 
-[![classe_abstraite_base.png](https://wiki.akipe.fr///uploads/images/gallery/2022-08/scaled-1680-/nIfKIKdpSZghAQLL-classe-abstraite-base.png)](https://wiki.akipe.fr///uploads/images/gallery/2022-08/nIfKIKdpSZghAQLL-classe-abstraite-base.png)
+![nifkikdpszghaqll-classe-abstraite-base.png](/numerique/programmation/nifkikdpszghaqll-classe-abstraite-base.png)
 
 ## Interfaces
 
@@ -32,7 +32,7 @@ Les interfaces permettent de représenter des contrats que des classes peuvent i
 
 On dit **qu'une classe réalise une interface** et non implémente.
 
-[![interface_base.png](https://wiki.akipe.fr///uploads/images/gallery/2022-08/scaled-1680-/dui9RUrERP749Ivf-interface-base.png)](https://wiki.akipe.fr///uploads/images/gallery/2022-08/dui9RUrERP749Ivf-interface-base.png)
+![dui9rurerp749ivf-interface-base.png](/numerique/programmation/dui9rurerp749ivf-interface-base.png)
 
 On se moque de l'implémentation des methodes. Elle défini un contrat, les classe qui réaliseront l'interface devront implémenter les methodes.
 
