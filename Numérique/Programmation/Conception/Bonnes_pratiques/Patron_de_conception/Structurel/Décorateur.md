@@ -2,13 +2,15 @@
 title: Décorateur
 description: 
 published: true
-date: 2024-05-21T16:04:49.014Z
+date: 2024-05-21T17:29:47.997Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T16:04:49.014Z
 ---
 
 # Décorateur
+
+Permet d'ajouter dynamiquement des fonctionnalités supplémentaires à un objet.
 
 Analogie avec pizzeria
 
@@ -114,3 +116,7 @@ public float DeterminerPrix()
   return elementADecorer + Prix;
 }
 ```
+
+## Ressource
+
+- <https://medium.com/@mazlum.tosun/pattern-decorator-revisit%C3%A9-en-java-8-3cd06789b767>
