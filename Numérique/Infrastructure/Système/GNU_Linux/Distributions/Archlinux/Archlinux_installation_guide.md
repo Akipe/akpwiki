@@ -1,14 +1,14 @@
 ---
-title: Archlinux - Installation guide
+title: Archlinux installation guide
 description: 
 published: true
-date: 2024-04-18T09:30:32.785Z
+date: 2024-05-21T11:25:17.122Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T09:08:07.405Z
 ---
 
-# Archlinux - Installation guide
+# Archlinux installation guide
 
 I use this commands to initialize my computers with Archlinux.
 For complete the installation I use later my Ansible recipes.
