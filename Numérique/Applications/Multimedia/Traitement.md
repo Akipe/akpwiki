@@ -2,13 +2,19 @@
 title: Traitement
 description: 
 published: true
-date: 2024-05-22T06:25:25.354Z
+date: 2024-05-22T20:20:54.620Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
 ---
 
 # Traitement
+
+## Sous-titres
+
+### Transcription
+
+- <https://github.com/thewh1teagle/vibe>
 
 ## Encodeur
 
