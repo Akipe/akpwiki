@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-05-09T18:36:22.636Z
+date: 2024-05-22T06:25:25.354Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -20,6 +20,7 @@ dateCreated: 2024-04-26T14:04:51.357Z
 - YOGA Image Optimizer : <https://yoga.flozz.org/>
 - Hybrid : <https://www.videohelp.com/software/Hybrid>
 - XMedia Recode : <https://xmedia-recode.de/en/index.php>
+- StaxRip : <https://github.com/staxrip/staxrip>
 
 ### FFMPEG
 
