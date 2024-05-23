@@ -2,7 +2,7 @@
 title: Apprentissage
 description: 
 published: true
-date: 2024-05-21T18:12:54.866Z
+date: 2024-05-23T03:04:48.225Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T18:12:54.866Z
@@ -29,6 +29,20 @@ dateCreated: 2024-05-21T18:12:54.866Z
 - <https://app.codility.com/programmers/>
 
 ## Livres
+
+- Robert Martin’s “Clean Code”
+- the Gang of Four’s “Design Patterns”
+- A Philosophy of Software Design
+- The Practice of Programming
+- Programming Pearls
+- Software specifications and requirements by Jackson
+- Plauger’s “Programming on Purpose I”
+- Invariants: A generative approach to programming
+- From mathematics to Generic Programming
+- Writing Solid Code, definitely seems like the closest fit to “Clean Code” in terms of target audience, while actually being a good book.
+- The Pragmatic Programmer is very good as it discusses not only code but all other activities involving programming: debugging, planning, testing, etc.
+- Algorithms To Live by
+- Cracking the Code Interview
 
 ## Ebooks
 
