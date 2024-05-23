@@ -2,7 +2,7 @@
 title: Apprentissage
 description: 
 published: true
-date: 2024-05-23T03:04:48.225Z
+date: 2024-05-23T03:06:04.008Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T18:12:54.866Z
@@ -43,6 +43,7 @@ dateCreated: 2024-05-21T18:12:54.866Z
 - The Pragmatic Programmer is very good as it discusses not only code but all other activities involving programming: debugging, planning, testing, etc.
 - Algorithms To Live by
 - Cracking the Code Interview
+- Effective Java
 
 ## Ebooks
 
