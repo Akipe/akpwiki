@@ -2,7 +2,7 @@
 title: Régler dérailleur
 description: 
 published: true
-date: 2024-04-17T20:22:52.692Z
+date: 2024-05-24T16:50:31.183Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T20:22:52.692Z
@@ -97,6 +97,11 @@ Il permet de gérer la distance entre le galet supérieur du dérailleur et le g
 Il faut visser et dévisser la vis qui permet le réglage de l'englober :
 - **Visser** permet d'éloigner le dérailleur du grand pignion.
 - **Dévisser** permet de raprocher le dérailleur du grand pignion.
+
+## Dérailleur avant
+
+- <https://www.youtube.com/watch?v=GZRcoisFxbg&t=199>
+- <
 
 ## Ressources
 
