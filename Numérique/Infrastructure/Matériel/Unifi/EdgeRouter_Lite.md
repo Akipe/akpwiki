@@ -2,7 +2,7 @@
 title: EdgeRouter Lite
 description: 
 published: true
-date: 2024-05-25T14:04:13.454Z
+date: 2024-05-25T14:12:10.568Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-25T14:04:13.454Z
@@ -12,9 +12,51 @@ dateCreated: 2024-05-25T14:04:13.454Z
 
 - <https://www.forshee.me/ubiquiti-edgerouter-lite-setup-part-1-the-basics/>
 
-### Configuration
+## Configuration
 
-#### DNS
+### Réinitialiser
+
+<https://help.ui.com/hc/en-us/articles/205202620-EdgeRouter-Reset-to-Factory-Defaults>
+
+- Materiel : "Clears all configuration and system files, resetting the device to the factory default state."
+- Logiciel : "Only clears the configuration and leaves the other system files intact."
+
+> User Tip: Usernames and passwords are stored in the configuration file. Using either reset methods will clear the configuration.
+
+#### Matériel
+
+The hardware reset is done using the physical reset button and can be done using either method below.
+
+##### Runtime
+
+> Runtime Reset Factory reset while the device is running/operational.
+
+1. Press and hold the reset button.
+2. The port LEDs will start light up in sequence starting from port 1 and ending at the last port.
+3. Continue holding the reset button for approximately 10 seconds until the LED on port 1 lights up again.
+4. Release the reset button.
+5. The EdgeRouter will reboot.
+6. Wait for the reboot to complete.
+7. Connect to the eth0 port and manage the device by opening a browser and navigating to the https://192.168.1.1 default IP address.
+
+##### Power On
+
+> Power On Reset Factory reset while powering on the device by plugging in the power cable.
+
+#### Logiciel
+
+##### Web UI
+
+Depuis l'interface web.
+
+##### Terminal
+
+```shell
+sudo cp /opt/vyatta/etc/config.boot.default /config/config.boot
+reboot
+```
+
+### DNS
 
 - https://help.ui.com/hc/en-us/articles/115002673188-EdgeRouter-Using-dnsmasq-for-DHCP-Server
 - https://help.ui.com/hc/en-us/articles/115010913367-EdgeRouter-DNS-Forwarding-Setup-and-Options
@@ -40,11 +82,11 @@ Puis
 save
 ```
 
-#### Hardware Offloading
+### Hardware Offloading
 
 - <https://help.ui.com/hc/en-us/articles/115006567467-EdgeRouter-Hardware-Offloading>
 
-##### Informations
+#### Informations
 
 ```shell
 show ubnt offload
@@ -59,7 +101,7 @@ set system offload ipv4 table-size ?
 set system offload ipv6 table-size ?
 ```
 
-##### Activer
+#### Activer
 
 ```shell
 set system offload ipv4 forwarding enable
@@ -81,7 +123,7 @@ set system offload ipv4 table-size ?
 set system offload ipv6 table-size ?
 ```
 
-#### UPNP
+### UPNP
 
 ```shell
 delete service upnp
@@ -125,11 +167,11 @@ save
 exit
 ```
 
-#### Wireguard
+### Wireguard
 
 - <https://github.com/WireGuard/wireguard-vyatta-ubnt/wiki/EdgeOS-and-Unifi-Gateway>
 
-#### Add Debian packages
+### Add Debian packages
 
 - <https://help.ui.com/hc/en-us/articles/205202560-EdgeRouter-Add-Debian-Packages-to-EdgeOS>
 
@@ -149,7 +191,7 @@ sudo apt-get update
 
 **Ne JAMAIS utilisé la commande `apt-get upgrade` !!!**
 
-#### Autre
+### Autre
 
 ```shell
 set service gui older-ciphers disable
