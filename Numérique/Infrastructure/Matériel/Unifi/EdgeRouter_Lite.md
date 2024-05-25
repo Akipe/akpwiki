@@ -2,7 +2,7 @@
 title: EdgeRouter Lite
 description: 
 published: true
-date: 2024-05-25T14:12:10.568Z
+date: 2024-05-25T14:12:43.221Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-25T14:04:13.454Z
@@ -42,6 +42,15 @@ The hardware reset is done using the physical reset button and can be done using
 ##### Power On
 
 > Power On Reset Factory reset while powering on the device by plugging in the power cable.
+
+1. Disconnect the power cord from the EdgeRouter.
+2. While reconnecting the power cord to the EdgeRouter, press and hold the reset button.
+3. The port LEDs will start light up in sequence starting from port 1 and ending at the last port.
+4. Continue holding the reset button for approximately 10 seconds until the LED on port 1 lights up again.
+5. Release the reset button.
+6. The EdgeRouter will reboot.
+7. Wait for the reboot to complete.
+8. Connect to the eth0 port and manage the device by opening a browser and navigating to the https://192.168.1.1 default IP address.
 
 #### Logiciel
 
