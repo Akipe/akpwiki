@@ -2,7 +2,7 @@
 title: Triban RC 520
 description: 
 published: true
-date: 2024-05-24T14:34:00.953Z
+date: 2024-05-25T08:34:46.458Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-24T14:18:07.806Z
@@ -26,6 +26,7 @@ Voici les références de l'ensemble des piéces de base :
 | Materiel | Référence | Lien
 |---|---|---
 | Étrier de frein (avant & arrière) | TRP HY/RD (mécanique & hydraulique) | [Site officiel](https://trpcycling.com/product/hy-rd/)
+| Groupe freins / dérailleur | SHIMANO 105 R7000 | <https://bike.shimano.com/fr-FR/product/component/shimano105-r7000.html>
 
 ## Références détaillé
 
