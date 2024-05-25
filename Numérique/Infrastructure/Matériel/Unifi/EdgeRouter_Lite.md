@@ -2,7 +2,7 @@
 title: EdgeRouter Lite
 description: 
 published: true
-date: 2024-05-25T14:19:23.850Z
+date: 2024-05-25T14:47:05.071Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-25T14:04:13.454Z
@@ -22,6 +22,10 @@ dateCreated: 2024-05-25T14:04:13.454Z
 - Logiciel : "Only clears the configuration and leaves the other system files intact."
 
 > User Tip: Usernames and passwords are stored in the configuration file. Using either reset methods will clear the configuration.
+
+Identifiants par défaut :
+
+> Identifiant et mot de passe : *ubnt*
 
 #### Matériel
 
