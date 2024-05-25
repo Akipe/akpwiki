@@ -2,7 +2,7 @@
 title: DNS
 description: 
 published: true
-date: 2024-05-25T18:35:45.115Z
+date: 2024-05-25T18:36:23.356Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-24T22:04:01.108Z
@@ -35,14 +35,14 @@ Serveur DNS associatif respectuant la vie privée.
 | Structure | Domaine | IPv4 | IPv6
 |---|---|---|---
 | **[FDN](https://www.fdn.fr/actions/dns/)** | ns0.fdn.fr | `80.67.169.12` | `2001:910:800::12`
-| | ns1.fdn.fr | `80.67.169.40` | `2001:910:800::40`
+| x | ns1.fdn.fr | `80.67.169.40` | `2001:910:800::40`
 | **[ARN](https://arn-fai.net/fr/internet-alternatif/dns)** | recursif.arn-fai.net | `89.234.141.66` | `2a00:5881:8100:1000::3`
 | **[Aquilenet](https://www.aquilenet.fr/services/dns/)** | gaia-dns.aquilenet.fr  | `185.233.100.100` | `2a0c:e300::100`
-| | hades-dns.aquilenet.fr | `185.233.100.101` | `2a0c:e300::101`
-| | dns.aquilenet.fr | `45.67.81.23` | `2a0c:e300::1337`
-| **[Wikimedia DNS](https://meta.wikimedia.org/wiki/Wikimedia_DNS)** et **[instructions](https://meta.wikimedia.org/wiki/Wikimedia_DNS/Instructions)** | | `185.71.138.138` | `2001:67c:930::1`
-| **[quad9](https://quad9.net/)** | | `9.9.9.9` | `2620:fe::fe`
-| | | `149.112.112.112` | `2620:fe::9`
+| x | hades-dns.aquilenet.fr | `185.233.100.101` | `2a0c:e300::101`
+| x | dns.aquilenet.fr | `45.67.81.23` | `2a0c:e300::1337`
+| **[Wikimedia DNS](https://meta.wikimedia.org/wiki/Wikimedia_DNS)** et **[instructions](https://meta.wikimedia.org/wiki/Wikimedia_DNS/Instructions)** | x | `185.71.138.138` | `2001:67c:930::1`
+| **[quad9](https://quad9.net/)** | x | `9.9.9.9` | `2620:fe::fe`
+| x | x | `149.112.112.112` | `2620:fe::9`
 
 ### DNS over TLS (DoT)
 
