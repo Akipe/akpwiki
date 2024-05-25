@@ -2,7 +2,7 @@
 title: EdgeRouter Lite
 description: 
 published: true
-date: 2024-05-25T14:47:05.071Z
+date: 2024-05-25T14:51:24.692Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-25T14:04:13.454Z
