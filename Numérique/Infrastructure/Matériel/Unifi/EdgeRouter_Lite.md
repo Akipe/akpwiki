@@ -2,7 +2,7 @@
 title: EdgeRouter Lite
 description: 
 published: true
-date: 2024-05-26T13:36:13.672Z
+date: 2024-05-26T13:39:46.705Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-25T14:04:13.454Z
@@ -222,4 +222,8 @@ set service gui older-ciphers disable
 show date # Check current date
 sudo su
 openssl dhparam -out /config/auth/dh.pem -2 4096
+```
+
+```shell
+set service gui dh-file /config/auth/dh.pem
 ```
