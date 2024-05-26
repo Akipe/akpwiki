@@ -2,7 +2,7 @@
 title: EdgeRouter Lite
 description: 
 published: true
-date: 2024-05-26T13:35:50.665Z
+date: 2024-05-26T13:36:13.672Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-25T14:04:13.454Z
@@ -205,6 +205,10 @@ sudo apt-get update
 ```
 
 **Ne JAMAIS utilisé la commande `apt-get upgrade` !!!**
+
+### OpenVPN
+
+<https://help.ui.com/hc/en-us/articles/115015971688-EdgeRouter-OpenVPN-Server>
 
 ### Sécurité
 
