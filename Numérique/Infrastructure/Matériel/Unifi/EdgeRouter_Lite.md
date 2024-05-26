@@ -2,7 +2,7 @@
 title: EdgeRouter Lite
 description: 
 published: true
-date: 2024-05-26T13:39:46.705Z
+date: 2024-05-26T13:41:02.101Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-25T14:04:13.454Z
@@ -208,7 +208,8 @@ sudo apt-get update
 
 ### OpenVPN
 
-<https://help.ui.com/hc/en-us/articles/115015971688-EdgeRouter-OpenVPN-Server>
+- <https://help.ui.com/hc/en-us/articles/115015971688-EdgeRouter-OpenVPN-Server>
+- <https://baihuqian.github.io/2021-08-22-secure-home-network-add-remote-access-vpn-to-edgerouter/>
 
 ### Sécurité
 
