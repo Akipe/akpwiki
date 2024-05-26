@@ -2,7 +2,7 @@
 title: EdgeRouter Lite
 description: 
 published: true
-date: 2024-05-25T14:51:24.692Z
+date: 2024-05-26T13:35:50.665Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-25T14:04:13.454Z
@@ -206,8 +206,16 @@ sudo apt-get update
 
 **Ne JAMAIS utilisé la commande `apt-get upgrade` !!!**
 
-### Autre
+### Sécurité
 
 ```shell
 set service gui older-ciphers disable
+```
+
+#### Générer `dhparam`
+
+```shell
+show date # Check current date
+sudo su
+openssl dhparam -out /config/auth/dh.pem -2 4096
 ```
