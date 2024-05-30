@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-05-30T09:03:51.331Z
+date: 2024-05-30T09:06:17.076Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -35,6 +35,7 @@ dateCreated: 2024-04-26T14:04:51.357Z
 #### DVD
 
 - https://www.makemkv.com/
+  - https://forum.makemkv.com/forum/viewtopic.php?t=1053
 - handbrake
 
 ## Sous-titres
