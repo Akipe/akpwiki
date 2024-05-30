@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-05-30T08:40:24.215Z
+date: 2024-05-30T08:58:17.490Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -20,6 +20,11 @@ dateCreated: 2024-04-26T14:04:51.357Z
   - https://m.youtube.com/watch?v=LkLCzfBa2gI
 - cueripper
 - fre:ac
+- abcde - A Better CD Encoder
+- cdparanoia
+- whipper
+  - 
+  - https://wiki.musichoarders.xyz/guides/ripping-cds/ripping-on-linux/
 
 - <https://flemmingss.com/perfect-cd-ripping-to-flac-with-exact-audio-copy/>
 
