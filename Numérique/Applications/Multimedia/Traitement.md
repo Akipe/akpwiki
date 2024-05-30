@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-05-30T08:32:12.382Z
+date: 2024-05-30T08:40:24.215Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -16,7 +16,8 @@ dateCreated: 2024-04-26T14:04:51.357Z
 
 - dbpoweramp
 - Exact Audio Copy
-  - I use burst mode by default since it's the fastest. Only if CueTools / AccurateRip tells me the rip is inaccurate, I try again in secure mode. 
+  - I use burst mode by default since it's the fastest. Only if CueTools / AccurateRip tells me the rip is inaccurate, I try again in secure mode.
+  - https://m.youtube.com/watch?v=LkLCzfBa2gI
 - cueripper
 - fre:ac
 
