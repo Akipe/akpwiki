@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-05-30T08:27:37.654Z
+date: 2024-05-30T08:31:02.605Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -16,6 +16,7 @@ dateCreated: 2024-04-26T14:04:51.357Z
 
 - dbpoweramp
 - Exact Audio Copy
+  - I use burst mode by default since it's the fastest. Only if CueTools / AccurateRip tells me the rip is inaccurate, I try again in secure mode. 
 - cueripper
 
 - <https://flemmingss.com/perfect-cd-ripping-to-flac-with-exact-audio-copy/>
