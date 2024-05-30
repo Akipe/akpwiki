@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-05-30T08:58:17.490Z
+date: 2024-05-30T08:59:02.715Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -25,6 +25,7 @@ dateCreated: 2024-04-26T14:04:51.357Z
 - whipper
   - 
   - https://wiki.musichoarders.xyz/guides/ripping-cds/ripping-on-linux/
+- cdparanoia
 
 - <https://flemmingss.com/perfect-cd-ripping-to-flac-with-exact-audio-copy/>
 
