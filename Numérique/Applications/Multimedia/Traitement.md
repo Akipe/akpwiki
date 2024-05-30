@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-05-30T09:07:39.171Z
+date: 2024-05-30T09:11:34.017Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -23,7 +23,7 @@ dateCreated: 2024-04-26T14:04:51.357Z
 - abcde - A Better CD Encoder
 - cdparanoia
 - whipper
-  - 
+  - bfjej
   - https://wiki.musichoarders.xyz/guides/ripping-cds/ripping-on-linux/
 - cdparanoia
 - Asunder
