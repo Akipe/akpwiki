@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-06-03T04:37:50.319Z
+date: 2024-06-03T04:38:28.868Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -44,6 +44,7 @@ dateCreated: 2024-04-26T14:04:51.357Z
 - Alcohol 120%
 - Game Jackal Pro
 - <https://github.com/Speedvicio/LazyAss-CD-Image-Ripper>
+- <https://github.com/saramibreak/DiscImageCreator>
 - Pour les CD/DVD protégés :
 	- activer la lecture RAW DAO (lire les données "cachés" utilisé pour les protections CD), lecteurs Philips, lit-on et plextor
 	- AnyDVD / CloneCD lancé en tache de font
