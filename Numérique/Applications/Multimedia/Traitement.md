@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-06-03T04:42:54.929Z
+date: 2024-06-03T04:43:12.975Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -53,6 +53,7 @@ dateCreated: 2024-04-26T14:04:51.357Z
   - vitesse recommandé : 2x / 4x
   - Guide :
   	- <https://www.betaarchive.com/contributions.php>
+    - <https://github.com/saramibreak/DiscImageCreator/wiki>
   
 
 ## Sous-titres
