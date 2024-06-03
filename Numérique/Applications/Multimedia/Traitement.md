@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-06-03T04:43:12.975Z
+date: 2024-06-03T04:45:49.484Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -42,6 +42,8 @@ dateCreated: 2024-04-26T14:04:51.357Z
 ### Jeux
 
 - Alcohol 120%
+	- Guide : <https://www.betaarchive.com/contributions.php#a120>
+	- Preconfigured: <https://www.betaarchive.com/files/A120FE_9902_PE.zip>
 - Game Jackal Pro
 - <https://github.com/Speedvicio/LazyAss-CD-Image-Ripper>
 - <https://github.com/saramibreak/DiscImageCreator>
