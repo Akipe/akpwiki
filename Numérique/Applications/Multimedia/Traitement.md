@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-06-03T04:37:32.058Z
+date: 2024-06-03T04:37:50.319Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -51,7 +51,7 @@ dateCreated: 2024-04-26T14:04:51.357Z
   - Utiliser le format 
   - vitesse recommandé : 2x / 4x
   - Guide :
-  	- 
+  	- <https://www.betaarchive.com/contributions.php>
   
 
 ## Sous-titres
