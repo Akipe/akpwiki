@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-06-03T04:45:49.484Z
+date: 2024-06-03T04:57:07.216Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -47,6 +47,8 @@ dateCreated: 2024-04-26T14:04:51.357Z
 - Game Jackal Pro
 - <https://github.com/Speedvicio/LazyAss-CD-Image-Ripper>
 - <https://github.com/saramibreak/DiscImageCreator>
+	- Guide : <https://www.betaarchive.com/contributions.php#discimagecreator>
+	- Preconfigured : <https://www.betaarchive.com/files/DIC_20240401_BA.zip> ; Mot de passe : BetaArchive
 - Pour les CD/DVD protégés :
 	- activer la lecture RAW DAO (lire les données "cachés" utilisé pour les protections CD), lecteurs Philips, lit-on et plextor
 	- AnyDVD / CloneCD lancé en tache de font
