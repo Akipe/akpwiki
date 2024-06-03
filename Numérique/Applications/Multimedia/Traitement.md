@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-05-30T09:11:34.017Z
+date: 2024-06-03T04:37:32.058Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
@@ -38,6 +38,21 @@ dateCreated: 2024-04-26T14:04:51.357Z
   - https://forum.makemkv.com/forum/viewtopic.php?t=1053
   - https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053
 - handbrake
+
+### Jeux
+
+- Alcohol 120%
+- Game Jackal Pro
+- <https://github.com/Speedvicio/LazyAss-CD-Image-Ripper>
+- Pour les CD/DVD protégés :
+	- activer la lecture RAW DAO (lire les données "cachés" utilisé pour les protections CD), lecteurs Philips, lit-on et plextor
+	- AnyDVD / CloneCD lancé en tache de font
+  - Utiliser le format MDF/MFS (l'ensemble des données/partitions du disque) à la place du format ISO (une seul partition)
+  - Utiliser le format 
+  - vitesse recommandé : 2x / 4x
+  - Guide :
+  	- 
+  
 
 ## Sous-titres
 
