@@ -2,7 +2,7 @@
 title: ffmpeg
 description: 
 published: true
-date: 2024-06-06T17:19:15.457Z
+date: 2024-06-06T17:19:26.072Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-06T17:18:26.536Z
@@ -12,6 +12,7 @@ dateCreated: 2024-06-06T17:18:26.536Z
 
 - <https://nixsanctuary.com/best-ffmpeg-advanced-commands-for-video-audio-and-images-encoding/>
 - <https://nixsanctuary.com/ffmpeg-now-supports-jpeg-xl-and-avif-how-to-convert-images/>
+- <https://lecrabeinfo.net/comment-utiliser-ffmpeg-fichiers-video-et-audio.html>
 
 ## Commandes
 
