@@ -2,7 +2,7 @@
 title: Sunshine et Moonlight
 description: 
 published: true
-date: 2024-06-06T16:47:29.683Z
+date: 2024-06-06T16:47:40.407Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-06T16:41:04.214Z
@@ -10,7 +10,7 @@ dateCreated: 2024-06-06T16:41:04.214Z
 
 # Sunshine et Moonlight
 
-Moonlight utilise à la base le protocole * Nvidia Gamestream*.
+Moonlight utilise à la base le protocole *Nvidia Gamestream*.
 <https://moonlight-stream.org/>
 
 Sunshine is an open source application for replace Nvidia Geforce Experience.
