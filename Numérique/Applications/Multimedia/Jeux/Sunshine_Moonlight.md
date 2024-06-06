@@ -2,7 +2,7 @@
 title: Sunshine et Moonlight
 description: 
 published: true
-date: 2024-06-06T16:47:40.407Z
+date: 2024-06-06T16:48:00.753Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-06T16:41:04.214Z
@@ -56,3 +56,19 @@ Raccourcie pour changer la configuration des écrans : ```Windows + P```
 Puis faire "Fleche bas" pour choisir la configuration :
 
 ![moonlight_gestion_multi_ecran.webp](/numerique/application/moonlight_gestion_multi_ecran.webp)
+
+## Erreurs
+
+### Wrong screen stream
+
+1. Ensure your primary monitor is the BIOS primary display (the one the logo appears on on boot.
+1. (Suggested) Make a windows restore point, just in case.
+1. Unplug every monitor except your primary display.
+1. Open Registry Editor.
+1. Navigate to HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Configuration.
+1. Delete all sub-items under Configuration.
+1. Reboot your machine.
+1. Reconnect your other monitors.
+1. Profit.
+
+> <https://github.com/moonlight-stream/nvidia-gamestream-issues/issues/22#issuecomment-1010348630>
