@@ -2,7 +2,7 @@
 title: Bookstack
 description: 
 published: true
-date: 2024-06-06T17:29:05.036Z
+date: 2024-06-06T17:29:19.327Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-06T17:29:05.036Z
@@ -15,6 +15,7 @@ dateCreated: 2024-06-06T17:29:05.036Z
 ### User timeout
 
 `.env`:
+
 ```php
 SESSION_LIFETIME=120 # Minutes
 ```
