@@ -1,8 +1,8 @@
 ---
-title: Nomenclature
+title: Nommenclature
 description: 
 published: true
-date: 2024-06-06T16:58:11.201Z
+date: 2024-06-06T16:58:30.356Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-06T16:58:11.201Z
