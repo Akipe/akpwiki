@@ -2,7 +2,7 @@
 title: JavaScript
 description: 
 published: true
-date: 2024-05-21T14:40:34.124Z
+date: 2024-06-09T23:11:00.198Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T12:26:06.796Z
@@ -1051,6 +1051,10 @@ L'activation permets plus précisement :
 - "eval" ne créer pas de variable dépassant la porté de l'"eval"
 
 Plus d'informations sur [MDM Strict mode](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Strict_mode)
+
+## Conventions
+
+- <https://standardjs.com/>
 
 ## Astuces
 
