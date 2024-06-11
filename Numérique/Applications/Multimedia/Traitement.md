@@ -2,13 +2,17 @@
 title: Traitement
 description: 
 published: true
-date: 2024-06-06T17:24:35.536Z
+date: 2024-06-11T09:30:42.124Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
 ---
 
 # Traitement
+
+## Tag
+
+- Mp3tag : <https://www.mp3tag.de/en/index.html>
 
 ## Ripper
 
