@@ -2,7 +2,7 @@
 title: HandBrake
 description: 
 published: true
-date: 2024-06-11T08:26:30.280Z
+date: 2024-06-11T08:27:49.314Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-11T08:23:29.682Z
@@ -266,3 +266,17 @@ HandBrake is a open-source tool, built by volunteers, for converting video from 
   "VersionMinor": 0
 }
 ```
+
+## Conseils d'encodage
+
+### Audio
+
+#### Opus
+
+Maximum 255 kbps par channel.
+
+- Channel 7.1 : 512kbps
+- Channel 6.1 : 448kbps
+- Channel 5.1 : 384kbps / 256kbps
+- Channel stéréo : 192kbps / 160kbps
+- Channel mono : 128kbps
