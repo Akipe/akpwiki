@@ -2,7 +2,7 @@
 title: Traitement
 description: 
 published: true
-date: 2024-06-11T09:30:42.124Z
+date: 2024-06-11T09:31:25.191Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T14:04:51.357Z
