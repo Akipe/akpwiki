@@ -2,7 +2,7 @@
 title: Proxmox
 description: 
 published: true
-date: 2024-07-19T17:23:48.143Z
+date: 2024-07-19T17:24:13.145Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-19T17:23:48.143Z
@@ -22,3 +22,6 @@ Changer les fichiers suivants :
 - `/etc/hostname`
 - `/etc/mailname`
 - `/etc/postfix/main.cf`
+
+#### Définir le VLAN
+
