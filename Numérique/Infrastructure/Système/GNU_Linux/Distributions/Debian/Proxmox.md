@@ -2,7 +2,7 @@
 title: Proxmox
 description: 
 published: true
-date: 2024-07-19T17:29:35.407Z
+date: 2024-07-19T17:34:27.910Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-19T17:23:48.143Z
@@ -39,7 +39,7 @@ iface vmbr0 inet static
         bridge-vlan-aware yes
         bridge-vids 2-4094
 
-auto vmbr0.100 # Définir le VLAN, par exemple à 100
+auto vmbr0.100
 iface vmbr0.100 inet static
         address 10.0.0.100/24
         gateway 10.0.0.1
