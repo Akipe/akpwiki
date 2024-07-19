@@ -2,7 +2,7 @@
 title: Proxmox
 description: 
 published: true
-date: 2024-07-19T18:24:21.177Z
+date: 2024-07-19T18:27:41.551Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-19T17:23:48.143Z
@@ -189,20 +189,20 @@ Pour tester :
 echo c > /proc/sysrq-trigger
 ```
 
-### Qemu VM
+#### Qemu VM
 
-#### Configuration
+##### Configuration
 
-##### PCI Passthrough
+###### PCI Passthrough
 
 - <https://pve.proxmox.com/wiki/PCI(e)_Passthrough>
 - <https://pve.proxmox.com/wiki/PCI_Passthrough>
 - <https://leduccc.medium.com/improving-the-performance-of-a-windows-10-guest-on-qemu-a5b3f54d9cf5>
 - <https://asded.gitlab.io/post/2023-07-01-pci-passthrough-proxmox-04/>
 
-##### SR-IOV
+###### SR-IOV
 
-##### Vérifier support materiel
+###### Vérifier support materiel
 
 ```shell
 lspci -vvv -s 02:00.0 | grep -A 9 SR-IOV
@@ -224,9 +224,9 @@ lspci -vvv -s 02:00.0 | grep -A 9 SR-IOV
             VF Migration: offset: 00000000, BIR: 0
 ```
 
-#### Problèmatiques
+##### Problèmatiques
 
-##### kvm: Hyper-V enlightened VMCS (hv-evmcs) requires Hyper-V virtual APIC (hv-vapic)
+###### kvm: Hyper-V enlightened VMCS (hv-evmcs) requires Hyper-V virtual APIC (hv-vapic)
 
 - <https://forum.proxmox.com/threads/nested-virtualization-stopped-working-pve-6-1-5.64316/>
 
@@ -256,11 +256,11 @@ sockets: 1
 vmgenid: f3a42be1-b6c9-4979-969b-eac838aa6c9f
 ```
 
-### LXC container
+#### LXC container
 
-#### Attach USB device
+##### Attach USB device
 
-##### Get device informations
+###### Get device informations
 
 Sur l’hôte, utiliser l’utilitaire lsusb pour lister les devices connectés. Récupérer les nombres Bus et Device (ici 001 et 003) pour en déduire le chemin vers le fichier spécial du device.
 
@@ -284,7 +284,7 @@ ls -al /dev/bus/usb/001/003
 crw-rw-r-- 1 root root 189, 2 Jul 24 09:46 /dev/bus/usb/001/003
 ```
 
-##### Configure LXC container
+###### Configure LXC container
 
 Maintenant qu’on a les 4 nombres, éditer le fichier de configuration du container 101. Le major+minor sert pour autoriser le container à manipuler le device et le chemin vers le fichier spécial doit être monté exactement au même endroit dans le container LXC
 
@@ -312,7 +312,7 @@ Bus 001 Device 003: ID 0a12:0001 Cambridge Silicon Radio, Ltd Bluetooth Dongle (
 Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 ```
 
-### A ajouter dans ansible
+#### A ajouter dans ansible
 
 ```ini
 # grub config
@@ -366,7 +366,7 @@ options vfio-pci 1b73:1100
 options vfio-pci 14e4:43a0
 ```
 
-### Changer le hostname
+#### Changer le hostname
 
 Editer les fichiers `/etc/hosts`, `/etc/hostname`, `/etc/mailname` et `/etc/postfix/main.cf`
 
