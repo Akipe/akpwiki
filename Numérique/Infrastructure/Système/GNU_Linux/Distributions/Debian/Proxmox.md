@@ -2,7 +2,7 @@
 title: Proxmox
 description: 
 published: true
-date: 2024-07-19T18:27:41.551Z
+date: 2024-07-20T12:23:57.924Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-19T17:23:48.143Z
@@ -92,10 +92,14 @@ w /sys/devices/system/cpu/cpufreq/conservative/ignore_nice_load - - - - 1
 - <https://www.admin-magazine.com/mobile/HPC/Articles/Tuning-ZFS-for-Speed-on-Linux>
 
 ```shell
-# A definir dans grub comme paramètre de démarage du noyau
-zfs.zfs_arc_max=536870912 # (for 512MiB)
-zfs.zfs_arc_min=268435456 # (for 256MiB, needs to be lower than zfs.zfs_arc_max)
-zfs.zfs_arc_max=536870912 zfs.zfs_arc_min=268435456
+# /etc/modprobe.d/zfs.conf
+options zfs zfs_arc_max=536870912 # (for 512MiB)
+options zfs zfs_arc_min=268435456 # (for 256MiB, needs to be lower than zfs.zfs_arc_max)
+```
+
+```shell
+update-initramfs -u
+proxmox-boot-tool refresh
 ```
 
 #### Watchdog
