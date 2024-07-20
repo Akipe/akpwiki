@@ -2,7 +2,7 @@
 title: Mount
 description: 
 published: true
-date: 2024-07-20T13:39:56.167Z
+date: 2024-07-20T13:47:10.162Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-20T13:39:56.167Z
@@ -15,7 +15,7 @@ dateCreated: 2024-07-20T13:39:56.167Z
 ### fstab
 
 ```fstab
-//SERVER/SHARENAME /mnt/MOUNTPOINT cifs _netdev,nofail,username=myuser,password=mypass,x-systemd.automount 0 0
+//SERVER/SHARENAME /mnt/MOUNTPOINT cifs _netdev,nofail,iocharset=utf8,username=myuser,password=mypass,x-systemd.automount,uid=root,gid=root 0 0
 //SERVER/SHARENAME /mnt/MOUNTPOINT cifs _netdev,nofail,credentials=/etc/samba/credentials/share,x-systemd.automount 0 0
 ```
 
