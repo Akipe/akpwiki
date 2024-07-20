@@ -2,7 +2,7 @@
 title: Proxmox Virtual Environment
 description: 
 published: true
-date: 2024-07-20T15:01:27.235Z
+date: 2024-07-20T15:03:13.279Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-19T17:23:48.143Z
@@ -374,20 +374,27 @@ options vfio-pci 14e4:43a0
 
 Editer les fichiers `/etc/hosts`, `/etc/hostname`, `/etc/mailname` et `/etc/postfix/main.cf`
 
-## Installation
+### Installation
 
-### Raspberry Pi
+#### Raspberry Pi
 
 Utiliser une version maintenu par la communauté appelé **Pimox** : <https://github.com/pimox/pimox7>
 
-## Outils et extensions
+### Outils et extensions
 
-### Edge kernel
+#### Edge kernel
 
 Proxmox Edge kernels : <https://github.com/fabianishere/pve-edge-kernel>
 
-### Scripts
+#### Scripts
 
 - <https://tteck.github.io/Proxmox/>
 
+## Guest
+
 ## Ressources
+
+### Documentation
+
+- <https://pbs.proxmox.com/wiki/>
+- <https://pve.proxmox.com/pve-docs/>
