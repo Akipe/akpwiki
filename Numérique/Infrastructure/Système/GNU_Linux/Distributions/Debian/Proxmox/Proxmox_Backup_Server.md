@@ -2,13 +2,21 @@
 title: Proxmox Backup Server
 description: 
 published: true
-date: 2024-07-20T13:59:00.311Z
+date: 2024-07-20T14:58:57.969Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-20T13:56:28.149Z
 ---
 
 # Proxmox Backup Server
+
+## Information
+
+### Afficher l'empreinte du certificat
+
+```shell
+proxmox-backup-manager cert info |grep Fingerprint
+```
 
 ## Configuration
 
