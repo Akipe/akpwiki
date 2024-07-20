@@ -2,7 +2,7 @@
 title: Mount
 description: 
 published: true
-date: 2024-07-20T13:47:30.269Z
+date: 2024-07-20T13:49:01.169Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-20T13:39:56.167Z
@@ -29,4 +29,12 @@ password=mypass
 chown root:root /etc/samba/credentials
 chmod 700 /etc/samba/credentials
 chmod 600 /etc/samba/credentials/share
+```
+
+````shell
+sudo systemctl daemon-reload
+# Remote mount
+sudo systemctl restart remote-fs.target
+# Local mount
+sudo systemctl restart local-fs.target
 ```
