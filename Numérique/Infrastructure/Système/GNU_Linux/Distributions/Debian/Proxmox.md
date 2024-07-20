@@ -1,14 +1,14 @@
 ---
-title: Proxmox
+title: Proxmox Virtual Environment
 description: 
 published: true
-date: 2024-07-20T12:23:57.924Z
+date: 2024-07-20T15:01:27.235Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-19T17:23:48.143Z
 ---
 
-# Proxmox
+# Proxmox Virtual Environment
 
 ## Host
 
