@@ -2,7 +2,7 @@
 title: Proxmox Virtual Environment
 description: 
 published: true
-date: 2024-07-20T15:03:54.308Z
+date: 2024-07-20T17:09:23.988Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-19T17:23:48.143Z
@@ -31,6 +31,10 @@ pct set <VMID> --hostname <newname>
 ```
 
 ### Configuration
+
+#### Fail2ban
+
+- <https://pve.proxmox.com/wiki/Fail2ban#Legacy_Option:_Using_rsyslog_Backend>
 
 #### Changement du hostname
 
