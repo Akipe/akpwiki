@@ -2,7 +2,7 @@
 title: Proxmox Virtual Environment
 description: 
 published: true
-date: 2024-07-20T15:03:13.279Z
+date: 2024-07-20T15:03:54.308Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-19T17:23:48.143Z
@@ -369,10 +369,6 @@ options vfio-pci 1b73:1100
 # Wifi
 options vfio-pci 14e4:43a0
 ```
-
-#### Changer le hostname
-
-Editer les fichiers `/etc/hosts`, `/etc/hostname`, `/etc/mailname` et `/etc/postfix/main.cf`
 
 ### Installation
 
