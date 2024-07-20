@@ -2,7 +2,7 @@
 title: Proxmox Backup Server
 description: 
 published: true
-date: 2024-07-20T13:56:28.149Z
+date: 2024-07-20T13:59:00.311Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-20T13:56:28.149Z
@@ -14,7 +14,7 @@ dateCreated: 2024-07-20T13:56:28.149Z
 
 ### Montage d'un datatstore en CIFS
 
-Voir [Mount](/Numérique/Infrastructure/Système/GNU_Linux/Mount)
+Voir [Mount](/Numérique/Infrastructure/Système/GNU_Linux/Mount#fstab)
 
 Pour définir le `uid` et le `gid`, on récupére la valeur de la commande `id backup`.
 
