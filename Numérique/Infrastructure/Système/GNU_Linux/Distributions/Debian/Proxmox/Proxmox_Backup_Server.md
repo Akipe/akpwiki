@@ -2,7 +2,7 @@
 title: Proxmox Backup Server
 description: 
 published: true
-date: 2024-07-20T14:59:52.657Z
+date: 2024-07-20T15:00:10.674Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-20T13:56:28.149Z
@@ -35,6 +35,10 @@ Créer en terminal de datastore à la main :
 ```shell
 proxmox-backup-manager datastore create NAME /mnt/tl-cifs/dest
 ```
+
+### Fail2ban
+
+- <https://pbs.proxmox.com/wiki/index.php/Fail2ban>
 
 ## Ressources
 
