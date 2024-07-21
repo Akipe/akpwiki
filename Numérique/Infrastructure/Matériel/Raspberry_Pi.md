@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T13:23:18.904Z
+date: 2024-07-21T13:23:57.920Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -266,6 +266,10 @@ ExecStart=/bin/bash -c '/usr/bin/echo '1-1' | /usr/bin/tee /sys/bus/usb/drivers/
 
 [Install]
 WantedBy=multi-user.target
+```
+
+```shell
+ sudo systemctl enable --now disable_usb.service
 ```
 
 ## Ressources
