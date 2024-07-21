@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T13:01:29.179Z
+date: 2024-07-21T13:02:06.941Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -194,7 +194,7 @@ systemctl disable avahi-daemon.service
 sudo apt install zram-tools
 ```
 
-Editer le fichier `/etc/sysctl.conf` :
+Editer le fichier `/etc/sysctl.d/80-zram.conf` :
 
 ```ini
 vm.vfs_cache_pressure=500
