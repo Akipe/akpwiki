@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T13:07:19.762Z
+date: 2024-07-21T13:08:45.479Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -221,6 +221,17 @@ zramctl
 sudo ln -s /usr/share/systemd/tmp.mount /etc/systemd/system/tmp.mount
 sudo systemctl enable --now tmp.mount
 ```
+
+### Mettre les logs en mémoire vive
+
+```shell
+echo "deb [signed-by=/usr/share/keyrings/azlux-archive-keyring.gpg] http://packages.azlux.fr/debian/ bookworm main" | sudo tee /etc/apt/sources.list.d/azlux.list
+sudo wget -O /usr/share/keyrings/azlux-archive-keyring.gpg  https://azlux.fr/repo.gpg
+sudo apt update
+sudo apt install log2ram
+```
+
+- <https://github.com/azlux/log2ram>
 
 ## Ressources
 
