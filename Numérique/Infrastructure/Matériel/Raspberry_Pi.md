@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T13:36:58.016Z
+date: 2024-07-21T13:37:55.518Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -275,7 +275,7 @@ sudo systemctl enable --now disable_usb.service
 
 ## Problèmes
 
-###
+### `W: http://raspbian.raspberrypi.com/raspbian/dists/bookworm/InRelease: Key is stored in legacy trusted.gpg keyring (/etc/apt/trusted.gpg), see the DEPRECATION section in apt-key(8) for details.`
 
 ```shell
 sudo apt-key list
