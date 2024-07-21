@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T12:23:12.413Z
+date: 2024-07-21T12:36:36.222Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -144,11 +144,19 @@ rpi-eeprom-update -r
 sudo raspi-config
 ```
 
-### Configurer Raspberry Pi OS pour une utilisation en mode serveur
+### Changer manuellement les paramètres
 
-#### 
+```shell
+sudo nano /boot/firmware/config.txt
+```
 
-#### Ressources
+Liste des paramètres : <https://www.raspberrypi.com/documentation/computers/config_txt.html>
+
+#### Mémoire GPU
+
+
+
+## Ressources
 
 - <https://www.raspberrypi.com/documentation/computers/raspberry-pi.html>
 - Bootloader configuration : <https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#raspberry-pi-4-bootloader-configuration>
