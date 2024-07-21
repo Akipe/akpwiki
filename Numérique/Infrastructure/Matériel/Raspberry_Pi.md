@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T13:24:29.461Z
+date: 2024-07-21T13:28:04.087Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -246,6 +246,7 @@ systemctl status log2ram
 ### Désactiver les ports USB
 
 ```shell
+sudo apt install uhubctl
 echo '1-1' | sudo tee /sys/bus/usb/drivers/usb/unbind
 ```
 
