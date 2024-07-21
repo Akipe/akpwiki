@@ -2,7 +2,7 @@
 title: FreeBSD
 description: 
 published: true
-date: 2024-07-21T19:09:20.916Z
+date: 2024-07-21T19:19:42.680Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T11:40:23.220Z
@@ -20,6 +20,10 @@ dateCreated: 2024-05-21T11:40:23.220Z
 pkg update
 pkg install cpu-microcode
 pkg install devcpu-data
+
+echo 'microcode_update_enable="YES"' >> /etc/rc.conf
+
+service microcode_update start
 ```
 
 ```conf
