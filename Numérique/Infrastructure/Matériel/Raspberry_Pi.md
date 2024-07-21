@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T12:36:36.222Z
+date: 2024-07-21T12:40:02.144Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -152,8 +152,15 @@ sudo nano /boot/firmware/config.txt
 
 Liste des paramètres : <https://www.raspberrypi.com/documentation/computers/config_txt.html>
 
+```shell
+cat /boot/overlays/README
+```
+
 #### Mémoire GPU
 
+```ini
+gpu_mem=16
+```
 
 
 ## Ressources
