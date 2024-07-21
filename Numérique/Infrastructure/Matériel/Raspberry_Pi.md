@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T12:43:42.893Z
+date: 2024-07-21T12:51:51.897Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -160,6 +160,26 @@ cat /boot/overlays/README
 
 ```ini
 gpu_mem=16
+```
+
+#### Désactiver le bluetooth
+
+```ini
+dtoverlay=disable-bt
+```
+
+```shell
+sudo systemctl --now disable hciuart.service bluetooth.service
+```
+
+#### Désactiver le wifi
+
+```ini
+dtoverlay=disable-wifi
+```
+
+```shell
+sudo systemctl --now disable wpa_supplicant
 ```
 
 ## Ressources
