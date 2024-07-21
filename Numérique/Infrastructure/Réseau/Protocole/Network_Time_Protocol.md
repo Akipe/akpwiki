@@ -2,7 +2,7 @@
 title: Network Time Protocol
 description: 
 published: true
-date: 2024-07-21T21:23:11.768Z
+date: 2024-07-21T21:24:17.594Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-06T16:51:44.873Z
@@ -49,4 +49,6 @@ Chiffré avec SSL.
 | | `ntppool2.time.nl`
 
 - <https://gist.github.com/jauderho/2ad0d441760fc5ed69d8d4e2d6b35f8d>
-- <https://psychogun.github.io/docs/opnsense/Redirect-NTP-to-internal-NTP/>
+- <https://github.com/jauderho/nts-servers>
+- <https://netfuture.ch/2022/01/configuring-an-nts-capable-ntp-server/>
+
