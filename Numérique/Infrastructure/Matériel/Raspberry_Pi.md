@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-04-19T17:06:24.959Z
+date: 2024-07-21T12:18:49.775Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -142,3 +142,7 @@ rpi-eeprom-update -r
 
 - <https://www.raspberrypi.com/documentation/computers/raspberry-pi.html>
 - Bootloader configuration : <https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#raspberry-pi-4-bootloader-configuration>
+
+##### Documentation
+
+- <https://www.raspberrypi.com/documentation/computers/os.html>
