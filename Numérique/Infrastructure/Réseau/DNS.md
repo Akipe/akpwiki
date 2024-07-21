@@ -2,7 +2,7 @@
 title: DNS
 description: 
 published: true
-date: 2024-05-25T18:37:11.807Z
+date: 2024-07-21T21:10:38.836Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-24T22:04:01.108Z
@@ -47,7 +47,7 @@ Serveur DNS associatif respectuant la vie privée.
 ### DNS over TLS (DoT)
 
 | Structure | Domaine | IPv4 | IPv6 | Tor
-|---|---|---|---
+|---|---|---|---|---
 | **[FDN](https://www.fdn.fr/actions/dns/)** | `ns0.fdn.fr` | `80.67.169.12` | `2001:910:800::12`
 |     | `ns1.fdn.fr` | `80.67.169.40` | `2001:910:800::40`
 | **[Aquilenet](https://dns.aquilenet.fr/)** | `dns.aquilenet.fr` | `45.67.81.23` | `2a0c:e300::1337`
