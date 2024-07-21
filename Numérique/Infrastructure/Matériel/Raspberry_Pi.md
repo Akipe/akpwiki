@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T13:40:39.208Z
+date: 2024-07-21T13:46:37.723Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -14,7 +14,7 @@ dateCreated: 2024-04-19T17:06:24.959Z
 
 ### Raspberry pi zero
 
-#### IdéesIdées
+#### Idées
 
 - <https://techsystem.fr/axzez-interceptor-carrier-board/>
 - <https://learn.pimoroni.com/article/getting-started-with-pirate-audio>
@@ -272,6 +272,16 @@ WantedBy=multi-user.target
 ```shell
 sudo systemctl enable --now disable_usb.service
 ```
+
+### Installer Docker
+
+#### arm64
+
+- <https://docs.docker.com/engine/install/debian/>
+
+#### arm32
+
+- <https://docs.docker.com/engine/install/raspberry-pi-os/>
 
 ## Problèmes
 
