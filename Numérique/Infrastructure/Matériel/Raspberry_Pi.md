@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T12:55:08.670Z
+date: 2024-07-21T13:00:34.082Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -181,6 +181,27 @@ dtoverlay=disable-wifi
 ```shell
 sudo systemctl mask wpa_supplicant.service
 ```
+
+### Alléger Raspberry Pi OS
+
+```shell
+systemctl disable avahi-daemon.service
+```
+
+### Zram
+
+```shell
+sudo apt install zram-tools
+```
+
+Pour vérifier :
+
+```shell
+sudo cat /proc/swaps
+zramctl
+```
+
+- <https://github.com/garyexplains/examples/blob/master/how_to_enable_ZRAM_Raspberry_Pi.md>
 
 ## Ressources
 
