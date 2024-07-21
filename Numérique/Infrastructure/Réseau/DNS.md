@@ -2,7 +2,7 @@
 title: DNS
 description: 
 published: true
-date: 2024-07-21T21:10:38.836Z
+date: 2024-07-21T21:15:03.558Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-24T22:04:01.108Z
@@ -43,6 +43,7 @@ Serveur DNS associatif respectuant la vie privée.
 | **[Wikimedia DNS](https://meta.wikimedia.org/wiki/Wikimedia_DNS)** et **[instructions](https://meta.wikimedia.org/wiki/Wikimedia_DNS/Instructions)** | x | `185.71.138.138` | `2001:67c:930::1`
 | **[quad9](https://quad9.net/)** | x | `9.9.9.9` | `2620:fe::fe`
 | x | x | `149.112.112.112` | `2620:fe::9`
+| **[Mullvad](https://mullvad.net/fr/help/dns-over-https-and-dns-over-tls)** | dns.mullvad.net | `194.242.2.2` | `2a07:e340::2`
 
 ### DNS over TLS (DoT)
 
