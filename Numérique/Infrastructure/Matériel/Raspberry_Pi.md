@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T13:46:37.723Z
+date: 2024-07-21T13:55:40.103Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -282,6 +282,12 @@ sudo systemctl enable --now disable_usb.service
 #### arm32
 
 - <https://docs.docker.com/engine/install/raspberry-pi-os/>
+
+### VLAN
+
+```shell
+sudo apt install vlan
+```
 
 ## Problèmes
 
