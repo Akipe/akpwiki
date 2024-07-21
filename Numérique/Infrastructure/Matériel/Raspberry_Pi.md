@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T13:02:06.941Z
+date: 2024-07-21T13:04:53.226Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -214,6 +214,13 @@ zramctl
 ```
 
 - <https://github.com/garyexplains/examples/blob/master/how_to_enable_ZRAM_Raspberry_Pi.md>
+
+### Tmpfs pour `/tmp`
+
+```shell
+sudo ln -s /usr/share/systemd/tmp.mount /etc/systemd/system/tmp.mount
+sudo systemctl enable --now tmp.mount
+```
 
 ## Ressources
 
