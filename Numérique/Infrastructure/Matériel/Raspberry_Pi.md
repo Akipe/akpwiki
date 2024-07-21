@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T13:37:55.518Z
+date: 2024-07-21T13:40:39.208Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
