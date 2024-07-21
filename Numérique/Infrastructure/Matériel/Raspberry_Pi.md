@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T13:19:14.472Z
+date: 2024-07-21T13:23:18.904Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -246,13 +246,26 @@ systemctl status log2ram
 ### Désactiver les ports USB
 
 ```shell
-echo '1-1' |sudo tee /sys/bus/usb/drivers/usb/unbind
+echo '1-1' | sudo tee /sys/bus/usb/drivers/usb/unbind
 ```
 
 Pour réactiver :
 
 ```shell
-echo '1-1' |sudo tee /sys/bus/usb/drivers/usb/bind
+echo '1-1' | sudo tee /sys/bus/usb/drivers/usb/bind
+```
+
+Au démarrage avec systemd `/etc/systemd/system\disable_usb.service` :
+
+```ini
+[Unit]
+Description=Disable USB ports
+
+[Service]
+ExecStart=/bin/bash -c '/usr/bin/echo '1-1' | /usr/bin/tee /sys/bus/usb/drivers/usb/bind'
+
+[Install]
+WantedBy=multi-user.target
 ```
 
 ## Ressources
