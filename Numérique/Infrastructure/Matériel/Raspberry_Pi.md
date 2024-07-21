@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T13:23:57.920Z
+date: 2024-07-21T13:24:18.931Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -269,7 +269,7 @@ WantedBy=multi-user.target
 ```
 
 ```shell
- sudo systemctl enable --now disable_usb.service
+sudo systemctl enable --now disable_usb.service
 ```
 
 ## Ressources
