@@ -2,7 +2,7 @@
 title: Proxmox Virtual Environment
 description: 
 published: true
-date: 2024-07-21T18:42:47.642Z
+date: 2024-07-21T18:43:32.032Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-19T17:23:48.143Z
@@ -77,6 +77,7 @@ cat /sys/devices/system/cpu/cpu*/cpufreq/scaling_driver
 cat /sys/devices/system/cpu/cpu*/cpufreq/energy_performance_available_preferences
 
 echo conservative | tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor
+cat /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor
 
 > # /etc/tmpfiles.d/energy.conf
 w /sys/devices/system/cpu/cpufreq/policy*/scaling_governor - - - - powersave
