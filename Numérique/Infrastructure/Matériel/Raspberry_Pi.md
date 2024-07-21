@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T13:24:18.931Z
+date: 2024-07-21T13:24:29.461Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -255,7 +255,7 @@ Pour réactiver :
 echo '1-1' | sudo tee /sys/bus/usb/drivers/usb/bind
 ```
 
-Au démarrage avec systemd `/etc/systemd/system\disable_usb.service` :
+Au démarrage avec systemd `/etc/systemd/system/disable_usb.service` :
 
 ```ini
 [Unit]
