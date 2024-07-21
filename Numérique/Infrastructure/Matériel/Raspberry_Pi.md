@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T13:55:40.103Z
+date: 2024-07-21T13:57:35.925Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -287,6 +287,13 @@ sudo systemctl enable --now disable_usb.service
 
 ```shell
 sudo apt install vlan
+sudo vim /etc/network/interfaces.d/vlans
+```
+
+```ini
+auto eth0.100
+iface eth0.100 inet manual
+  vlan-raw-device eth0
 ```
 
 ## Problèmes
