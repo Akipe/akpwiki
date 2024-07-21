@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T12:18:49.775Z
+date: 2024-07-21T12:21:47.586Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -137,6 +137,10 @@ To cancel the pending update :
 ```bash
 rpi-eeprom-update -r
 ```
+
+### Configurer Raspberry Pi OS pour une utilisation en mode serveur
+
+
 
 #### Ressources
 
