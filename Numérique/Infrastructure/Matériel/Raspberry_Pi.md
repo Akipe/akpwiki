@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T12:40:02.144Z
+date: 2024-07-21T12:43:42.893Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -161,7 +161,6 @@ cat /boot/overlays/README
 ```ini
 gpu_mem=16
 ```
-
 
 ## Ressources
 
