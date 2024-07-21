@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: 
 published: true
-date: 2024-07-21T13:28:04.087Z
+date: 2024-07-21T13:36:58.016Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:06:24.959Z
@@ -272,6 +272,17 @@ WantedBy=multi-user.target
 ```shell
 sudo systemctl enable --now disable_usb.service
 ```
+
+## Problèmes
+
+###
+
+```shell
+sudo apt-key list
+sudo apt-key export 90FDDD2E | sudo gpg --dearmour -o /etc/apt/trusted.gpg.d/raspverrypi-stable.gpg
+```
+
+- <https://itsfoss.com/key-is-stored-in-legacy-trusted-gpg/>
 
 ## Ressources
 
