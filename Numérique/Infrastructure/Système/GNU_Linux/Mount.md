@@ -2,7 +2,7 @@
 title: Mount
 description: 
 published: true
-date: 2024-07-20T13:49:01.169Z
+date: 2024-07-24T11:31:55.399Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-20T13:39:56.167Z
@@ -25,7 +25,7 @@ username=myuser
 password=mypass
 ```
 
-````shell
+```shell
 chown root:root /etc/samba/credentials
 chmod 700 /etc/samba/credentials
 chmod 600 /etc/samba/credentials/share
