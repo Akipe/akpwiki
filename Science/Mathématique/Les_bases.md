@@ -2,7 +2,7 @@
 title: Les bases
 description: 
 published: true
-date: 2024-09-08T13:16:54.941Z
+date: 2024-09-08T13:24:30.320Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T13:07:31.479Z
@@ -42,6 +42,33 @@ Théorème qui est une concéquence d'un plus gros théorème.
 
 Théorème qui peut être concidéré comme une *redifinition* d'une notion (souvent l'inverse).
 
+## Symbole
+
+### Somme
+
+∑
+
+### Produit
+
+∑
+
+### Coproduit
+
+∐
+
+### Intégral
+
+#### Simple
+
+∫
+
+#### Multiple
+
+∬
+
+∭
+  
+
 ## Régles
 
 ### Introduction d'objet
@@ -57,4 +84,10 @@ Pour un nombre réel **x** quelconque, on défini que **x** est une variable. **
 Pour de court exercices :
 
 > *Pour tout x ∈ E*
+
+Exemple :
+
+> Pour x → x e^x^ il ne faut pas juste écrire « f′(x) = (x + 1) e ^x^ mais :
+> « Pour tout x ∈ R : f′(x) = (x + 1) e^x^ »
+> ou bien : « Soit x ∈ R. Alors f′(x) = (x + 1) e^x^ »
 
