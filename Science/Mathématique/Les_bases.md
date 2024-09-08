@@ -2,7 +2,7 @@
 title: Les bases
 description: 
 published: true
-date: 2024-09-08T13:24:30.320Z
+date: 2024-09-08T13:33:17.176Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T13:07:31.479Z
@@ -91,3 +91,16 @@ Exemple :
 > « Pour tout x ∈ R : f′(x) = (x + 1) e^x^ »
 > ou bien : « Soit x ∈ R. Alors f′(x) = (x + 1) e^x^ »
 
+#### Objet
+
+Certaines son des constantes connu comme : π, le chiffre 3, cos...
+
+On peut introduire ses propres constantes :
+
+On pose
+$$ K = \frac {e^{a} + 1} {\alpha^{2} + 1} $$
+
+On peut appeler
+$$ K $$
+ou
+$$ K_{\alpha}
