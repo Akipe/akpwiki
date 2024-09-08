@@ -2,7 +2,7 @@
 title: Information Technology Infrastructure Library ITIL
 description: 
 published: true
-date: 2024-09-08T17:09:05.354Z
+date: 2024-09-08T17:16:37.335Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -241,6 +241,29 @@ Désavantage :
 
 ### Modèle Mintzberg
 
+![th-699203402.jpg](/numerique/th-699203402.jpg)
+
+Ce modèle permet d'avoir une vision d'organisation de manière hiérarchique par rapport aux missions de l'entreprise :
+
+1. Sommet stratégique
+2. Ligne hiérarchique
+3. Centre opérationnel
+
+Avec des parties complémentaires, qui peuvent être non présente ou externalisés :
+
+1. Les techno-structures : toutes les unités qui aide à la structuration de l'entreprise et qui ne sont pas lié directement aux services proposé par l'entreprise.
+	- Bureau des méthodes
+  - audit interne
+  - comptabilité
+  - gestion du recrutement
+  - ressources humaines
+  - ...
+2. Le **support** logistique : ce sont toutes les ressources necessaire à l'entreprise mais qui ne sont pas directement lié aux mission de l'entreprise.
+	- restaurant d'entreprise
+  - service courrier
+  - ...
+
+Le modèle de Mintzberg peut être appliqué à l'échelle de l'entreprise, dans les divisions ou bien à l'intérieur des département fonctionnelles (appelé également unités).
 
 
 ## Lexique
