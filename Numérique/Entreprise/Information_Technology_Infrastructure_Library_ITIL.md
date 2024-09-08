@@ -2,7 +2,7 @@
 title: Information Technology Infrastructure Library ITIL
 description: 
 published: true
-date: 2024-09-08T18:01:40.990Z
+date: 2024-09-08T18:13:00.940Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -424,6 +424,26 @@ Ce sont des facteurs qui sont extérieur à l'entreprise.
 - le pouvoir : en fonction de la Direction Général (DG), l'entreprise adoptera une organisation plutôt centralisé ou décentralisé.
 
 ### Modèle Greiner : modèle d'évolution de l'organisation de l'entreprise en fonction de sa croissance.
+
+![modele-des-cinq-phases-de-croissance-greiner-1972-traduit-et-adapte.png](/numerique/modele-des-cinq-phases-de-croissance-greiner-1972-traduit-et-adapte.png)
+
+Les entreprises ont tendances à évoluer de la sorte :
+
+1. Crativité - structure simple
+2. Direction - fonction
+3. Délégation - divisions
+4. Coordination - Technostructure
+5. Collaboration - Adhoc
+6. Renouveau
+
+### La chronologies des organisation
+
+Voici une chronologie de l'histoire de l'organisation des entreprise par Richard Scott :
+
+1. Taylorisme (1900 - 1930), avec la surspécialisation des taches pour optimiser la production.
+2. Le management RH (1930 - 1960), pour améliorer les conditions de travail, en adoptant une politique d'entreprise plus social.
+3. Contingence (1960 - 1970), introduite par la concurence japonaise. Les entreprise devaient produire en fonction du marché internationnal. Il fallait planifier ce qu'on pouvait produire et vendre.
+4. Toyotisme (1970 - 1995), remobilise les employé dans la vie de l'entrepris et met en avant la culture et les projets d'entreprise.
 
 ## Lexique
 
