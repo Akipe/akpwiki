@@ -2,13 +2,13 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-08T18:42:34.437Z
+date: 2024-09-08T18:43:06.497Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
 ---
 
-# Information Technology Infrastructure Library, ITIL
+# ITIL, Information Technology Infrastructure Library
 
 ## Introduction
 
