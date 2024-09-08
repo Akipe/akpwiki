@@ -2,7 +2,7 @@
 title: Information Technology Infrastructure Library ITIL
 description: 
 published: true
-date: 2024-09-08T17:07:04.120Z
+date: 2024-09-08T17:09:05.354Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -238,6 +238,10 @@ Désavantage :
 - Pas de remise en cause
 - Corporatisme
 - Risque de faux CV
+
+### Modèle Mintzberg
+
+
 
 ## Lexique
 
