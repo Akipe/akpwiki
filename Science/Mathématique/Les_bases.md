@@ -2,7 +2,7 @@
 title: Les bases
 description: 
 published: true
-date: 2024-09-08T13:37:47.801Z
+date: 2024-09-08T13:47:52.064Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T13:07:31.479Z
@@ -75,7 +75,18 @@ $$ \forall $$
 ∬
 
 ∭
-  
+
+### Il existe
+
+∃
+
+$$ \exists $$
+
+### Il n'existe pas
+
+∄
+
+$$ \nexists $$
 
 ## Régles
 
@@ -117,5 +128,12 @@ $$ K_{\alpha} $$
 
 Proposition universelle :
 
-$$ \forall $$
+$$ \forall x \in E, \mathscr{P}(x) $$
+
+Soit 
+$$ \forall x \in E $$
+Montrons que
+$$ \mathscr{P}(x) : $$
+*Preuve*
+
 
