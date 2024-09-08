@@ -2,7 +2,7 @@
 title: Les bases
 description: 
 published: true
-date: 2024-09-08T13:15:33.047Z
+date: 2024-09-08T13:16:54.941Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T13:07:31.479Z
@@ -52,7 +52,9 @@ Tout objet doit être défini (comme en programmation avec les variables).
 
 Pour un nombre réel **x** quelconque, on défini que **x** est une variable. **x** correspond à n'importe quel nombre de son ensemble. Il représente donc **TOUS** les nombres de son ensemble.
 
-> Soit x ∈ E
+> *Soit x ∈ E*
 
+Pour de court exercices :
 
+> *Pour tout x ∈ E*
 
