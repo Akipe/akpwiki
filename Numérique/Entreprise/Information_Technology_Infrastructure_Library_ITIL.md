@@ -2,7 +2,7 @@
 title: Information Technology Infrastructure Library ITIL
 description: 
 published: true
-date: 2024-09-08T17:24:23.963Z
+date: 2024-09-08T17:27:38.250Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -279,6 +279,10 @@ Force prépondérante : centralisation
 
 Configuration structurelle : structure simple
 
+Avantage :
+
+Inconvénients : 
+
 ##### Techno-structure
 
 Coordination principale (ou directe) : Standardisation des procédés
@@ -287,13 +291,21 @@ Force prépondérante : Standardisation
 
 Configuration structurelle : Bureaucratie
 
+Avantage :
+
+Inconvénients : 
+
 ##### Ligne hiérarchique
 
 Coordination principale (ou directe) : Standardisation des résultats
 
-Force prépondérante : Balkanisation
+Force prépondérante : Balkanisation - guerre entre les structures et elles deviennent trop indépendantes.
 
 Configuration structurelle : Structure divisionnalisée
+
+Avantage :
+
+Inconvénients : 
 
 ##### Centre opérationnel
 
@@ -303,13 +315,21 @@ Force prépondérante : Professionnalisation
 
 Configuration structurelle : Bureaucration professionnelle
 
+Avantage :
+
+Inconvénients : 
+
 ##### Support logistique
 
 Coordination principale (ou directe) : Ajustement mutuel
 
 Force prépondérante : Collaboration
 
-Configuration structurelle : Adhocratie (gestion de projets)
+Configuration structurelle : Adhocratie (gestion de projets), similaire aux ESN (le chef de projet est dominant et qui vont collaborer avec les développeurs).
+
+Avantage :
+
+Inconvénients : 
 
 ## Lexique
 
