@@ -2,7 +2,7 @@
 title: Les bases
 description: 
 published: true
-date: 2024-09-08T13:14:48.248Z
+date: 2024-09-08T13:15:33.047Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T13:07:31.479Z
@@ -40,9 +40,8 @@ Théorème qui est une concéquence d'un plus gros théorème.
 
 #### Caractèrisation
 
-Théorème qui peut être concidéré comme une *redifinition* d'une notion (spuvent l'inverse).
+Théorème qui peut être concidéré comme une *redifinition* d'une notion (souvent l'inverse).
 
-> Soit x ∈ E
 ## Régles
 
 ### Introduction d'objet
@@ -52,3 +51,8 @@ Tout objet doit être défini (comme en programmation avec les variables).
 #### Variable
 
 Pour un nombre réel **x** quelconque, on défini que **x** est une variable. **x** correspond à n'importe quel nombre de son ensemble. Il représente donc **TOUS** les nombres de son ensemble.
+
+> Soit x ∈ E
+
+
+
