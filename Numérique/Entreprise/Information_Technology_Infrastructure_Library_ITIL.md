@@ -2,7 +2,7 @@
 title: Information Technology Infrastructure Library ITIL
 description: 
 published: true
-date: 2024-09-08T15:34:34.589Z
+date: 2024-09-08T15:56:39.216Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -63,9 +63,78 @@ On peut réaliser 2 types d'audit pour vérifier la bonne application des normes
 
 Le tout en répétant en continue.
 
+## Organisation
+
+Il existe 64 modules dans ITIL. Il aide notamment à organiser l'organigramme de l'entreprise, ou à le comprendre.
+
+### Les entreprises
+
+Les entreprises sont des ensembles d'éléments interdépendant coordonnées en vue d'assurer une mission de production et de vente pour faire du profil.
+
+Les entreprise sont composés de sous systèmes.
+
+Les entreprises peuvent être interconnecté de plusieurs manières :
+
+- en amont par des fournisseur de produit "semi fini"
+- en aval par les distributeurs
+- par des échangent divers et varié à l'aide d'entreprise de transport
+
+#### Dans l'entreprise
+
+Au sein de l'entreprise, on peut organiser comme ceci :
+
+1. Les taches sont les actions que réalise les employés
+2. Les postes sont occupé par les employés. Chaque poste réalise un certain nombre de taches
+3. Les unités regroupe un certain nombre de postes. Elle sont organisé de manière à regrouper les types de postes et de taches commune. Par exemple le Service de Ressources Humaines est une unité.
+4. Les flux concernent les échanges entre les unités, les postes et les taches.
+
+Pour mieux organiser une entreprise, on peut réaliser un certain nombre d'opérations :
+
+- la division : on divise des taches en plusieurs tache, des poste en plusieurs poste, des unités en plusieurs unités
+- le regroupement : on peut regrouper des taches, des postes, des unités
+- la coordination : on organise le flux entre différentes taches, postes, et unités.
+
+Lors de la réorganisation, il faut éviter de chercher à trop "découper" les taches et les postes. Car celà va robotiser les taches à réaliser pour un poste, ce qui va démotiver l'employer et augmenter le risque d'un accident.
+
+### Sous système d'une entreprise
+
+#### Système physique
+
+Celà concerne les locaux, les équipement de l'entreprise et les flux physiques.
+
+On peut aborder des problématiques d'optimisation de flux physique.
+
+"Supply chain management" : la logistique inter-entreprise.
+
+#### Système social
+
+Celà concerne le partage de la même culture et de la même vision stratégique de l'entreprise par ses employés.
+
+> Par exemple, la vision d'une entreprise pourrait être de venir le leader de son secteur d'ici 1 an.
+
+#### Système de pouvoir
+
+Il existe plusieurs type de pouvoir :
+
+- Pouvoir légitime et formel : il est caractérisé par l'organigramme.
+- Pouvoir légitime et informel : c'est par exemple un employé qui a de bonnes connaissance et les capacités à proposer des solutions, et dont les autres employés vont appliquer celle-ci.
+- Pouvoir illégitime : celà peut être le chantage, la corruption, etc.
+
+#### Système d'information
+
+Celà concerne tout ce qui touche au numérique, mais pas que : tout type de donnée et d'informations non numérique font également partie du système d'information de l'entreprise.
+
+Pour la partie numérique, celà concerne :
+
+- L'infrastructure
+- les applications
+
+
+
 ## Lexique
 
 - Risk based : basé sur les risque
 - SMSI : System Management System Information
 - ISO SMQ : System Management Quality
 - QSE
+- "Supply chain management" : la logistique inter-entreprise.
