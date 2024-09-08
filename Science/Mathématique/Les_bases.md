@@ -2,7 +2,7 @@
 title: Les bases
 description: 
 published: true
-date: 2024-09-08T13:49:19.047Z
+date: 2024-09-08T14:01:07.122Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T13:07:31.479Z
@@ -125,6 +125,8 @@ ou
 $$ K_{\alpha} $$
 
 ### Proposition
+
+Une proposition est une phrase pour laquelle on peut se demander si ce qu'elle affirme est vrai ou faux (comme un boléan).
 
 Proposition universelle :
 
