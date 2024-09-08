@@ -2,7 +2,7 @@
 title: Information Technology Infrastructure Library ITIL
 description: 
 published: true
-date: 2024-09-08T17:16:37.335Z
+date: 2024-09-08T17:24:23.963Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -243,6 +243,8 @@ Désavantage :
 
 ![th-699203402.jpg](/numerique/th-699203402.jpg)
 
+> Dans le graphique il manque la "ligne hiérarchie" qui doit être dans le triangle et relié le sommet stratégique au centre opérationnel.
+
 Ce modèle permet d'avoir une vision d'organisation de manière hiérarchique par rapport aux missions de l'entreprise :
 
 1. Sommet stratégique
@@ -265,6 +267,49 @@ Avec des parties complémentaires, qui peuvent être non présente ou externalis
 
 Le modèle de Mintzberg peut être appliqué à l'échelle de l'entreprise, dans les divisions ou bien à l'intérieur des département fonctionnelles (appelé également unités).
 
+#### Rapport de force
+
+Chacune des partie va essayer de mettre en place un rapport de force par rapport aux autres parties. Ces rapports de force vont influer la manière dont l'entreprise sera organisé.
+
+##### Somme stratégie
+
+Coordination principale (ou directe) : supervision directe
+
+Force prépondérante : centralisation
+
+Configuration structurelle : structure simple
+
+##### Techno-structure
+
+Coordination principale (ou directe) : Standardisation des procédés
+
+Force prépondérante : Standardisation
+
+Configuration structurelle : Bureaucratie
+
+##### Ligne hiérarchique
+
+Coordination principale (ou directe) : Standardisation des résultats
+
+Force prépondérante : Balkanisation
+
+Configuration structurelle : Structure divisionnalisée
+
+##### Centre opérationnel
+
+Coordination principale (ou directe) : Standardisation des qualifications
+
+Force prépondérante : Professionnalisation
+
+Configuration structurelle : Bureaucration professionnelle
+
+##### Support logistique
+
+Coordination principale (ou directe) : Ajustement mutuel
+
+Force prépondérante : Collaboration
+
+Configuration structurelle : Adhocratie (gestion de projets)
 
 ## Lexique
 
