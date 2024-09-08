@@ -2,7 +2,7 @@
 title: Les bases
 description: 
 published: true
-date: 2024-09-08T13:33:17.176Z
+date: 2024-09-08T13:35:59.304Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T13:07:31.479Z
@@ -43,6 +43,14 @@ Théorème qui est une concéquence d'un plus gros théorème.
 Théorème qui peut être concidéré comme une *redifinition* d'une notion (souvent l'inverse).
 
 ## Symbole
+
+La liste sur <https://fr.wikipedia.org/wiki/Table_de_symboles_math%C3%A9matiques>.
+
+### Pour tout, Quel que soit
+
+∀
+
+$$ \forall $$
 
 ### Somme
 
