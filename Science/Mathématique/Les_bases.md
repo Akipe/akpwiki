@@ -2,7 +2,7 @@
 title: Les bases
 description: 
 published: true
-date: 2024-09-08T13:47:52.064Z
+date: 2024-09-08T13:49:19.047Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T13:07:31.479Z
