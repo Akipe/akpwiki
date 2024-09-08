@@ -2,7 +2,7 @@
 title: Information Technology Infrastructure Library ITIL
 description: 
 published: true
-date: 2024-09-08T17:34:46.038Z
+date: 2024-09-08T18:01:40.990Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -239,7 +239,76 @@ Désavantage :
 - Corporatisme
 - Risque de faux CV
 
-### Modèle Mintzberg
+### Paramètres de regroupement en unité
+
+#### Paramètre de taille
+
+Si on souhaite une supérvision directe, alors on aura un nombre d'unité subordonnées réduite.
+
+Si on souhaite adopter une standardisation, alors on aura un nombre de subordonnées plus grand.
+
+L'ajustement mutuel nécéssite un petit nombre d'employé dans une unité.
+
+#### Paramètre de pouvoir
+
+Est ce que le pouvoir est centralisé ou non ?
+
+Si aucune (centralisation) alors tous les services dépendent du service stratégique. Celà augmente la charge de travail de ce service et réduit la productivité et l'adaptabilité des autres.
+
+Si limité ou selective, alors on aura une organisation en arbre, avec la délégation de certain déscision à des unités intérmédiaire (*par exemple en autorisant les employés d'un service à dépenser une certain somme d'argent dans le cadre de leur mission*).
+
+Si global, alors on a une répartition pur avec une liberté presque total des unités.
+
+#### Paramètre de commandement
+
+Une unité mets en commun la supervision, les ressources et les objectifs.
+
+Quelques critères de regroupement :
+
+- Par compétences : regroupé par leur fonction
+- Par produit et marché : regroupé par divisions
+- Par zone géographique
+
+Il faut trouver le bon compromi entre décentralisation et coordination
+
+### Type de structures
+
+#### Structure fonctionnelle
+
+Orienté regroupement par compétences qui mets en avant la logique de spécialisation.
+
+On retrouve cette organisation souvent dans les entreprises :
+
+- taille moyenne
+- mono produit
+- peu complexe
+
+#### Structure divisionnelle
+
+Orienté regroupement par produit qui mets en avant la logique de diversification.
+
+Souvent organisé dans les entreprises :
+
+- grandes entreprise ayant une large gamme et des divisions géographiques
+
+#### Structure matricielle
+
+Intégre les approches fonctionnelles et divisionnelles.
+
+Dans les entreprise :
+
+- avec un impératif de stabilité et de flexibilité
+- pour accélerer l'inovation par produit
+
+#### Structure Staff & Line
+
+Mets en avant les services (unités) sur-spécialisé de "conseille" pour les restes des unités de l'entreprise.
+
+Pour les entreprises :
+
+- dans un environnement complexe et fluctuant
+
+### Modèle Mintzberg : modèle de catégorisation des services et de leur rapport de force
 
 ![th-699203402.jpg](/numerique/th-699203402.jpg)
 
@@ -346,6 +415,16 @@ Ce sont des facteurs qui sont extérieur à l'entreprise.
   - *Allemands : plutôt standardisation des compétences avec la sur-important du diplome de docteur*
   - *Anglo-saxon : Standardisation des résultats avec la mise en avant des contrats, les préstataires et les sous traitant*
 
+##### Interne
+
+- L'age de l'entreprise : si agé, elle sera plus enclin à la standardisation, sinon elle adoptera plutôt une organisation simple.
+- la taille : si l'entreprise est grande, elle adoptera une organisation plus structuré
+- le système technique : si le système est fait sur mesure, il n'y aura pas besoin de standardiser les données, si le système technique est standard, alors il faudra standardiser les procédés.
+- la statégie : s'il faut par exemple se diversifier, l'entreprise adoptera une structure de type divisionnelle.
+- le pouvoir : en fonction de la Direction Général (DG), l'entreprise adoptera une organisation plutôt centralisé ou décentralisé.
+
+### Modèle Greiner : modèle d'évolution de l'organisation de l'entreprise en fonction de sa croissance.
+
 ## Lexique
 
 - Risk based : basé sur les risque
@@ -354,3 +433,4 @@ Ce sont des facteurs qui sont extérieur à l'entreprise.
 - QSE
 - "Supply chain management" : la logistique inter-entreprise.
 - SPOC : Single Point Of Contact
+- DG : Direction Générale
