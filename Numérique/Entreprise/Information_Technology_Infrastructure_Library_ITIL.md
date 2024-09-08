@@ -2,7 +2,7 @@
 title: Information Technology Infrastructure Library ITIL
 description: 
 published: true
-date: 2024-09-08T17:27:38.250Z
+date: 2024-09-08T17:34:46.038Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -330,6 +330,21 @@ Configuration structurelle : Adhocratie (gestion de projets), similaire aux ESN 
 Avantage :
 
 Inconvénients : 
+
+#### Les facteurs d'influences
+
+##### Externes
+
+Ce sont des facteurs qui sont extérieur à l'entreprise.
+
+- L'environnement
+	- Stable ou dynamique : *si stable, standardisation des données, sinon bureaucratie mecaniste*
+  - Compléxité : *si les déscisions sur le terrain son complexe, alors il faut des gens compétents et donc on standardise les qualitifactions*
+  - Homogénéité et hétérogénéité : *si hétérogéne, il y aura une structure divisionnel divisé pour chaque marché*.
+- Culture nationnal : chaque culture a des préférences
+	- *France et Japon : plutôt standardisation des procédés*
+  - *Allemands : plutôt standardisation des compétences avec la sur-important du diplome de docteur*
+  - *Anglo-saxon : Standardisation des résultats avec la mise en avant des contrats, les préstataires et les sous traitant*
 
 ## Lexique
 
