@@ -2,7 +2,7 @@
 title: Théorie des ensembles
 description: 
 published: true
-date: 2024-09-08T13:55:37.763Z
+date: 2024-09-08T13:56:01.573Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T11:52:49.812Z
