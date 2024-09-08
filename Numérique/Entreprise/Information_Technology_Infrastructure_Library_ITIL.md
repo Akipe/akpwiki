@@ -2,7 +2,7 @@
 title: Information Technology Infrastructure Library ITIL
 description: 
 published: true
-date: 2024-09-08T15:59:58.028Z
+date: 2024-09-08T16:11:31.904Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -102,6 +102,24 @@ Pendant la réorganisation, il faut se poser ces questions :
 - L'efficence -> les moyens et les résultat
 - La pertinence -> les objectif et les moyens
 
+Plusieurs techniques existes :
+
+1. Spécialisation horizontal : permet la spécialisation des postes
+
+> *Divise "résoude des appel" pour un service client en "prendre l'appel", "qualifier l'appel" et "agir"
+
+2. Spécialisation vertical
+	- Permet d'associer des postes avec des compétences spécifiques pour chaqu'une des taches.
+  - Permet de discocier la conception à réaliser qu'une seul fois à l'execution qui doit être réalisé plusieurs fois et/ou de manière réguliére
+
+3. Le couplage : regrouper plusieurs taches en un poste.
+
+Il existe plusieurs types de couplages :
+
+- Couplage séquentiel : taches à réaliser à la suite du premier au dernier.
+- Couplage réciproque : le flux de réalisation des taches peuvent être dans les deux sens
+- Couplage de communauté : Regroupe les taches en fonction de contraintes, comme par exemple dans le cadre d'un SPOC
+
 ### Sous système d'une entreprise
 
 #### Système physique
@@ -146,3 +164,4 @@ Pour la partie numérique, celà concerne :
 - ISO SMQ : System Management Quality
 - QSE
 - "Supply chain management" : la logistique inter-entreprise.
+- SPOC : Single Point Of Contact
