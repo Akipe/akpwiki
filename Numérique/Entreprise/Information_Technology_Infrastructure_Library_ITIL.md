@@ -2,7 +2,7 @@
 title: Information Technology Infrastructure Library ITIL
 description: 
 published: true
-date: 2024-09-08T15:56:39.216Z
+date: 2024-09-08T15:59:58.028Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -96,6 +96,12 @@ Pour mieux organiser une entreprise, on peut réaliser un certain nombre d'opér
 
 Lors de la réorganisation, il faut éviter de chercher à trop "découper" les taches et les postes. Car celà va robotiser les taches à réaliser pour un poste, ce qui va démotiver l'employer et augmenter le risque d'un accident.
 
+Pendant la réorganisation, il faut se poser ces questions :
+
+- L'efficacité -> les objectif et les résultat
+- L'efficence -> les moyens et les résultat
+- La pertinence -> les objectif et les moyens
+
 ### Sous système d'une entreprise
 
 #### Système physique
@@ -128,6 +134,8 @@ Pour la partie numérique, celà concerne :
 
 - L'infrastructure
 - les applications
+
+### Les buts et exigence de l'organisation
 
 
 
