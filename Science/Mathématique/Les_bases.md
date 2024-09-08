@@ -2,7 +2,7 @@
 title: Les bases
 description: 
 published: true
-date: 2024-09-08T13:35:59.304Z
+date: 2024-09-08T13:37:47.801Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T13:07:31.479Z
@@ -111,4 +111,11 @@ $$ K = \frac {e^{a} + 1} {\alpha^{2} + 1} $$
 On peut appeler
 $$ K $$
 ou
-$$ K_{\alpha}
+$$ K_{\alpha} $$
+
+### Proposition
+
+Proposition universelle :
+
+$$ \forall $$
+
