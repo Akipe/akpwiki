@@ -2,7 +2,7 @@
 title: Information Technology Infrastructure Library ITIL
 description: 
 published: true
-date: 2024-09-08T16:20:32.531Z
+date: 2024-09-08T17:07:04.120Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -159,15 +159,51 @@ Pour la partie numérique, celà concerne :
 
 Le responsable dirgie directement les employés en donnant un ordre directe.
 
+Avantage :
+
+- Guidé
+- Apprantissage par la réalisation
+
+Inconvénients :
+
+- Peu de liberté
+- déresponsabilisation
+
 #### Ajustement mutuel
 
 Les employer se coordonnent entre eux sans avoir besoin de l'explicité ("du bon sens").
 
 > À LIDL, un client arrive en caisse, un employé dans les rayons arréte sa tache et va en caisse.
 
+Avantage :
+
+- Resonsabilisation
+- initiative
+- réactivité
+- flexibilité
+
+Désavantage :
+
+- Divergence des acteurs
+- absence de controle
+
 #### Standardisation des procédés
 
 On réalise la liste des procédure à l'avance à réaliser, et on demande à l'employer de les réaliser.
+
+Avantage :
+
+- Normalisation
+- Checklist
+- Conformité des résultat
+- Productivité
+
+Désavantage :
+
+- Rigidité
+- Perte d'initiative
+- Bureaucratie
+- Gestion des cas non prévu
 
 #### Standardisation des résultat
 
@@ -175,14 +211,33 @@ On défini un certain nombre d'objectif voulu et on laisse la liberté à l'empl
 
 > Un élève à l'école doit travailler à sa manière pour avoir une bonne note.
 
+Avantage :
+
+- Initiative de moyen et d'objectif
+- Engagement sur le résultat
+
+Désavantage
+
+- Stresse
+- Risque de non conformité détéctable uniquement à la fin
+
 #### Standardisation des qualifications
 
 On spécifie les compétences necessaire à un poste, qui serviront à recruter un employé qui saura appliquer les bonnes actions en lien avec ces compétences.
 
 > Un médecin peut pratiquer car il sait soigné grace aux connaissances apprises lors de sa formation.
 
+Avantage :
 
+- Garantie de compétences
+- Engagement de moyen
 
+Désavantage :
+
+- Normalisation des profils
+- Pas de remise en cause
+- Corporatisme
+- Risque de faux CV
 
 ## Lexique
 
