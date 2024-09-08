@@ -2,7 +2,7 @@
 title: Information Technology Infrastructure Library ITIL
 description: 
 published: true
-date: 2024-09-08T18:13:00.940Z
+date: 2024-09-08T18:41:40.771Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -445,6 +445,89 @@ Voici une chronologie de l'histoire de l'organisation des entreprise par Richard
 3. Contingence (1960 - 1970), introduite par la concurence japonaise. Les entreprise devaient produire en fonction du marché internationnal. Il fallait planifier ce qu'on pouvait produire et vendre.
 4. Toyotisme (1970 - 1995), remobilise les employé dans la vie de l'entrepris et met en avant la culture et les projets d'entreprise.
 
+### La DSI
+
+L'organisation de l'importance des valeurs que doit prendre en compte la DSI :
+
+1. Chaine de valeurs (du produit)
+2. Métier, qui représanté les processus de production dans les autres unités.
+3. Services
+4. Applications
+5. Infrastructure
+
+Le DSI a un double role de MOE et aMO.
+
+Sa mission est d'apporter les ressources, les informations pertinantes, pour le pilotage et la réalisation des objectif de l'entreprise.
+
+Il peut être composé de 3 unités d'activité :
+
+- Développement : étude des besoins
+- Technique : conception des solutions
+- Production : execution des missions
+
+Il doit gérer le SI et le co-piloter.
+
+#### Historique de l'évolution du DSI
+
+1. 1960 à 1989 : système central
+	- Réduction des cout
+  - Responsabilité du directeur (DAF)
+  - Uniquement dans certaines unités
+  	- gestion des comptes
+    - gestion de la paye
+    - gestion de la production assisté par ordinateur (GPAO)
+  - architecture
+  	- fonctionnel
+    - materiel
+    -structurel
+  - les informaticiens sont privilégiés
+  - avantages
+  	- la puissance de calcul
+  - désavantage
+  	- les délais
+    - les couts
+    - la dépendance du service informatique
+2. 1980 à 1990 : Élargissement du rayon d'action et micro-ordinateur
+	- élargissement de l'informatique
+  - des outils réalisé par d'autre entreprises sont produites et vendu pour être moins dépendant des service informatique
+  - gestion des services
+  	- logistiques
+    - de gestion
+  - architecture
+  	- serveur centraux
+    - infocentre
+    - bureautique (ressources hétérogénes)
+  - Organisation
+  	- DOI mais relation complexe
+    - Mode projet apparaissent mais ne sont pas encore fiables (cout, temps, faisabilité)
+    - caractèrisé pra le réseau et le partage des ressources numériques (imprimante etc)
+3. 1995 à 2000 : SI étendu
+	- Choix d'utiliser des ERP au lieu de le développer en interne en plus d'utiliser les bonnes pratiques
+  - De nouveau projets d'entreprise pour adopter de nouvelles normes :
+  	- ERP/PCI
+    - SCM
+    - Y2K (bug de l'an 2000)
+    - le passage à l'euro
+  - architecture technique
+  	- staff & line
+    - utilisation de techno ouverte
+    - utilisation de standard pour limité d'être bloqué
+  - méthode de gestion de projet
+  	- Gestion de projet amélioré mais avec encore des contraintes de budget et de temps
+4. 2000 à 2005 : marché mondial avec internet et le service SI
+	- Site web : marché mondial et évolution relation client, transport, gestion des stocks
+  - technique : libération des dépendances constructeurs
+  - structure : staff & line avec unité Qualité, Sécurité et PMO
+  - Apparition d'ITIL
+  - SLA : convention et contrat avec les clients
+  - manque de cohérence entre la gestion du support clientel et le développement.
+5. À partir de 2005 : SI stratégique
+	- Préssion et menage lié aux couts de la part de la direction, avec un risque de sous traitance par l'infogérance (tiers maintenance, SASS). Nécéssité de pouvé l'utilité par des métrique comme le ROI (Retour Sur investissement, prendre en compte tous les couts numérique diviser par nombre de poste), démontrer le TCO (Total Cost of Ownership). Benchmarking par des cabinet externe.
+  - Pression de la part des services métier, nécessité de prendre des engagements en fonction des moyens.
+  - Pression de la pars des fournisseur (et du marché) par les vendeur de logiciel. Ce risque est accentué par le risque de l'obsolécence des logiciels en interne, par le manque de veille technique, par le manque de R&D avec de PoC (Proof of Concept) et par le manque de plan d'évolution technique.
+  - Le personnel du DSI veulent rester compétent sur les dernière technologies et être formé pour ne pas risquer une perte d'employabilité. Il faudra proposer des formations.
+  
+  
 ## Lexique
 
 - Risk based : basé sur les risque
@@ -454,3 +537,8 @@ Voici une chronologie de l'histoire de l'organisation des entreprise par Richard
 - "Supply chain management" : la logistique inter-entreprise.
 - SPOC : Single Point Of Contact
 - DG : Direction Générale
+- DSI
+- MOE
+- aMO
+- SI : Système d'Information
+- gestion de la production assisté par ordinateur (GPAO)
