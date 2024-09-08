@@ -2,7 +2,7 @@
 title: Les bases
 description: 
 published: true
-date: 2024-09-08T13:07:31.479Z
+date: 2024-09-08T13:13:26.128Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T13:07:31.479Z
@@ -41,3 +41,12 @@ Théorème qui est une concéquence d'un plus gros théorème.
 
 Théorème qui peut être concidéré comme une *redifinition* d'une notion (spuvent l'inverse).
 
+## Régles
+
+### Introduction d'objet
+
+Tout objet doit être défini (comme en programmation avec les variables).
+
+#### Variable
+
+Pour un nombre réel **x** quelconque, on défini que **x** est une variable. **x** correspond à n'importe quel nombre de son ensemble. Il représente donc **TOUS** les nombres de son ensemble.
