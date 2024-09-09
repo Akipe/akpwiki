@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T09:27:48.451Z
+date: 2024-09-09T09:41:27.417Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -12,7 +12,9 @@ dateCreated: 2024-09-08T15:11:41.834Z
 
 ## Introduction
 
-ITIL est un modèle d'organisation à l'échelle d'une entreprise orienté sur la gestion de service informatique.
+ITIL est une bibliothèque de bonne pratique orienté à l'origine sur les métier de l'infra mais à présent sur le service informatique de l'entreprise.
+
+ITIL ne permet de ne certifier que des individus, il existe la norme 20000 (ITIL v3) pour normaliser les entreprises.
 
 Les versions de ITIL sont :
 
@@ -870,7 +872,7 @@ Liste de d'autres méthodes (des plus utilisés au moins) :
 - ISO 20000
 - Six Sigma (basé sur les statistiques)
 
-ITIL est dit *"holistique"* : c'est une boite à outil de bonnes pratiques dans laquel on peut prendre ce que l'on veut. Sa mise en place peut être mise en place progressiment et peut être complémentaire.
+ITIL est dit *"holistique"* : c'est une boite à outil de bonnes pratiques dans laquel on peut prendre ce que l'on veut. Sa mise en place peut être mise en place progressivement et peut être complémentaire.
 
 
 ## Les processus ITIL
@@ -912,4 +914,10 @@ La partie contrat
 
 ## Ressources
 
+### Web
+
 - <https://www.atlassian.com/fr/itsm/itil>
+
+### Livre
+
+- <https://www.editions-eni.fr/livre/itil-4-comprendre-la-demarche-et-adopter-les-bonnes-pratiques-3e-edition-9782409045868>
