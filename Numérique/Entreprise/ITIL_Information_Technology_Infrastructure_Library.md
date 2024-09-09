@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T09:23:06.014Z
+date: 2024-09-09T09:27:48.451Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -862,13 +862,16 @@ Etude sur l'utilisation des méthodes de gestion de management : ITIL est utilis
 
 Liste de d'autres méthodes (des plus utilisés au moins) :
 
-- PMBOK
-- Prince2
-- Scrum
+- PMBOK (projet)
+- Prince2 (projet)
+- Scrum (projet)
 - DevOps
-- Lean
+- Lean (enchainer les activité de manière la plus performance possible)
 - ISO 20000
-- Six Sigma
+- Six Sigma (basé sur les statistiques)
+
+ITIL est dit *"holistique"* : c'est une boite à outil de bonnes pratiques dans laquel on peut prendre ce que l'on veut. Sa mise en place peut être mise en place progressiment et peut être complémentaire.
+
 
 ## Les processus ITIL
 
