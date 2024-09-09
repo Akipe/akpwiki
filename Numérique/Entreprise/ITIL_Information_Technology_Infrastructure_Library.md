@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T08:46:09.916Z
+date: 2024-09-09T08:46:50.464Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -778,7 +778,7 @@ Logiciel de ticketing :
 
 Egalement possibilité de chercher des outils *ITIL compliant*.
 
-Il faudra définir des contrats de service (SLA) ou des conventions de service avec les services internes pour ensuite demander un certain nombre d'obligation auprès des préstataire *(ISO 2000-1)* à l'aide du processus ITIL
+Il faudra définir des contrats de service (SLA) ou des conventions de service avec les services internes pour ensuite demander un certain nombre d'obligation auprès des préstataire *(ISO 20000-1)* à l'aide du processus ITIL
 
 ## Les processus ITIL
 
