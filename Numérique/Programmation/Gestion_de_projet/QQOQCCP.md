@@ -2,13 +2,15 @@
 title: QQOQCCP
 description: 
 published: true
-date: 2024-09-09T14:21:53.905Z
+date: 2024-09-09T14:24:03.968Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-09T14:21:53.905Z
 ---
 
 # QQOQCCP
+
+Qui, quoi, où, quand
 
 ## Qui ?
 
@@ -28,11 +30,17 @@ Les lieux, physiques ou virtuel, lié au projet.
 
 > Où doit être développer ... ? Où doit être déployer ... ?
 
+## Quand ?
 
+Toutes les question temporelles lié au projet.
 
-##
+> Quand est ce que sera terminé le projet ?
 
-##
+## Comment ?
+
+Comment réaliser les objectif.
+
+> Comment réaliser la sous-traitance de ... ?
 
 ##
 
