@@ -1,0 +1,39 @@
+---
+title: QQOQCCP
+description: 
+published: true
+date: 2024-09-09T14:21:53.905Z
+tags: 
+editor: markdown
+dateCreated: 2024-09-09T14:21:53.905Z
+---
+
+# QQOQCCP
+
+## Qui ?
+
+Parties prenantes au projets.
+
+> A qui profite le ... ?
+
+## Quoi ?
+
+Qu'est ce qui doit être fait ?
+
+> Mettre en oeuvre le projet ...
+
+## Où ?
+
+Les lieux, physiques ou virtuel, lié au projet.
+
+> Où doit être développer ... ? Où doit être déployer ... ?
+
+
+
+##
+
+##
+
+##
+
+##
