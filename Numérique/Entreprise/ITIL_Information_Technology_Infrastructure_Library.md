@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T08:54:11.780Z
+date: 2024-09-09T08:58:43.106Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -782,7 +782,25 @@ Il faudra définir des contrats de service (SLA) ou des conventions de service a
 
 SI : activité de service qui induit un certain noimbre de caractéristique (immatériel, simultanée (produit et consomme en même temps) et relationnel (intéractions humaines)) engeandrant des risque de variabilités du niveau de service. *Exemple: service client : on peut tomber sur une personne expérimenté ou non par appel.*
 
+#### Risques
+
 Ces risque nécéssite des actions préventives à l'aide de système de management (pour limiter les variabilité) en mettant en place les processus et les ressources nécessaire. Ce service va mettre en place un SMS comme ITIL.
+
+Possibilités de problèmes :
+
+- objets flou, difficulté à le définir ou à le borner
+- caractéristique peu perceptibles
+- résultat, cout, besoin difficile à décrire et à mesurer
+
+Risques de :
+
+- Préstation inadapté
+- subjectivité d'appréciation -> insatisfaction percçu
+
+Solution :
+
+- matérialise l'offre de service (on informe clairement les services proposé ainsi que des options, en prévenant des risque et tout autre information utile)
+- personnaliser et spécialiser les services
 
 ## Les processus ITIL
 
