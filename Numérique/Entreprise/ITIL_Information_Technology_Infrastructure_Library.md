@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T08:21:22.283Z
+date: 2024-09-09T08:25:02.841Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -724,10 +724,24 @@ Solutions ------->
 (méth. Prince2)    (méth ITIL)
 ```
 
-Les spécialistes sont spécifique à leur silos : mais il y a un risque de ne pas avoir une vue d'ensemble des projets, de l'entreprise et des besoins du client.
+Les spécialistes sont spécifique à leur silos, ce qui induit les risques :
+
+- Manque de communication (services ne sont pas au courant des services/logiciels et donc ne peut comprendre les problèmes induites par eux).
+- manque d'anticipation
+- Les roles sont dispérser
 
 CRM : custom relationship management
 DWH : Data Ware House : entrepot de donnée
+
+La structuration :
+
+- Partie projets et solutions
+	- Représente 30% du budget
+  - objectif
+  	- productivité
+    - créer de la valeur
+
+(Est ce qu'on utilise bien tous les logiciels ? A quoi servent t'il ? Politique de gestion des licences ?)
 
 ## Les processus ITIL
 
