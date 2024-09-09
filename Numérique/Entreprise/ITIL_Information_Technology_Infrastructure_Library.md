@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-08T18:43:06.497Z
+date: 2024-09-09T08:10:10.139Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -527,7 +527,190 @@ Il doit gérer le SI et le co-piloter.
   - Pression de la pars des fournisseur (et du marché) par les vendeur de logiciel. Ce risque est accentué par le risque de l'obsolécence des logiciels en interne, par le manque de veille technique, par le manque de R&D avec de PoC (Proof of Concept) et par le manque de plan d'évolution technique.
   - Le personnel du DSI veulent rester compétent sur les dernière technologies et être formé pour ne pas risquer une perte d'employabilité. Il faudra proposer des formations.
   
-  
+---
+q: fonction & poste ?
+
+Un poste peut avoir un ou plusieurs fonctions - principe indépendance : poste ne ddevrais pas avoir plusieurs fonction du même domaine (développeur et teseur, RSSI et auditeur)
+---
+## Familles de Métier SI
+
+Rapport publié par le Cigref qui propose des postes (fonctions) regroupé par famille.
+
+Le modèle à tendance à se spécialisé.
+
+Fonctions regroupé en 4 couches :
+
+1. Architecture Processus Métier : exprime les besoins et pris en compte par management et le pilotage
+2. Architecture SI Service (SOA)
+3. Architecture Applications (AA)
+4. Architecture (AT) Technique
+
+### Pilotage
+
+Evaluer les opportunée avec les Business Case (utilisé dans Prince2, et utilisé tout au long du cycle de vie du service/solution)
+
+> Si la priorité de l'entreprise est la gestion des clients : mettre en place un CRM. Y'en a t-il un ? Mettre cette demande dans un document de Business Case.
+> Le chef de projet va prendre ce document et réaliser ou pas ce projet
+> On va garder et mettre à jour le business case tout au long du projet et même à sa fin.
+
+---
+q : comment s'articule le Business case par rapport au cahier des charges et les spec technique/fonctionnelle ?
+
+business case : démontrer que la solution proposé / conseillé une solution qui répond aux exicences du cahier des charges. Peut exister plusieurs business case pour un cahier des charges, ce qui permttra de les comparer.
+---
+
+- Consultant SI
+- Urbaniste SI
+- Responsable domaine : relation avec métier
+- Chargé affaire : un des cateurs pour processus gestion contrat de serrvice
+
+
+### Management Projet
+
+#### Chef de projet (métier) MOA
+
+Ses missions :
+
+- Il réalise le cahier des charges du projet pour exprimer les besoins du client.
+- Il participe aux choix du projet avec le MOE.
+- Il gére les évolutions et les avenants
+- Coordonne les moyens (tests, mise en service et accompagnement) du projet coté métier
+- Faire circulter les informations et définir les indicateurs/métriques.
+- Recette en conformité avec le CDC
+
+#### Chef de projet MOE
+
+Ses missions :
+
+- Réalise le projet en respectant les consigne du MOA - maitre d'ouvrage
+
+Ses activités sont :
+
+- Maitriser les risque et planifier le projet (avancement des KPI)
+- Organise et coordone les ressources
+- Détaille les specifications fonctionnelles
+- Gére la **stratégie** de test et gére les anomalies
+- Communique avec le MOA et propose des avenants 
+- Déploie et accompagne le projet
+- propose la recette au MOA et fait son bilan pour les prochains projets
+- Demande de clarification avec le MOA sur les CdC
+
+### Cycle applications
+
+#### Développeur / Paramètreur
+
+!!! Cétagorie de poste Applicatif, à vérifier si dans la bonne catégorie !!!
+
+Mission : développer et paramètrer le projet
+
+Activité :
+
+- analyse les specification fonctionnelles
+- réaliser la conception du projet
+- réalise les modules du logiciel
+- réalise les tests unitaire et traite les anomalies
+- élabore les jeux d'essais pour les tests
+- gére les dépendances et biliothéques
+- réalise une documentation technique
+
+#### Intégrateur d'application
+
+Intégre et installe l'application ainsi que des composants (base de données, application auxilliaires, etc).
+
+### MCO (Maintien en Condition Opérationnel) Infrastructure
+
+
+
+### Support et assistance
+
+- Technicien centre service (help desk) : technicien de support de premier niveau (dans le SPOC)
+- assistant fonctionnel : correspond utilisateurs / Q user
+- Expert qualité méthodologie
+
+### Sécurité
+
+### Management
+
+Orienté vers les ressources humaines et les compétences de leur équipes.
+
+## Lexique
+
+- DPO : ?, souvent en lien avec la RGPD
+- RGPD : ?
+- HDS : Hébergement données de santé (norme ISO 27001) : si héberger en externe, obligation prestataire d'être HDS
+- MOA : Maitre d'ouvrage, réalise le cahier des charges
+- dette technique : baisse de maintenabilité lié à la technique (sur un ancien ou un nouveau projet). On peut analyser cette dette avec des outils comme par exemple SonarQube
+- MOE : Maitre d'oeuvre, Chef de projet de réalisation
+- Product Owner :
+- KPI (gestion de projet) : Key Process (ou Project) Indicator (avec SonarQube par exemple)
+- CdC : Cahier des Charges
+- MCO : Maintien en Condition Opérationnel
+
+## Organisation (titre prédédant)
+
+## Modèle ITIL
+
+Basé sur les processus.
+
+### Contexte
+
+Organisation vertical (hiérarchique).
+
+Mais peut également utilisé en complémentaire des modules transverses organisé de la sorte :
+
+- Processus de Direction
+- Processus de réalisation (étude de marché, recherche du produit, vente, produit, etc), coeur du métier
+- Processus de support (tout ce qui touche aux ressources : humaine, materiel, données)
+
+SI est dans le processus de support.
+
+Ce mode d'organisation se focalise sur les besoins du client.
+
+Besoins clients -> {organisation transversal} -> résultat
+
+L'unité organisationnel est organisé en poste sigref.
+
+Est ce que l'unité SI doit adopter organisation transverse ? Celà peut aider au SI à mieux prendre en compte les clients.
+
+Les directions informatiques sont de plus en plus indispensable notamment pour la gestions des besoins clients.
+
+Le risque de ne pas adopter un mode d'organisation ITIL peut induire ceci :
+
+- cout exorbitant
+- ça ne marche pas / disfonctionnement
+- trop de temps
+
+Et ceux sans pouvoir expliquer les raisons. Mais si ça ne marche pas c'est qu'on a pas pu pouvoir définir les moyens (les mesurer) nécessaires qui n'ont donc pas pu être donné.
+
+ITIL permet de définir clairement :
+
+- Ce que l'ont fait
+- pouvoir s'engager sur les services proposés
+- des couts
+- des cas pris en compte et ceux qui ne le sont pas
+- des ressources necessaires
+
+Pour mesurer le délais du service client par exemple : T initial (récéption de l'appel) et T fini (cloture de la résolution du problème), est ce que le contrat de temps est respecté ?
+
+ITIL a permit de mettre en place cette structure pour calculer le délais. ITIL permet donc de professionnalisé le service SI en prenant des engagements.
+
+
+## Les processus ITIL
+
+### Service Opération (SO)
+
+Ce qui touche au plus près les utilisateurs
+
+### Service Transition (ST)
+
+Ce qui touche au projet
+
+### Service Design (SD)
+
+La partie contrat
+
+### Service ...
+
 ## Lexique
 
 - Risk based : basé sur les risque
