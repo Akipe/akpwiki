@@ -2,7 +2,7 @@
 title: Chapeau de Bono
 description: 
 published: true
-date: 2024-09-09T11:59:53.311Z
+date: 2024-09-09T12:19:03.449Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-09T11:18:41.193Z
