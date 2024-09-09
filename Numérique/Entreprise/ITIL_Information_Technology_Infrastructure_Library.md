@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T09:12:07.290Z
+date: 2024-09-09T09:14:52.489Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -845,6 +845,12 @@ Solution :
 - Industrialiser, automatiser les processus
 
 > *Mise en place d'un portail d'aide ou de FAQ, ou lors de la création d'un incident on récupére automatiquement les informations de l'utilisateur (type de poste, info technique et personnelle...)*
+
+### Modèle d'organisation
+
+Liste de modèles d'organisation (par l'entreprise *Gartner*).
+
+
 
 ## Les processus ITIL
 
