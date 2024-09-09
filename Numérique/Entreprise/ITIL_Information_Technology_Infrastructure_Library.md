@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T08:14:15.496Z
+date: 2024-09-09T08:20:40.086Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -694,7 +694,7 @@ ITIL a permit de mettre en place cette structure pour calculer le délais. ITIL 
 
 ### Mission et périmétre DSI
 
-p57
+(p57 du diaporama)
 
 Utilisation du modèle en 4 couches :
 
@@ -702,6 +702,31 @@ Utilisation du modèle en 4 couches :
 2. Services SI
 3. Applications
 4. Technologies
+
+### Organisation de la DSI
+
+Organisation en silos :
+
+```
+    DSI
+     |
+  |----------------|
+Etude          Production
+  |                |
+  | (regroupement) |
+  |                |
+ERP,CRM,       PC, NET, Serveur,
+WEB, DWH       SGBD
+
+Projets,  -------> Services
+Solutions ------->
+(méth. Prince2)    (méth ITIL)
+```
+
+Les spécialistes sont spécifique à leur silos : mais il y a un risque de ne pas avoir une vue d'ensemble des projets, de l'entreprise et des besoins du client.
+
+CRM : custom relationship management
+DWH : Data Ware House : entrepot de donnée
 
 ## Les processus ITIL
 
