@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T09:14:52.489Z
+date: 2024-09-09T09:23:06.014Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -850,7 +850,25 @@ Solution :
 
 Liste de modèles d'organisation (par l'entreprise *Gartner*).
 
+> !!! image modèle gartner
 
+CMMI : utilisé pour le développement
+
+Plus le modèle est concret, mieux c'est.
+
+> *ITIL 2 mets en avant la gestion du service client, qui est déjà connu par les professionnels du secteur*
+
+Etude sur l'utilisation des méthodes de gestion de management : ITIL est utilisé en entier ou en partie dans 80% des entreprise (*Axelos Benchmarking ITSM 2017*).
+
+Liste de d'autres méthodes (des plus utilisés au moins) :
+
+- PMBOK
+- Prince2
+- Scrum
+- DevOps
+- Lean
+- ISO 20000
+- Six Sigma
 
 ## Les processus ITIL
 
@@ -887,6 +905,7 @@ La partie contrat
 - SLA : Service Level Agreement
 - ITSM : Information Technologie Service Management, discipline de gestion des services informatique
 - SMS : Système de Management Service, comme ITIL avec ISO-20000-1 ou pour la sécurité SMSI en ISO-27001
+- CI/CD
 
 ## Ressources
 
