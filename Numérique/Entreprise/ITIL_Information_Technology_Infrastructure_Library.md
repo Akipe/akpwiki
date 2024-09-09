@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T09:07:51.702Z
+date: 2024-09-09T09:10:35.429Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -824,7 +824,25 @@ Solutions :
 
 > *ON standardise un modèle de PC utilisé par tous les employés, et gardant un petit stock en cas où il serait necessaire de remplacer un des PC*
 
+##### Service relationnel
 
+Problème :
+
+- Doit être bien utilisé par l'utilisateur : manque de compétence et risque de saturation du support utilisateur
+- 
+
+Risque :
+
+- hétérogénétité des compétence et attitudes
+
+Qui entrainera une instabilité du niveau de service
+
+> *Risque de saturation du support utilisateur*
+
+Solution : 
+
+- former les utilisateurs
+- Industrialiser, automatiser les processus
 
 ## Les processus ITIL
 
