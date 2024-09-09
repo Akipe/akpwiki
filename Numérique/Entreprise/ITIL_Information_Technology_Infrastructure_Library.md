@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T08:58:43.106Z
+date: 2024-09-09T09:06:34.402Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -786,6 +786,8 @@ SI : activité de service qui induit un certain noimbre de caractéristique (imm
 
 Ces risque nécéssite des actions préventives à l'aide de système de management (pour limiter les variabilité) en mettant en place les processus et les ressources nécessaire. Ce service va mettre en place un SMS comme ITIL.
 
+##### Service immateriel
+
 Possibilités de problèmes :
 
 - objets flou, difficulté à le définir ou à le borner
@@ -800,7 +802,25 @@ Risques de :
 Solution :
 
 - matérialise l'offre de service (on informe clairement les services proposé ainsi que des options, en prévenant des risque et tout autre information utile)
-- personnaliser et spécialiser les services
+- personnaliser et spécialiser les services (par exemple envoyer en cas de panne pour le client des pc de sauvegarde)
+
+##### Service simultané
+
+Il peut y avoir un pic de consommation par exemple pour la gestion du support utilisateur, ou lors de la gestion de traitement si tous les utilisateurs le lance en même temps, on risque de saturer le service (denie de service).
+
+Risque :
+
+- denie de service
+- désiquilbre entre les demande et les moyen
+
+Donc délais ou couts suplémentaire
+
+Solutions :
+
+- Prévisions des besoins et volume
+- Modéliser le procesus du parcours client
+- systémématiser (et automatiser) l'enchainement des activités
+- standardisation et mutualisation des ressources
 
 ## Les processus ITIL
 
