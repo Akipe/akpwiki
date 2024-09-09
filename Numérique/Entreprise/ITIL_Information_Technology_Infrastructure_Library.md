@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T08:11:03.905Z
+date: 2024-09-09T08:14:15.496Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -692,6 +692,16 @@ Pour mesurer le délais du service client par exemple : T initial (récéption d
 
 ITIL a permit de mettre en place cette structure pour calculer le délais. ITIL permet donc de professionnalisé le service SI en prenant des engagements.
 
+### Mission et périmétre DSI
+
+p57
+
+Utilisation du modèle en 4 couches :
+
+1. Métiers -> processus en direction des unités apportant de la valeur au client
+2. Services SI
+3. Applications
+4. Technologies
 
 ## Les processus ITIL
 
