@@ -2,7 +2,7 @@
 title: Chapeau de Bono
 description: 
 published: true
-date: 2024-09-09T11:18:41.193Z
+date: 2024-09-09T11:20:44.445Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-09T11:18:41.193Z
@@ -26,7 +26,7 @@ dateCreated: 2024-09-09T11:18:41.193Z
 
 ### Chapeau jaune
 
-**Optimismes** : 
+**Optimismes** : les avantages, opportunités, espoires, etc.
 
 ### Chapeau vert
 
