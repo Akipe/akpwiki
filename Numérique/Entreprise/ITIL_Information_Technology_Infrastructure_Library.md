@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T08:10:10.139Z
+date: 2024-09-09T08:11:03.905Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -645,8 +645,6 @@ Orienté vers les ressources humaines et les compétences de leur équipes.
 - KPI (gestion de projet) : Key Process (ou Project) Indicator (avec SonarQube par exemple)
 - CdC : Cahier des Charges
 - MCO : Maintien en Condition Opérationnel
-
-## Organisation (titre prédédant)
 
 ## Modèle ITIL
 
