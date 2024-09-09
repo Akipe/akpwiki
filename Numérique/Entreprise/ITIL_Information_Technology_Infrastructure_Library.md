@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T09:41:27.417Z
+date: 2024-09-09T09:51:13.426Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -16,13 +16,27 @@ ITIL est une bibliothèque de bonne pratique orienté à l'origine sur les méti
 
 ITIL ne permet de ne certifier que des individus, il existe la norme 20000 (ITIL v3) pour normaliser les entreprises.
 
-Les versions de ITIL sont :
+### Historique
 
-- ...
-- 2011
-- V3
-- V4 (dernière en date)
+Agence gouvernementale anglais (Tatcher) qui défini un référentiel pour sous traiter les SI des administration.
 
+- V1 (fin année 80) :
+	- se base sur les référenciel et de nombres bonnes pratiques de la sous traitance de l'administration anglaise.
+- V2 (2000) :
+	- sensibiliser la notion de service
+  - intégreer les projets au cycle de vie
+  - structures de support et de conseil
+- V3 (2007) :
+	- Garder ITIL en phase avec l'entreprise (moins langage informatique)
+  	- stratégie
+    - conception
+    - amélioration
+    - ...
+  - reprend la compatibilité de ma V2 et ISO 20000
+  - plus orienté métier et client
+  - ajout de modules (5 modules), processus et de fonctions
+- V2011 :
+	- On passe de 3 activités à 3 processus
 
 ### Normes ISO
 
