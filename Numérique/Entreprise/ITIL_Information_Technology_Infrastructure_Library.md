@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T08:43:51.189Z
+date: 2024-09-09T08:46:09.916Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -765,7 +765,7 @@ Oui car il permet :
 
 - de bien se comprendre (partage du langage et du vocabulaire)
 - de bien organiser pour les communications entre les unités interne et externe (prestataire) 
-- de pouvoir bien 
+- de pouvoir organiser la sous traitance (quels services, quel contrat, etc)
 
 ITIL permet une approche ITSM.
 
@@ -777,6 +777,8 @@ Logiciel de ticketing :
 - EasyVista
 
 Egalement possibilité de chercher des outils *ITIL compliant*.
+
+Il faudra définir des contrats de service (SLA) ou des conventions de service avec les services internes pour ensuite demander un certain nombre d'obligation auprès des préstataire *(ISO 2000-1)* à l'aide du processus ITIL
 
 ## Les processus ITIL
 
