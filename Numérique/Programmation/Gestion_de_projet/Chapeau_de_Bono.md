@@ -2,7 +2,7 @@
 title: Chapeau de Bono
 description: 
 published: true
-date: 2024-09-09T11:20:44.445Z
+date: 2024-09-09T11:59:53.311Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-09T11:18:41.193Z
@@ -14,7 +14,9 @@ dateCreated: 2024-09-09T11:18:41.193Z
 
 ### Chapeau blanc
 
-**Neutralité** : parlé des fais
+**Neutralité** : parlé des fais, spécifications fonctionnelles, définir le problème et son but.
+
+> On peut réaliser un diagramme à partir de cequi a été trouvé
 
 ### Cheapeau route
 
