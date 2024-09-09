@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T08:25:02.841Z
+date: 2024-09-09T08:28:43.720Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -724,14 +724,14 @@ Solutions ------->
 (méth. Prince2)    (méth ITIL)
 ```
 
+ITIL ne prend pas en compte la gestion de projet, mais fait le lien avec les méthodes de gestion de projet.
+
 Les spécialistes sont spécifique à leur silos, ce qui induit les risques :
 
 - Manque de communication (services ne sont pas au courant des services/logiciels et donc ne peut comprendre les problèmes induites par eux).
 - manque d'anticipation
 - Les roles sont dispérser
 
-CRM : custom relationship management
-DWH : Data Ware House : entrepot de donnée
 
 La structuration :
 
@@ -773,3 +773,6 @@ La partie contrat
 - aMO
 - SI : Système d'Information
 - gestion de la production assisté par ordinateur (GPAO)
+- CRM : custom relationship management
+- DWH : Data Ware House : entrepot de donnée
+- SLA : Service Level Agreement
