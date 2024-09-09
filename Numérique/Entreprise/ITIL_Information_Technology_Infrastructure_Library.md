@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T08:20:40.086Z
+date: 2024-09-09T08:21:22.283Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -710,14 +710,15 @@ Organisation en silos :
 ```
     DSI
      |
-  |----------------|
-Etude          Production
-  |                |
-  | (regroupement) |
-  |                |
+  |-------------------|
+Etude            Production
+  |                   |
+  |   (regroupement)  |
+  |                   |
 ERP,CRM,       PC, NET, Serveur,
 WEB, DWH       SGBD
-
+ |                    |
+(en amont)         (en aval)
 Projets,  -------> Services
 Solutions ------->
 (méth. Prince2)    (méth ITIL)
