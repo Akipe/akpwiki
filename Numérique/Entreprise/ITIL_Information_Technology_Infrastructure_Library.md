@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T09:06:34.402Z
+date: 2024-09-09T09:07:51.702Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -821,6 +821,10 @@ Solutions :
 - Modéliser le procesus du parcours client
 - systémématiser (et automatiser) l'enchainement des activités
 - standardisation et mutualisation des ressources
+
+> *ON standardise un modèle de PC utilisé par tous les employés, et gardant un petit stock en cas où il serait necessaire de remplacer un des PC*
+
+
 
 ## Les processus ITIL
 
