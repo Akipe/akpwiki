@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T08:30:41.074Z
+date: 2024-09-09T08:41:24.033Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -734,7 +734,6 @@ Les spécialistes sont spécifique à leur silos, ce qui induit les risques :
 - manque d'anticipation
 - Les roles sont dispérser
 
-
 La structuration :
 
 - Partie projets et solutions
@@ -742,8 +741,42 @@ La structuration :
   - objectif
   	- productivité
     - créer de la valeur
+- Partie production
+	- représente 70% du budget
 
-(Est ce qu'on utilise bien tous les logiciels ? A quoi servent t'il ? Politique de gestion des licences ?)
+Exemple de question à se poser Est ce qu'on utilise bien tous les logiciels ? A quoi servent t'il ? Politique de gestion des licences ?)
+
+### Caractérisation de la production
+
+```
+Activité technique (supersision) -> SAN de donnée -> réseau -> Cloud services
+                                                         |---> Infrastructure interne (PC fixe, imprimante...)
+```
+                                   
+Cloud services :
+
+- SaaS : Software as a Service
+- PaaS : Platforme as a Service
+- IaaS : Infrastructure as a Service
+
+Si externalisation du SI, est-ce necessaire d'utiliser ITIL ?
+
+Oui car il permet :
+
+- de bien se comprendre (partage du langage et du vocabulaire)
+- de bien organiser pour les communications entre les unités interne et externe (prestataire) 
+- de pouvoir bien 
+
+ITIL permet une approche ITSM.
+
+Logiciel de ticketing :
+
+- LanDesk
+- Isilog
+- Service center
+- EasyVista
+
+Egalement possibilité de chercher des outils *ITIL compliant*.
 
 ## Les processus ITIL
 
@@ -778,3 +811,4 @@ La partie contrat
 - CRM : custom relationship management
 - DWH : Data Ware House : entrepot de donnée
 - SLA : Service Level Agreement
+- ITSM : Information Technologie Service Management, discipline de gestion des services informatique
