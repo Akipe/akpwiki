@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T08:41:24.033Z
+date: 2024-09-09T08:43:51.189Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -812,3 +812,7 @@ La partie contrat
 - DWH : Data Ware House : entrepot de donnée
 - SLA : Service Level Agreement
 - ITSM : Information Technologie Service Management, discipline de gestion des services informatique
+
+## Ressources
+
+- <https://www.atlassian.com/fr/itsm/itil>
