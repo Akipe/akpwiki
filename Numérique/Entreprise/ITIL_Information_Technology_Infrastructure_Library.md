@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T08:46:50.464Z
+date: 2024-09-09T08:54:11.780Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -778,7 +778,11 @@ Logiciel de ticketing :
 
 Egalement possibilité de chercher des outils *ITIL compliant*.
 
-Il faudra définir des contrats de service (SLA) ou des conventions de service avec les services internes pour ensuite demander un certain nombre d'obligation auprès des préstataire *(ISO 20000-1)* à l'aide du processus ITIL
+Il faudra définir des contrats de service (SLA) ou des conventions de service avec les services internes pour ensuite demander un certain nombre d'obligation auprès des préstataire *(ISO 20000-1)* à l'aide du processus ITIL.
+
+SI : activité de service qui induit un certain noimbre de caractéristique (immatériel, simultanée (produit et consomme en même temps) et relationnel (intéractions humaines)) engeandrant des risque de variabilités du niveau de service. *Exemple: service client : on peut tomber sur une personne expérimenté ou non par appel.*
+
+Ces risque nécéssite des actions préventives à l'aide de système de management (pour limiter les variabilité) en mettant en place les processus et les ressources nécessaire. Ce service va mettre en place un SMS comme ITIL.
 
 ## Les processus ITIL
 
@@ -814,6 +818,7 @@ La partie contrat
 - DWH : Data Ware House : entrepot de donnée
 - SLA : Service Level Agreement
 - ITSM : Information Technologie Service Management, discipline de gestion des services informatique
+- SMS : Système de Management Service, comme ITIL avec ISO-20000-1 ou pour la sécurité SMSI en ISO-27001
 
 ## Ressources
 
