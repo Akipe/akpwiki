@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T09:51:13.426Z
+date: 2024-09-09T09:51:59.958Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -36,7 +36,10 @@ Agence gouvernementale anglais (Tatcher) qui défini un référentiel pour sous 
   - plus orienté métier et client
   - ajout de modules (5 modules), processus et de fonctions
 - V2011 :
+	- très proche de la version V3
 	- On passe de 3 activités à 3 processus
+- V4 :
+	- basé sur la version V2011
 
 ### Normes ISO
 
