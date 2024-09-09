@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T08:28:43.720Z
+date: 2024-09-09T08:30:41.074Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -708,20 +708,22 @@ Utilisation du modèle en 4 couches :
 Organisation en silos :
 
 ```
-    DSI
-     |
-  |-------------------|
-Etude            Production
-  |                   |
-  |   (regroupement)  |
-  |                   |
-ERP,CRM,       PC, NET, Serveur,
-WEB, DWH       SGBD
- |                    |
-(en amont)         (en aval)
-Projets,  -------> Services
-Solutions ------->
-(méth. Prince2)    (méth ITIL)
+          DSI
+           |
+    |-------------------|
+  Etude             Production
+    |                   |
+    |   (regroupement)  |
+    |                   |
+  ERP,CRM,       PC, NET, Serveur,
+  WEB, DWH       SGBD
+    |                   |
+  (en amont)         (en aval)
+    |                   |
+  Projets,  -------> Services
+  Solutions ------->    |
+    |                   |
+  (méth. Prince2)    (méth ITIL)
 ```
 
 ITIL ne prend pas en compte la gestion de projet, mais fait le lien avec les méthodes de gestion de projet.
