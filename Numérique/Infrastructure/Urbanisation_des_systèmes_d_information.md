@@ -2,7 +2,7 @@
 title: Urbanisation des systèmes d'information
 description: 
 published: true
-date: 2024-09-10T09:42:03.373Z
+date: 2024-09-10T09:45:21.295Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:30:08.954Z
@@ -103,6 +103,8 @@ stratégie ---------------------> métier ----------------------->| définition 
 stratégique)                     processus métiers)                                             (developpement)
                                                                                                 (intégration)
 ```
+
+
 
 
 
