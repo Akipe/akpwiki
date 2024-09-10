@@ -2,7 +2,7 @@
 title: Urbanisation des systèmes d'information
 description: 
 published: true
-date: 2024-09-10T09:45:21.295Z
+date: 2024-09-10T09:46:34.690Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:30:08.954Z
@@ -95,13 +95,13 @@ p11 doc
 ### Démarche d'urbanisation
 
 ```
-                                      |-----------------------------------------------------------------------\
-                                      |  Urbanisme                                                             \
-                                      |                         | définition cible SI                           \
+-                                     |-----------------------------------------------------------------------\
+-                                     |  Urbanisme                                                             \
+-                                     |                         | définition cible SI                           \
 stratégie ---------------------> métier ----------------------->| définition existant -------> Architecture -------> Système d'information
 (Détermination des objectif      (Détermination des nouveau     | intégration                   (conception)
 stratégique)                     processus métiers)                                             (developpement)
-                                                                                                (intégration)
+-                                                                                               (intégration)
 ```
 
 
