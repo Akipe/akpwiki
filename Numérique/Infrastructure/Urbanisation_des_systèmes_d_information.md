@@ -2,7 +2,7 @@
 title: Urbanisation des systèmes d'information
 description: 
 published: true
-date: 2024-09-10T06:35:10.364Z
+date: 2024-09-10T07:11:25.453Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:30:08.954Z
@@ -60,7 +60,18 @@ dateCreated: 2024-09-10T06:30:08.954Z
 3. Applicatif : logiciel
 4. Technologie : Couche materiel
 
-Exemple : urbanisation des cités (politique urbaine).
+*Exemple : urbanisation des cités (politique urbaine).*
+
+Comparaison :
+
+Info | La cité | Le système d'information
+--|--|--
+- | Le PLU (Plan d'urbanisme) | Le POS (Plan d'occupation des sols
+Echelle | Commune | Entreprise / administration
+Objectif 1 | Définir droits par parcelle | définir service / responsabilité dans sous ensemble
+Objectif 2 | Organiser urbanisation définissant destination | Organisation globale SI : mission des applicatifs
+Objectif 3 |  | Regroupement d'applicatifs en sous ensemble | Regroupement d'applicatif en sous ensemble
+
 
 
 
