@@ -2,7 +2,7 @@
 title: Urbanisation des systèmes d'information
 description: 
 published: true
-date: 2024-09-10T09:48:29.980Z
+date: 2024-09-10T09:51:19.374Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:30:08.954Z
@@ -103,6 +103,15 @@ p11 doc
 - stratégique)                     processus métiers)                                           (developpement)
 -                                                                                               (intégration)
 ```
+
+Vision Métier : décrit les étapes du métier
+
+Vision fonctionnel : façon de faire (numérisé ou pas)
+
+Vision informatique : ensemble des ressources numérique (application, materiel et autre)
+
+
+
 
 
 
