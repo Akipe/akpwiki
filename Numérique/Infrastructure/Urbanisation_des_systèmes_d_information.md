@@ -2,7 +2,7 @@
 title: Urbanisation des systèmes d'information
 description: 
 published: true
-date: 2024-09-10T07:11:25.453Z
+date: 2024-09-10T08:14:07.884Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:30:08.954Z
@@ -72,7 +72,20 @@ Objectif 1 | Définir droits par parcelle | définir service / responsabilité d
 Objectif 2 | Organiser urbanisation définissant destination | Organisation globale SI : mission des applicatifs
 Objectif 3 |  | Regroupement d'applicatifs en sous ensemble | Regroupement d'applicatif en sous ensemble
 
+#### Définir des zone
 
+Il faut délémiter les "zone" :
 
+1. Zone
+2. Quartier
+3. Ilots
 
-BPMM
+#### Régles
+
+##### Urbanisme
+
+- Accés au bloc uniquement par sa "prise" (API)
+- Une donnée est la responsabilité d'un seul bloc (accès, mise à jour, etc)
+- Un bloc est dans un seul quartier, qui est dans une seul zone.
+- Un bloc est autonome, et représente des fonctionnalités cohérentes et ne doit avoir qu'un couplage faible avec les autres bloc
+- 
