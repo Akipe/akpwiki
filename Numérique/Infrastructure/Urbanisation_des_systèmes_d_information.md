@@ -2,7 +2,7 @@
 title: Urbanisation des systèmes d'information
 description: 
 published: true
-date: 2024-09-10T09:52:09.815Z
+date: 2024-09-10T09:53:08.616Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:30:08.954Z
@@ -104,11 +104,9 @@ p11 doc
 -                                                                                               (intégration)
 ```
 
-Vision Métier : déscription des étapes du métier
-
-Vision fonctionnel : déscription de la façon de faire (numérisé ou pas)
-
-Vision informatique : description de l'ensemble des ressources numérique (application, materiel et autre)
+1. Vision Métier : déscription des étapes du métier
+2. Vision fonctionnel : déscription de la façon de faire (numérisé ou pas)
+3. Vision informatique : description de l'ensemble des ressources numérique (application, materiel et autre)
 
 On utilisera BPMM pour décrire les processus.
 
