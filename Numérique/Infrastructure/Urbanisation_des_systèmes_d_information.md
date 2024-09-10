@@ -2,7 +2,7 @@
 title: Urbanisation des systèmes d'information
 description: 
 published: true
-date: 2024-09-10T08:14:07.884Z
+date: 2024-09-10T09:33:52.862Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:30:08.954Z
@@ -80,7 +80,7 @@ Il faut délémiter les "zone" :
 2. Quartier
 3. Ilots
 
-#### Régles
+### Régles
 
 ##### Urbanisme
 
@@ -88,4 +88,21 @@ Il faut délémiter les "zone" :
 - Une donnée est la responsabilité d'un seul bloc (accès, mise à jour, etc)
 - Un bloc est dans un seul quartier, qui est dans une seul zone.
 - Un bloc est autonome, et représente des fonctionnalités cohérentes et ne doit avoir qu'un couplage faible avec les autres bloc
-- 
+- Bloc émet des résultat normalisé
+
+p11 doc
+
+### Démarche d'urbanisation
+
+```
+                                      |-----------------------------------------------------------------------\
+                                      |  Urbanisme                                                             \
+                                      |                         | définition cible SI                           \
+stratégie ---------------------> métier ----------------------->| définition existant -------> Architecture -------> Système d'information
+(Détermination des objectif      (Détermination des nouveau     | intégration                   (conception)
+stratégique)                     processus métiers)                                             (developpement)
+                                                                                                (intégration)
+```
+
+
+
