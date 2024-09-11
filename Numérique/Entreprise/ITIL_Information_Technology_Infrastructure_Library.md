@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T14:11:02.699Z
+date: 2024-09-11T14:15:58.377Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1297,6 +1297,29 @@ Objectif :
 
 > **Catalogue** : liste de service interne (ou externe) de l'entreprise. Par exemple, définir qu'il faut 2 jours pour créer un compte pour un nouveau employé fait partie des services du catalogue de l'entreprise.
 
+diagramme p99
+
+#### Gestion des accès
+
+Gérer les droit d'accès aux utilisateurs.
+
+finalité : autorisé ou non l'utilisateur à accéder à des services standard du catalogue.
+
+CID: Confidentialité, Intégrité et Disponibilité des Données
+
+> CID : qui à le droit d'accés ou de modifier des données (angle confidentialité)
+
+Gérer au niveau des droits utilisateurs :
+
+1. Identités : *identité d'un individus : m Dupond Jean*
+2. Profil : *utilisateur normale ou utilisateur expérimenté ou un administrateur*, correspondant à son profile
+3. Accés: *accès uax services et applications*
+4. Droits : *droit de modification, de lecture, de suppression*
+
+ACL: Access Control List
+
+diagramme p 101
+
 ### Module CSI
 
 Correspond à l'amélioration (continue) de tous les autres processus et tous les modules.
@@ -1335,22 +1358,6 @@ Il sera aidé par des contributeurs :
 
 > Equipe support : responsable service (management individus et ressource, hiérarchique, rh) et pilote procecus (orienté service, résultat, management de processus) définir un processus, processus de gestion incident
 
-diagramme p99
-
-finalité : autorisé ou non l'utilisateur à accéder à des services standard du catalogue.
-
-CID: Confidentialité, Intégrité et Disponibilité des Données
-
-> CID : qui à le droit d'accés ou de modifier des données (angle confidentialité)
-
-Gérer au niveau des droits utilisateurs :
-
-1. Identités : *identité d'un individus : m Dupond Jean*
-2. Profil : *utilisateur normale ou utilisateur expérimenté ou un administrateur*, correspondant à son profile
-3. Accés: *accès uax services et applications*
-4. Droits : *droit de modification, de lecture, de suppression*
-
-ACL: Access Control List
 
 ## Structure de processus
 
