@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T12:21:04.344Z
+date: 2024-09-11T12:26:38.575Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1235,6 +1235,10 @@ Objectif :
 WorkAround : WA
 
 diagramme p91
+
+Strucuration de la recherche des causes à l'aide du doagramme (diagramme de cause à effet, l'arréte c'est les causes et le derniers points c'est l'effet)
+
+p92
 
 ### Module CSI
 
