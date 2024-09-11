@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T09:31:03.317Z
+date: 2024-09-11T09:47:28.454Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1102,6 +1102,40 @@ p79
 Le centre de service va "escalader" l'appel : envoyer l'incident au service de niveau 2.
 
 Egalement appelé "escalade fonctionnel" car le support niveau 2 est concidéré comme une fonction, donc on "escalade" de fonction en fonction.
+
+Niveau 0 : assistant fonctionnelle, sur les sites clients, qui vont faire l'interface avec le centre de service.
+
+(Niveau 0) -> Niveau 1 (centre de service ) <-> Niveau 2 <-> Niveau 3
+
+Le centre de service gére la création et la fermeture du ticket.
+
+Plusieurs formats :
+
+1. Call Center
+	- reçois les appels
+  - les enregistre
+  - ne resoud PAS les incidents
+2. Help Desk
+	- résoudre certain incidents
+3. Centre de services
+	- On devient le SPOC
+  
+Difficultés :
+
+- resistance au changement à cause du changement d'habitude
+- ressources / compétences mal adapté
+- communication insuffisante de la mise en place (mal compris flux entre niveau 1 et 2)
+- etc
+
+Question test :
+
+> Dans les activités ci-dessous, qu’est-ce qui n’est pas du
+domaine du service desk :
+> A. Fournir un support aux utilisateurs.
+> B. Rechercher les causes des incidents.
+> C. Être l’interface entre les utilisateurs et le service
+informatique.
+> D. Suivre la résolution des incidents.
 
 ### Module CSI
 
