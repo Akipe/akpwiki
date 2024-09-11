@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T08:19:35.366Z
+date: 2024-09-11T08:31:04.019Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1059,6 +1059,39 @@ Il est le *service provider* (MOE) :
 
 ### Service CSI
 
+Correspond à l'amélioration. Il s'applique à tous les processus et tous les modules. Il applique l'amélioration continue.
+
+Processus : élément d'entré génére grace :
+
+- aux ressources
+- compétences et Roles
+- d'activité (diviser en instruction (standardisation de procédé) à appliquer à des étapes clés)
+- au travers de mesures
+
+Qui vont générer des élément de sortie.
+
+> *Des mail et données en entrée, savoir faire opérationnel va gérer les demande de support au niveau 1, 2, 3 pour au final donner en sortie la résolution du problème.*
+
+
+Le product owner (pilote du processus) va controler le processus :
+
+- Piloter
+- vérifier les objectif son atteinds et avoir tableau de bord
+
+Ensuite le product Owner organise le module et les missions en catégories :
+
+- Les activités
+- Les instructions
+- Les roles
+- et il va réaliser une métrique pour avoir une idée des performances
+
+
+Il sera aidé par des contributeurs :
+
+- Ressources
+- Aptitutes
+
+> Résoudre les problèmes du support client en 8h
 
 ## Gestion des licences
 
