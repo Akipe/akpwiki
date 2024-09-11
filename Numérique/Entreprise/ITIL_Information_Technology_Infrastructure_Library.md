@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T08:12:57.689Z
+date: 2024-09-11T08:18:46.794Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1047,6 +1047,14 @@ Doit gérer l'équilibre entre :
 - Réactivité <-> Pro activité
 
 > Géstion des incidents, traiter les incidents sans s'occuper des causes (toujours résoudre les même problèmes) <-> Gestion des problèmes, chercher uniquement les causes sans s'occuper de traiter les incidents
+
+
+Il est le *service provider* (MOE) :
+
+- Va gérer les événement (*ex: matériel passe de status fonctionnel à non fonctionnel)
+- Gérer les incidents (si incident répétitif, devient un problème qui doit être résolut en trouvant la cause)
+- Géstion des demandes et accès au service
+- gestion "opérations communes" : sauvegarde, surveillance (monitoring), ordonancement (batch de nuit)
 
 
 ### Service CSI
