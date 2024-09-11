@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T13:33:12.568Z
+date: 2024-09-11T13:35:25.043Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1276,6 +1276,14 @@ On peut définir/identifier des paramètres et des seuil pour définir des alert
 > Utilisation du load balancing
 
 diagramme p97
+
+#### Exécution des demandes
+
+Egalement appelé *Request Fulfilment*.
+
+C'est ce processus qui va traiter les demande simple et récurrente dans un processus spécialisé
+
+> Dans les gare, si la demande est simple, on peut directement aller à la borne. Si la demande est plus complexe, alors on va au guichet.
 
 ### Module CSI
 
