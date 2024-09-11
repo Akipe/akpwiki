@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T07:39:07.432Z
+date: 2024-09-11T08:05:08.172Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1004,15 +1004,27 @@ Module assure déploiement du service pour transitionnement sur l'opérationnel.
 
 Il sert également à controler le bon fonctionnement d'un service ou d'un changement d'un service.
 
+Il fait le lien avec les projets et peut déborder du cadre "classique" du workflow d'un service (par exemple lors d'une RFC qui doit être réalisé au plus tôt)
+
 Périmétre :
 
 - gestion des changements (RFC : Request For Change)
-- Gestion des configuration & des connaissances
+- Gestion des mises à jour des configuration & des connaissances (doc, faq, etc)
+- Vérifie si les tests sont réalisé et s'il corresonde aux garanties défini du service
 
 > On se rend compte qu'on utilise une appli qui utilise la BDD Oracle : Service Transition doit faire une RFC, pour :
 > - mettre en place la BDD
 > - avoir les compétences
 > Et ainsi prévoir en amont les besoins d'un projet et par au dernier moment
+
+Plusieurs processus :
+
+- évaluation 
+- planification
+- gestion control
+- bilan
+
+Il protége l'environement de production pour limité les risques de variabilités (instabilités), les équipe opérationnel prendront en charge correctement le service.
 
 ### Service Opération (SO)         
 
@@ -1048,6 +1060,8 @@ Ce qui touche au plus près les utilisateurs
 - SMS : Système de Management Service, comme ITIL avec ISO-20000-1 ou pour la sécurité SMSI en ISO-27001
 - CI/CD
 - ESM : Enterprise Service Management : couvrir plus que le domaine informatique - influer sur d'autres domaine que IT
+- SLR : Service Level Requirements
+- RFC : Request For Change
 
 ## Ressources
 
