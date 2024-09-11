@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T07:04:27.847Z
+date: 2024-09-11T07:12:08.082Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -950,7 +950,24 @@ On va gérer les risque par :
 
 Partie direction et concepteur de valeur à apporte aux clients.
 
-> Valeur : composé d'une notion **d'utilité** et de **garentie** de bon fonctionnement.
+> Valeur : composé d'une notion **d'utilité** et de **garantie** de bon fonctionnement.
+
+Utilité :
+
+- fonctionnalités
+
+Garantie (niveau de service garantie) :
+
+- service fonctionne
+- performance correcte
+- réalise correctement les taches (bug ou mauvais traitement du service)
+
+DSI s'organise en tant que préstataire de service en interne dans l'entreprise :
+
+- soit elle s'aligne sur la stratégie de l'entreprise
+- elle "impulse" la stratégie de l'entreprise à l'aide des connaissances numérique
+
+> *Le DSI du groupe Accord propose la mise en ligne des disponibilités des chambres des hotels en ligne*
 
 ### Service Design (SD)
 
