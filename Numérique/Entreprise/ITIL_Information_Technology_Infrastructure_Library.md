@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T06:24:13.641Z
+date: 2024-09-11T06:28:10.850Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -893,7 +893,7 @@ Liste de d'autres méthodes (des plus utilisés au moins) :
 - ISO 20000
 - Six Sigma (basé sur les statistiques)
 
-ITIL est dit *"holistique"* : c'est une boite à outil de bonnes pratiques dans laquel on peut prendre ce que l'on veut. Sa mise en place peut être mise en place progressivement et peut être complémentaire.
+ITIL est dit *"holistique"* (global) : c'est une boite à outil de bonnes pratiques dans laquel on peut prendre ce que l'on veut. Sa mise en place peut être mise en place progressivement et peut être complémentaire. Elle peut être utilisé pour gérer "globalement" l'organisation du SI.
 
 ## Les processus ITIL
 
