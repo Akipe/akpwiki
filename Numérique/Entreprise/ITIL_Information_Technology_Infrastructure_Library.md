@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-09T09:58:28.613Z
+date: 2024-09-11T06:07:55.135Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -938,3 +938,4 @@ La partie contrat
 ### Livre
 
 - <https://www.editions-eni.fr/livre/itil-4-comprendre-la-demarche-et-adopter-les-bonnes-pratiques-3e-edition-9782409045868>
+- <https://www.editions-eni.fr/livre/itil-4-preparation-a-la-certification-itil-4-foundation-2e-edition-9782409039362>
