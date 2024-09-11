@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T07:02:45.003Z
+date: 2024-09-11T07:04:27.847Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -948,7 +948,9 @@ On va gérer les risque par :
 
 ### Service Stratégie (SS)
 
-Partie direction et gestion des statégies
+Partie direction et concepteur de valeur à apporte aux clients.
+
+> Valeur : composé d'une notion **d'utilité** et de **garentie** de bon fonctionnement.
 
 ### Service Design (SD)
 
