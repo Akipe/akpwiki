@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T08:33:34.534Z
+date: 2024-09-11T08:35:23.295Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1072,11 +1072,12 @@ Qui vont générer des élément de sortie.
 
 > *Des mail et données en entrée, savoir faire opérationnel va gérer les demande de support au niveau 1, 2, 3 pour au final donner en sortie la résolution du problème.*
 
-
 Le product owner (pilote du processus) va controler le processus :
 
 - Piloter
 - vérifier les objectif son atteinds et avoir tableau de bord
+
+Le pilote (product owner) n'a pas d'autorité hiérarchique mais une autorité du service, module et en définition du résultat du processus
 
 Ensuite le product Owner organise le module et les missions en catégories :
 
