@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T12:26:38.575Z
+date: 2024-09-11T12:28:27.274Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1240,6 +1240,13 @@ Strucuration de la recherche des causes à l'aide du doagramme (diagramme de cau
 
 p92
 
+Familles de cause 5M :
+
+- Méthode : Procédure, ficher d'instruction, consigne, organisation...
+- Moyen : équipement, outils, maintenance...
+- Main d'oeuvre : formation, compétences, comportement...
+- Matière : entrées/sorties, flux d'information, communication, controles, mesures
+- Milieu : environnement externe, conditions de travail
 ### Module CSI
 
 Correspond à l'amélioration (continue) de tous les autres processus et tous les modules.
