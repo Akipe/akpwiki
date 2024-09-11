@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T11:10:40.809Z
+date: 2024-09-11T11:53:55.278Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1149,6 +1149,45 @@ objectif :
 - escalader l'incident
 - suivre l'incident
 - proposer des solutions de workaround à un incident
+
+Indicateurs :
+
+- Backlog (incidents en cours) : age du backlog
+- delais résolution, pourcentage de délais
+
+Incident : événement non planifier qui pourrait provoqué une intéruption de service ou une dégradation de service.
+
+Si c'est planifier : on appelle ça un changement (planifiable dans la gestion des changements).
+
+```
+Impact = fonction(nombre utilisateur impacté)
+Urgence = fonction(degré de blocage)
+
+Fort/moyen/faible
+
+i(mpact) : 5,3,1
+u(rgence) : 5,3,1
+e(ffort) : 4,2,1
+```
+
+Niveau priorité | Priorité | Délai de résolution
+--|--|--
+1 (100 à 50) | Majeur | 2h
+2 (49 à 19) | Elevé | 4h ouvrées
+3 (18 à 8) | Moyenne | 8h ouvrées
+4 (7 à 1) | basse | 24h ouvrées
+
+Scénario « standard » | I(mpact) | U(rgence) | E(ffort) | P(riorité) | D(urée)
+--|--|--|--|--|--
+Perte de mot de passe SSO | 3 | 5 | 4 | 1 | 2h
+Indisponibilité ERP | 5 | 5 | 2 | 1 | 2h
+
+```
+3 * 5 * 4 * 1 = 60 
+60 > 50 donc impact Majeur est donc intervention en moins de 2h
+```
+
+L'incidence majeur va demander une cellule de crise (plan de communication, en interne, en externe, le tout préparer en amont) (en interne : escalade hiérarchique, mobilisation de ressource, PRA (Plan Reprise Activité)
 
 ### Module CSI
 
