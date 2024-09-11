@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T07:17:51.357Z
+date: 2024-09-11T07:20:13.613Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -985,6 +985,8 @@ Associe les différents services à la réalisation de nouvelles fonctionnalité
 	- retrait du service
   
 > Remplacement d'un ERP : remplacement des accès à ceux ci pour le nouveau ERP
+
+Permet de décliner des offres en fonction des services et vérifier si le service proposé correspond bien à la valeur que l'on souhaite proposé au client.
 
 ### Service Transition (ST)
 
