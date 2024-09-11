@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T07:12:08.082Z
+date: 2024-09-11T07:17:51.357Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -971,7 +971,20 @@ DSI s'organise en tant que préstataire de service en interne dans l'entreprise 
 
 ### Service Design (SD)
 
-La partie contrat
+La partie contrat : portefeuille de services et d'actif de service.
+
+Associe les différents services à la réalisation de nouvelles fonctionnalités.
+
+3 Niveau :
+
+1. Préparation du service (offre en préparation)
+2. Mise du service en catalogue (offre visible)
+	- quelles compétences ?
+  - quelles ressources ?
+3. Obsoléscence du service (offre retiré)
+	- retrait du service
+  
+> Remplacement d'un ERP : remplacement des accès à ceux ci pour le nouveau ERP
 
 ### Service Transition (ST)
 
