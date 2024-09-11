@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T06:13:36.188Z
+date: 2024-09-11T06:24:13.641Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -852,7 +852,7 @@ Solutions :
 Problème :
 
 - Doit être bien utilisé par l'utilisateur : manque de compétence et risque de saturation du support utilisateur
-- 
+- contact direct avec le prestataire
 
 Risque :
 
@@ -910,6 +910,12 @@ Ce qui touche au projet
 La partie contrat
 
 ### Service ...
+
+## Gestion des licences
+
+- Vérifier les logiciels
+- Vérifier licence
+- Vérifier le nombre de licence correspond au nombre d'instance
 
 ## Lexique
 
