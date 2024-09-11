@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T06:45:09.713Z
+date: 2024-09-11T06:54:40.290Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -911,6 +911,32 @@ Service Transition -> gére mise en production
 Service opération -> gérer la production et le support
 
 CSI -> aide à atteindre le niveau service attendu
+
+Service informatique -> client : services métier -> client : clients entreprise.
+
+SI va aider à gérer les
+
+#### ITIL 2011
+
+##### Services
+
+Apporte de la valeur au client sans la résponsabilité des couts et des services.
+
+##### Gestion de service
+
+Apporter un savoir faire sur l'organisation de l'entreprise pour apporter de la valeurs aux clients sous forme de service.
+
+##### Processus
+
+Activités coordonées (aptitudes et ressources) ammenant à des résultat apportant de la valeur au client (directement ou indirectement).
+
+> Réparer les machines ou application vendu au client, ou avoir un listing des configurations des machines
+
+##### Risque
+
+Evenements potentiels indésirable empéchant d'atteindre les objectifs.
+
+> PC portable pouvant être volé -> empéche de réaliser la mission de l'employé
 
 ### Service Opération (SO)         
 
