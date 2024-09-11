@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T06:07:55.135Z
+date: 2024-09-11T06:13:36.188Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -805,6 +805,10 @@ SI : activité de service qui induit un certain noimbre de caractéristique (imm
 
 Ces risque nécéssite des actions préventives à l'aide de système de management (pour limiter les variabilité) en mettant en place les processus et les ressources nécessaire. Ce service va mettre en place un SMS comme ITIL.
 
+- Immatériel
+- Simultané
+- Relationnel
+
 ##### Service immateriel
 
 Possibilités de problèmes :
@@ -890,7 +894,6 @@ Liste de d'autres méthodes (des plus utilisés au moins) :
 - Six Sigma (basé sur les statistiques)
 
 ITIL est dit *"holistique"* : c'est une boite à outil de bonnes pratiques dans laquel on peut prendre ce que l'on veut. Sa mise en place peut être mise en place progressivement et peut être complémentaire.
-
 
 ## Les processus ITIL
 
