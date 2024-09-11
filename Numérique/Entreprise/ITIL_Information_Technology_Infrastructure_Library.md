@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T12:13:50.242Z
+date: 2024-09-11T12:19:58.447Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1218,6 +1218,23 @@ Incident réseau | 5 | 5 | 2 | 50
 (autre cas possible) | 5 | 3 | 2 | 30
 VIP | 3 | 5 | 4 | 60
 (autre cas possible) | 3 | 5 | 1 | 15
+
+#### Gestion des problèmes
+
+Le but est de réduire l'impact des incident en corrigeant les causes.
+
+> incident / probléme : les incidents sont géré par les pompiers et les problèmes sont géré en amont pour éviter les pompier de s'éppuiser
+
+Objectif :
+
+- réduire l'impact des incidents
+- supprimer les causes des incidents
+- améliorer la productivité des équipes de support
+- gérer les problèmes et erreurs connues
+
+WorkAround : WA
+
+
 
 ### Module CSI
 
