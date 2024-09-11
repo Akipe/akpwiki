@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T07:20:13.613Z
+date: 2024-09-11T07:29:17.991Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -988,9 +988,15 @@ Associe les différents services à la réalisation de nouvelles fonctionnalité
 
 Permet de décliner des offres en fonction des services et vérifier si le service proposé correspond bien à la valeur que l'on souhaite proposé au client.
 
+Activité de coordination, SLM (Service Level Management), service de gestion de catalogue, gestion de la disponibilité et autres garanties lié à l'infrastructure et à l'application (gestion du risque), gestion de la sécurité, gestion des fournisseurs.
+
+SLM va gérer les contrat SLA
+
+> Questionnement : est ce qu'on heberge le service en interne ? Plan de continuité ? Quel procédure de sécurité ?
+
 ### Service Transition (ST)
 
-Ce qui touche au projet
+Module assure déploiement du service pour transitionnement sur l'opérationnel.
 
 ### Service Opération (SO)         
 
