@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T09:24:38.733Z
+date: 2024-09-11T09:31:03.317Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1091,6 +1091,17 @@ Indicateurs :
 - incidents mal orientés et réouvertur
 - taux de satisfaction
 
+Responsabilité :
+
+p79
+
+- enregistrer demande & incients
+- Assurer une partie de la gestion des incidents
+- suit les dossiers de bout en bout
+
+Le centre de service va "escalader" l'appel : envoyer l'incident au service de niveau 2.
+
+Egalement appelé "escalade fonctionnel" car le support niveau 2 est concidéré comme une fonction, donc on "escalade" de fonction en fonction.
 
 ### Module CSI
 
