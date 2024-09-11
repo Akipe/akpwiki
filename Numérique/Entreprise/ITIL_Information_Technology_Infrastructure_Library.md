@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T09:20:12.831Z
+date: 2024-09-11T09:24:38.733Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1068,6 +1068,28 @@ Il facilite la communication avec les utilisateur (un seul contact) pour :
 - les demandes
 
 > *Couplage de communauté* : on regroupe sur le centre de service la gestion des incidents et demandes
+
+Objectif :
+
+- recevoir, enregistrer et gérer les appels
+- assurer leur prise en compte et le traitement
+- informer, relancer les acteurs internes et externes (support niveau 2 et 3)
+- gérer satisfaction utilisteur
+
+> Mauvaise pratique : si lors d'un appel d'un centre de service pour suivre l'avancement d'un projet, si le service ne peut pas répondre à la question car "on a pas accès au dossier" ou "ce n'est pas nous qui avons gérer ça" alors il y a un problème.
+
+Indicateurs :
+
+- volumes d'appele
+	- reçu
+  - attente
+  - ratés
+- demande résolut
+	- total
+  - en ligne
+  - délai
+- incidents mal orientés et réouvertur
+- taux de satisfaction
 
 
 ### Module CSI
