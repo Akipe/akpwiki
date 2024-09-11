@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T06:57:35.244Z
+date: 2024-09-11T07:02:45.003Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -941,19 +941,29 @@ Evenements potentiels indésirable empéchant d'atteindre les objectifs.
 - Action corrective : résoudre les problèmes.
 - Action préventive : éviter les risques.
 
-### Service Opération (SO)         
+On va gérer les risque par :
 
-Ce qui touche au plus près les utilisateurs
+- l'impact -> ex : chiffrer le disque dur, réduire le nombre de données sur un pc, assurance pour le pc portable
+- la probabilité
 
-### Service Transition (ST)
+### Service Stratégie (SS)
 
-Ce qui touche au projet
+Partie direction et gestion des statégies
 
 ### Service Design (SD)
 
 La partie contrat
 
-### Service ...
+### Service Transition (ST)
+
+Ce qui touche au projet
+
+### Service Opération (SO)         
+
+Ce qui touche au plus près les utilisateurs
+
+### Service CSI
+
 
 ## Gestion des licences
 
