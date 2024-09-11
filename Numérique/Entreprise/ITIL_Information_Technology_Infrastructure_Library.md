@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T07:29:17.991Z
+date: 2024-09-11T07:33:39.185Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -993,6 +993,10 @@ Activité de coordination, SLM (Service Level Management), service de gestion de
 SLM va gérer les contrat SLA
 
 > Questionnement : est ce qu'on heberge le service en interne ? Plan de continuité ? Quel procédure de sécurité ?
+
+*Business case service* est gérer par ce service, pendant la gestion de projet il devient un *business case project* (gérer dans service transition) qui lui n'existe que dans la phase de gestion de projet.
+
+SLA : élément de garantie du service
 
 ### Service Transition (ST)
 
