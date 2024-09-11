@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T06:34:14.975Z
+date: 2024-09-11T06:45:09.713Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -899,7 +899,20 @@ ITIL est dit *"holistique"* (global) : c'est une boite à outil de bonnes pratiq
 
 ## Les processus ITIL
 
-### Service Opération (SO)
+Graphique ITILv2 (p67)
+Graphique ITILv2011 (p68)
+
+Stratégie -> intégre étude opportunité et gestion des risques
+
+Conception -> étudie service & architechture technique
+
+Service Transition -> gére mise en production
+
+Service opération -> gérer la production et le support
+
+CSI -> aide à atteindre le niveau service attendu
+
+### Service Opération (SO)         
 
 Ce qui touche au plus près les utilisateurs
 
