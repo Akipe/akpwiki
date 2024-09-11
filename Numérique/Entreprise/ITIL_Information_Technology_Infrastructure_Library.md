@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T06:28:47.454Z
+date: 2024-09-11T06:34:14.975Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -24,11 +24,13 @@ Agence gouvernementale anglais (Tatcher) qui défini un référentiel pour sous 
 	- se base sur les référenciel et de nombres bonnes pratiques de la sous traitance de l'administration anglaise.
 - V2 (2000) :
 	- sensibiliser la notion de service
-  - intégreer les projets au cycle de vie
+  - intégrer les projets au cycle de vie
   - structures de support et de conseil
 - V3 (2007) :
 	- Garder ITIL en phase avec l'entreprise (moins langage informatique)
   	- stratégie
+    - transition
+    - marketing
     - conception
     - amélioration
     - ...
@@ -937,6 +939,7 @@ La partie contrat
 - ITSM : Information Technologie Service Management, discipline de gestion des services informatique
 - SMS : Système de Management Service, comme ITIL avec ISO-20000-1 ou pour la sécurité SMSI en ISO-27001
 - CI/CD
+- ESM : Enterprise Service Management : couvrir plus que le domaine informatique - influer sur d'autres domaine que IT
 
 ## Ressources
 
