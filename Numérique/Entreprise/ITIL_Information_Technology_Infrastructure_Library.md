@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T11:53:55.278Z
+date: 2024-09-11T12:13:50.242Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1168,6 +1168,8 @@ Fort/moyen/faible
 i(mpact) : 5,3,1
 u(rgence) : 5,3,1
 e(ffort) : 4,2,1
+
+effort : plus ça demande d'effort, plus le chiffre est petit
 ```
 
 Niveau priorité | Priorité | Délai de résolution
@@ -1188,6 +1190,34 @@ Indisponibilité ERP | 5 | 5 | 2 | 1 | 2h
 ```
 
 L'incidence majeur va demander une cellule de crise (plan de communication, en interne, en externe, le tout préparer en amont) (en interne : escalade hiérarchique, mobilisation de ressource, PRA (Plan Reprise Activité)
+
+Role et responsabilité :
+
+- Incident manager (également taches commun aux pilotes de processus)
+	- défini le processus et les moyen
+  - mesure et pilote la performance
+  - améliore résultat et compétences
+- Service desk (niveau 1)
+- Support technique (niveau 2-3)
+
+Un incident réseau affecte 200 utilisateurs. Au même
+moment, l’imprimante du directeur tombe en
+panne. Il doit imprimer un document important et
+c’est urgent. Qu’en déduisez-vous :
+A. Je n’ai pas assez d’information pour déterminer
+quel incident traiter en premier.
+B. Je traite en premier l’imprimante du directeur,
+car c’est un « VIP ».
+C. Les deux incidents sont de priorité égale.
+D. L’incident réseau est plus important car il affecte
+davantage de personnes.
+
+Explication | I | U | E | P
+--|--|--|--|--
+Incident réseau | 5 | 5 | 2 | 50
+(autre cas possible) | 5 | 3 | 2 | 30
+VIP | 3 | 5 | 4 | 60
+(autre cas possible) | 3 | 5 | 1 | 15
 
 ### Module CSI
 
