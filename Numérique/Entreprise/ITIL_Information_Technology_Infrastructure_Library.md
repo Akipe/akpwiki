@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T12:40:19.785Z
+date: 2024-09-11T13:09:13.273Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1247,6 +1247,26 @@ Familles de cause 5M :
 - **Main d'oeuvre** : formation, compétences, comportement...
 - **Matière** : entrées/sorties, flux d'information, communication, controles, mesures
 - **Milieu** : environnement externe, conditions de travail
+
+#### Gestion des événements
+
+Surveillé les événements significatif de l'infratructure IT pour tout type d'opérations.
+
+CI : Configuration Item - composant informatique - élément de configuration (ordinateur, serveur, imprimante, etc)
+
+Objectif :
+
+- fournir base de controle de l'exploitation
+- détecter les événement, les analyser et définir des actions
+- automatiser les procédures d'exploitation
+
+> Evenement : changement état significatif d'un CI ou d'un service IT
+> ex: Un ordinateur passe de l'état "en marche" à "éteinds"
+
+> Alerte : message de changement d'état pour :
+> - information
+> - avertissement
+> - erreur
 
 ### Module CSI
 
