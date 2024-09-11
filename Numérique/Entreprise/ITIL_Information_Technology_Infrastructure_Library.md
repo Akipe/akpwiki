@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T08:35:23.295Z
+date: 2024-09-11T09:15:47.371Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1028,7 +1028,9 @@ Il protége l'environement de production pour limité les risques de variabilit�
 
 ### Service Opération (SO)         
 
-Ce qui touche au plus près les utilisateurs.
+Ce qui touche au plus près les utilisateurs. C'est la valeur ajouté la plus importante pour le client.
+
+> On peut décider de réorganiser le module SO en premiers car on verra rapidement un changement positif dans l'entreprise (Quick Wins) ce qui aidera à la réorganisation de d'autres services dans un second temps qui prendront plus de temps à être perçu.
 
 Doit gérer l'équilibre entre :
 
@@ -1077,7 +1079,7 @@ Le product owner (pilote du processus) va controler le processus :
 - Piloter
 - vérifier les objectif son atteinds et avoir tableau de bord
 
-Le pilote (product owner) n'a pas d'autorité hiérarchique mais une autorité du service, module et en définition du résultat du processus
+Le pilote (product owner) n'a pas d'autorité hiérarchique mais une autorité du service, module et en définition du résultat du processus. On donne 
 
 Ensuite le product Owner organise le module et les missions en catégories :
 
@@ -1093,9 +1095,33 @@ Il sera aidé par des contributeurs :
 
 > Résoudre les problèmes du support client en 8h, il faudra peut être revoir l'organisation des activités, des instruction et des roles pour réduire le temps de résolution d'un problème
 
+> Equipe support : responsable service (management individus et ressource, hiérarchique, rh) et pilote procecus (orienté service, résultat, management de processus) définir un processus, processus de gestion incident
+
 ## Structure de processus
 
 Voir  p 75
+
+module != processus (qu'est ce chacun ?)
+
+- processus : organisation utilisé par ITIL
+- module : 
+- fonction :
+
+Couleurs :
+
+- Noir : disponible dans le coeur d'ITIL V2, bonne base d'organisation pour petite et moyenne enterprise.
+- Gris : 
+- Bleu : 
+- à droite en vert et dans le cercle : fonctions
+	- support probatoire : gestion lors de la mise en place de nouvelle applis, gérer les problèmes de transitions, documentation, formation, gestion des mécontentement des utilisateurs (Early Life Support)
+
+### Processus
+
+### Fonctions
+
+Favorise la mise en place du modèle ITIL
+
+## Déploiement ITIL
 
 ## Gestion des licences
 
@@ -1126,6 +1152,7 @@ Voir  p 75
 - ESM : Enterprise Service Management : couvrir plus que le domaine informatique - influer sur d'autres domaine que IT
 - SLR : Service Level Requirements
 - RFC : Request For Change
+- Early Life Support :
 
 ## Ressources
 
