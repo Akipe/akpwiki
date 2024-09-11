@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T13:09:13.273Z
+date: 2024-09-11T13:33:12.568Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1267,6 +1267,15 @@ Objectif :
 > - information
 > - avertissement
 > - erreur
+> Ex: saturation réseau : erreur
+> Ex: utilisation intensif du réseau : warning : si un ping ne reviens pas : un warning, si deux ping concécutif : erreur
+
+On peut définir/identifier des paramètres et des seuil pour définir des alertes / changement d'état.
+
+> Si le débit moyen du réseau descend à x Ko/s : warning / si descend à un second seuil : error
+> Utilisation du load balancing
+
+diagramme p97
 
 ### Module CSI
 
