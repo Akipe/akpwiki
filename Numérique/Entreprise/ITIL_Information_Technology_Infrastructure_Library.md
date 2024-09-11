@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T09:47:28.454Z
+date: 2024-09-11T11:10:40.809Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1136,6 +1136,19 @@ domaine du service desk :
 > C. Être l’interface entre les utilisateurs et le service
 informatique.
 > D. Suivre la résolution des incidents.
+
+#### Gestion des incidents
+
+Réduire au maximum les effets des incidents. S'il le faut, il proposera des solutions de contournement (workaround)
+
+> Si une imprimante ne fonctione pas, on va donner accès à une autre imprimante pour ne s'occuper de réparer l'imprimante dans un second temps
+
+objectif :
+
+- rétablir le service au plus vite
+- escalader l'incident
+- suivre l'incident
+- proposer des solutions de workaround à un incident
 
 ### Module CSI
 
