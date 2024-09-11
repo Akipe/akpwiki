@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T07:36:33.520Z
+date: 2024-09-11T07:39:07.432Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1006,7 +1006,13 @@ Il sert également à controler le bon fonctionnement d'un service ou d'un chang
 
 Périmétre :
 
-- gestion des configurations (RFC : Request For Change)
+- gestion des changements (RFC : Request For Change)
+- Gestion des configuration & des connaissances
+
+> On se rend compte qu'on utilise une appli qui utilise la BDD Oracle : Service Transition doit faire une RFC, pour :
+> - mettre en place la BDD
+> - avoir les compétences
+> Et ainsi prévoir en amont les besoins d'un projet et par au dernier moment
 
 ### Service Opération (SO)         
 
