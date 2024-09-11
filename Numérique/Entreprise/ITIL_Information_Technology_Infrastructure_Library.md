@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T08:05:08.172Z
+date: 2024-09-11T08:12:57.689Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1028,7 +1028,26 @@ Il protége l'environement de production pour limité les risques de variabilit�
 
 ### Service Opération (SO)         
 
-Ce qui touche au plus près les utilisateurs
+Ce qui touche au plus près les utilisateurs.
+
+Doit gérer l'équilibre entre :
+
+- Vue métier <-> Vue interne
+
+> Dire oui systèmatique au métier <-> S'occuper des partie non métier comme mises à jour technique
+
+- Evolutivité <-> Stabilité
+
+> Beaucoup de demande de changement <-> peu de demande de changement
+
+- Qualité <-> Couts
+
+> Faire une application très qualitative qui va donc couté très chère <-> réduire au maximum les couts au détriment de la qualités
+
+- Réactivité <-> Pro activité
+
+> Géstion des incidents, traiter les incidents sans s'occuper des causes (toujours résoudre les même problèmes) <-> Gestion des problèmes, chercher uniquement les causes sans s'occuper de traiter les incidents
+
 
 ### Service CSI
 
