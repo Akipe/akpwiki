@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T08:32:38.910Z
+date: 2024-09-11T08:33:34.534Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1059,7 +1059,7 @@ Il est le *service provider* (MOE) :
 
 ### Module CSI
 
-Correspond à l'amélioration (continue) de tous les processus et tous les modules.
+Correspond à l'amélioration (continue) de tous les autres processus et tous les modules.
 
 Processus : élément d'entré génére grace :
 
@@ -1085,13 +1085,16 @@ Ensuite le product Owner organise le module et les missions en catégories :
 - Les roles
 - et il va réaliser une métrique pour avoir une idée des performances
 
-
 Il sera aidé par des contributeurs :
 
 - Ressources
 - Aptitutes
 
 > Résoudre les problèmes du support client en 8h, il faudra peut être revoir l'organisation des activités, des instruction et des roles pour réduire le temps de résolution d'un problème
+
+## Structure de processus
+
+Voir  p 75
 
 ## Gestion des licences
 
