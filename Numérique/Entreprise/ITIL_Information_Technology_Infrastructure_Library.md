@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T12:19:58.447Z
+date: 2024-09-11T12:21:04.344Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1234,7 +1234,7 @@ Objectif :
 
 WorkAround : WA
 
-
+diagramme p91
 
 ### Module CSI
 
