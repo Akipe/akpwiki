@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T09:15:47.371Z
+date: 2024-09-11T09:20:12.831Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1057,6 +1057,17 @@ Il est le *service provider* (MOE) :
 - Gérer les incidents (si incident répétitif, devient un problème qui doit être résolut en trouvant la cause)
 - Géstion des demandes et accès au service
 - gestion "opérations communes" : sauvegarde, surveillance (monitoring), ordonancement (batch de nuit)
+
+#### Centre de Service
+
+Se rapproche de la gestion des incidents : c'est le SPOC pour la gestion des incidents, de niveau 1.
+
+Il facilite la communication avec les utilisateur (un seul contact) pour :
+
+- Les incidents
+- les demandes
+
+> *Couplage de communauté* : on regroupe sur le centre de service la gestion des incidents et demandes
 
 
 ### Module CSI
