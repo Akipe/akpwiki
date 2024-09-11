@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T12:28:54.857Z
+date: 2024-09-11T12:37:36.962Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1247,6 +1247,7 @@ Familles de cause 5M :
 - **Main d'oeuvre** : formation, compétences, comportement...
 - **Matière** : entrées/sorties, flux d'information, communication, controles, mesures
 - **Milieu** : environnement externe, conditions de travail
+
 ### Module CSI
 
 Correspond à l'amélioration (continue) de tous les autres processus et tous les modules.
