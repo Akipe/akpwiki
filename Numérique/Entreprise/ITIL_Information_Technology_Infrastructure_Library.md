@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T06:55:02.786Z
+date: 2024-09-11T06:57:35.244Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -937,6 +937,9 @@ Activités coordonées (aptitudes et ressources) ammenant à des résultat appor
 Evenements potentiels indésirable empéchant d'atteindre les objectifs.
 
 > PC portable pouvant être volé -> empéche de réaliser la mission de l'employé.
+
+- Action corrective : résoudre les problèmes.
+- Action préventive : éviter les risques.
 
 ### Service Opération (SO)         
 
