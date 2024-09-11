@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T08:31:04.019Z
+date: 2024-09-11T08:32:38.910Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1057,9 +1057,9 @@ Il est le *service provider* (MOE) :
 - gestion "opérations communes" : sauvegarde, surveillance (monitoring), ordonancement (batch de nuit)
 
 
-### Service CSI
+### Module CSI
 
-Correspond à l'amélioration. Il s'applique à tous les processus et tous les modules. Il applique l'amélioration continue.
+Correspond à l'amélioration (continue) de tous les processus et tous les modules.
 
 Processus : élément d'entré génére grace :
 
@@ -1091,7 +1091,7 @@ Il sera aidé par des contributeurs :
 - Ressources
 - Aptitutes
 
-> Résoudre les problèmes du support client en 8h
+> Résoudre les problèmes du support client en 8h, il faudra peut être revoir l'organisation des activités, des instruction et des roles pour réduire le temps de résolution d'un problème
 
 ## Gestion des licences
 
