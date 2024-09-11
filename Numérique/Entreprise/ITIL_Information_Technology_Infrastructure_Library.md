@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T13:35:25.043Z
+date: 2024-09-11T13:48:06.720Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1281,9 +1281,21 @@ diagramme p97
 
 Egalement appelé *Request Fulfilment*.
 
-C'est ce processus qui va traiter les demande simple et récurrente dans un processus spécialisé
+C'est ce processus qui va traiter les demande simple et récurrente dans un processus spécialisé (demande simple et catalogue). On peut les délégué à des personnes moins expérimenté ou à des automates
 
-> Dans les gare, si la demande est simple, on peut directement aller à la borne. Si la demande est plus complexe, alors on va au guichet.
+> Dans les gare, si la demande est simple, on peut directement aller à la borne. Si la demande est plus complexe, alors on va au guichet. L'interet est de libérer le guichet.
+
+Objectif :
+
+- fournir canal rapide de prise en charge et de réalisation demande standard
+- fournir information sur la disponibilité des services & procédure de demande (lien avec centre de service)
+- acheter les composants et fournir le service
+
+> **Demande de service** : demmande utilisateur sur un changement standard ; installation de logiciel, création de compte, accès VPN...
+
+> **Changement standard** : changement simple (modèle prédéfini) pouvant définir facilement les étapes, les acteurs de réalisation, les délais...
+
+> **Catalogue** : liste de service interne (ou externe) de l'entreprise. Par exemple, définir qu'il faut 2 jours pour créer un compte pour un nouveau employé fait partie des services du catalogue de l'entreprise.
 
 ### Module CSI
 
@@ -1322,6 +1334,8 @@ Il sera aidé par des contributeurs :
 > Résoudre les problèmes du support client en 8h, il faudra peut être revoir l'organisation des activités, des instruction et des roles pour réduire le temps de résolution d'un problème
 
 > Equipe support : responsable service (management individus et ressource, hiérarchique, rh) et pilote procecus (orienté service, résultat, management de processus) définir un processus, processus de gestion incident
+
+p99
 
 ## Structure de processus
 
