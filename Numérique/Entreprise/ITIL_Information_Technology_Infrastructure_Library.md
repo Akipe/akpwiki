@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T07:33:39.185Z
+date: 2024-09-11T07:36:33.520Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1001,6 +1001,12 @@ SLA : élément de garantie du service
 ### Service Transition (ST)
 
 Module assure déploiement du service pour transitionnement sur l'opérationnel.
+
+Il sert également à controler le bon fonctionnement d'un service ou d'un changement d'un service.
+
+Périmétre :
+
+- gestion des configurations (RFC : Request For Change)
 
 ### Service Opération (SO)         
 
