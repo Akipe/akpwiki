@@ -2,7 +2,7 @@
 title: Urbanisation des systèmes d'information
 description: 
 published: true
-date: 2024-09-10T13:35:53.718Z
+date: 2024-09-12T07:01:26.216Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:30:08.954Z
@@ -110,7 +110,23 @@ p11 doc
 
 On utilisera BPMM pour décrire les processus.
 
+Quand on arrive dans une entreprise, et qu'on a pas , on analyse l'existant et on part de la couche la plus basse :
 
+1. Analyse de l'architecture technique (serveur, pc, etc)
+
+2. Analyse architecture applicatif
+
+Comment les blocs applicatifs communiquent entre elle.
+
+3. Architecture logiciel
+
+Comment se décompose en couche chaque application, en prenant en compte les patrons de conception, les framework, etc.
+
+4. analyse architecture fonctionnelle
+
+5. Analyse architecture métier
+
+On va essayer de voir les responsables des différents services plutôt que les employés directe parce que le responsable aura moins "l'effet tunnel" sur son métier.
 
 
 
