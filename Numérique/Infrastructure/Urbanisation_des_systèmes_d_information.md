@@ -2,7 +2,7 @@
 title: Urbanisation des systèmes d'information
 description: 
 published: true
-date: 2024-09-12T09:09:04.801Z
+date: 2024-09-12T09:12:56.664Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:30:08.954Z
@@ -163,6 +163,11 @@ Décompose les processus en sous processus.
 
 Si le processus est automatisé par informatique, on l'appel un "workflow".
 
+## Modéliser la statégie
+
+On utilise le diagramme de causes à effet avec le diagramme Ishikawa.
+
+Diagramme p7
 
 
 
