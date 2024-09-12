@@ -2,7 +2,7 @@
 title: Urbanisation des systèmes d'information
 description: 
 published: true
-date: 2024-09-12T08:05:20.790Z
+date: 2024-09-12T08:45:20.145Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:30:08.954Z
@@ -128,7 +128,21 @@ Comment se décompose en couche chaque application, en prenant en compte les pat
 
 On va essayer de voir les responsables des différents services plutôt que les employés directe parce que le responsable aura moins "l'effet tunnel" sur son métier.
 
+### Méta-modèle
 
+p17
+
+Ubraniste défini comment les bloque communique, et les architectes définissent comment les bloque fonctionnent à l'intérieur.
+
+Etapes de processus d'urbanisation :
+
+1. Planifier l'étude
+2. Revue des axes stratégiques
+3. Analyse de l'existant
+4. Définir la stratégie
+5. Plan de convergence
+6. Publication de la statégie
+7. Mise à jour stratégique
 
 
 
