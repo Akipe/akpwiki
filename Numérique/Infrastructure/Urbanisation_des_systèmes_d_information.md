@@ -2,7 +2,7 @@
 title: Urbanisation des systèmes d'information
 description: 
 published: true
-date: 2024-09-12T08:45:20.145Z
+date: 2024-09-12T08:46:08.233Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:30:08.954Z
@@ -143,6 +143,8 @@ Etapes de processus d'urbanisation :
 5. Plan de convergence
 6. Publication de la statégie
 7. Mise à jour stratégique
+
+## Vision métier
 
 
 
