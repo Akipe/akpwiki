@@ -2,7 +2,7 @@
 title: Urbanisation des systèmes d'information
 description: 
 published: true
-date: 2024-09-12T07:57:35.874Z
+date: 2024-09-12T08:05:20.790Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:30:08.954Z
