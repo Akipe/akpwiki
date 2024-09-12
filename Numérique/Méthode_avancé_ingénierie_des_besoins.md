@@ -2,7 +2,7 @@
 title: Méthode avancé ingénierie des besoins
 description: 
 published: true
-date: 2024-09-12T11:22:40.883Z
+date: 2024-09-12T12:41:52.106Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-12T11:13:56.004Z
