@@ -2,7 +2,7 @@
 title: Urbanisation des systèmes d'information
 description: 
 published: true
-date: 2024-09-12T08:48:46.599Z
+date: 2024-09-12T09:09:04.801Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:30:08.954Z
@@ -153,6 +153,15 @@ Afrontement entre deux acteurs :
 
 Il peux y avoir des problèmes de communication entre les deux.
 
+Décompose les processus en sous processus.
+
+> Processus de recrutement (macro processus) :
+> 1. Passage d'annonce
+> 2. Récuperation des CV
+> 3. Entretiens
+> 4. Signature du contrat
+
+Si le processus est automatisé par informatique, on l'appel un "workflow".
 
 
 
