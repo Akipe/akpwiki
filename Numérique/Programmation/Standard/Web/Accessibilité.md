@@ -2,7 +2,7 @@
 title: Accessibilité
 description: 
 published: true
-date: 2024-05-21T18:37:01.974Z
+date: 2024-10-08T07:38:07.816Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-21T15:11:42.402Z
@@ -33,6 +33,15 @@ dateCreated: 2024-05-21T15:11:42.402Z
 
 - <https://www.nvaccess.org/download/>
 - <https://grafikart.fr/tutoriels/nvda-accessibilite-windows-1946>
+
+## Types d'accessibilité
+
+### Compréhension
+
+#### FALC
+
+- <https://www.unapei.org/wp-content/uploads/2018/11/L%E2%80%99information-pour-tous-Re%CC%80gles-europe%CC%81ennes-pour-une-information-facile-a%CC%80-lire-et-a%CC%80-comprendre.pdf>
+
 
 ## Ressources
 
