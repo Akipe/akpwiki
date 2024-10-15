@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T14:56:55.818Z
+date: 2024-10-15T15:03:40.479Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1526,6 +1526,26 @@ Si un changement est simple et répétitif, impact faible et maitrisé : peut de
 CAB : Change Advisory Board : commité consultative des changements : change manager va interrargir avec des spécialiste du domaine à changer pour valider ou non un demande de changement
 
 Change manager : personne seul qui peut décider de changement ayant un faible impacte
+
+- mineur : change manager
+- significatif : cab
+- majeur : DSI (commité directeur avec DSI)
+
+Toujours avec l'accord du Change Manager quel que soit le niveau
+
+indicateur :
+
+- degré d'urgence (par exemple win11 important car bientôt plus de support maj)
+- niveau de ressources (par exemple un cout élevé pour Win11 car changer de pc materiel)
+
+pour chacun des indicateur, 2 point de vue :
+
+- métier
+- 
+
+Aller retours entre Processus de Mise en production et processus Gestion de changement.
+
+Deployement en big bang : changement partout d'un coup, parfois necessaire (ex: changement de la BDD, obliger de changer toute l'application).
 
 ## Structure de processus
 
