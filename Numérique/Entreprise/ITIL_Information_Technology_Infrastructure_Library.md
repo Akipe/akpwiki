@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T14:47:16.019Z
+date: 2024-10-15T14:56:55.818Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1519,7 +1519,13 @@ hidden change : changement caché : changement constaté à postériori, changem
 
 Changement : Ajout Modification Suppression de CI (composant) du Si
 
+Possible d'utiliser le système de ticketing pour définir les changements.
 
+Si un changement est simple et répétitif, impact faible et maitrisé : peut devenir standard si défini par les services.
+
+CAB : Change Advisory Board : commité consultative des changements : change manager va interrargir avec des spécialiste du domaine à changer pour valider ou non un demande de changement
+
+Change manager : personne seul qui peut décider de changement ayant un faible impacte
 
 ## Structure de processus
 
