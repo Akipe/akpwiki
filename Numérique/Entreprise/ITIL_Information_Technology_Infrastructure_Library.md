@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T11:57:25.081Z
+date: 2024-10-15T12:03:52.875Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1399,6 +1399,17 @@ plusieurs type d'organisation :
 
 - mutualisation du support niveau 1 pour plusieurs sites ou 1 centre de service par site
 
+Escalade :
+
+- fonctionnel, besoin de fonctions
+
+Besoin de retours du niveau 1 par les autres niveau (delais prévisionnelles)
+
+3 étapes :
+
+1. Call center (centre d'appelle): prise d'appelle (que enregistré)
+2. Help desk (centre de support) (enregistre et traite incident niveau 1)
+3. Centre de service (enregistrement, traitement incident et gerer demande utilisateur)
 
 ## Structure de processus
 
