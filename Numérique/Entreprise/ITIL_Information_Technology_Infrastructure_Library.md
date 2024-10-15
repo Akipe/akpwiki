@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T12:46:25.043Z
+date: 2024-10-15T12:52:14.576Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1490,7 +1490,11 @@ plusieurs types demande :
 - demande de services
 - demande standard (défini et approuvé une première fois)
 
+#### Gestion des accès
 
+donen droit d'accès aux utilisateurs
+
+matrice des droits ou justification
 
 ## Structure de processus
 
