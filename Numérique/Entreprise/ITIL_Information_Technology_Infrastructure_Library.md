@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T14:42:24.618Z
+date: 2024-10-15T14:43:15.047Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1515,7 +1515,7 @@ Eviter les incidents lié aux changements.
 - agilité / adaptation pour la mise en place de changement
 - réaliser les changement réussi du première coup (préparer le changement)
 
-
+hidden change : changement caché : changement constaté à postériori, changement déployé sans demande et donc sans autorisation.
 
 Changement : Ajout Modification Suppression de CI (composant) du Si
 
