@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T12:04:51.312Z
+date: 2024-10-15T12:19:39.020Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1360,24 +1360,6 @@ Il sera aidé par des contributeurs :
 
 ## Résumé
 
-### A mettre en place
-
-- communiquer
-- enregistrer
-- mesurer
-- comprendre
-
-tracabilité : enregistrer : idée volume, catégorie, justifier ressources par rapport au volume , tracer la résolution, calculer délais
-
-ensuite SLA : engagement sur période
-	- commencement engagement de moyen
-  - puis engagement de résultat
-
-
-template demande employé
-
-préciser plage horaire de présence (plage horaire de travail)
-
 ### Service opération
 
 Commencé par QuickWins - résultat rapides
@@ -1410,6 +1392,39 @@ Besoin de retours du niveau 1 par les autres niveau (delais prévisionnelles)
 1. Call center (centre d'appelle): prise d'appelle (que enregistré)
 2. Help desk (centre de support) (enregistre et traite incident niveau 1)
 3. Centre de service (enregistrement, traitement incident et gerer demande utilisateur)
+
+Garenties à apporter :
+
+- prise en compte avec enregistrement de la demande
+
+#### Gestion des incidents
+
+Evenement non planifié -> intérruption de service
+
+Support initial avec WA (Work Around) avec des solutions de contournement géré par le centre de service. (ex: ecran bleu : faire redémarrer l'utilisateur.
+
+##### Classification
+
+- impact(pour métier)
+- Urgence (de l'utilisateur)
+- Effort (de résolution)
+
+Multiplication des 3 facteurs avec définition de niveau de priorité
+
+Niveau priorité | priorité | délais résolution
+---|---|---
+1 (100 à 50) | majeur | 2h
+2 (49 à 19) | Elevée | 4h ouvré
+
+
+Scénario standard | i | u | e | p | d
+---|---|---|---|---|---
+Perte mot de passe SSO | 3 | 5 | 4 | 1 | 2h
+
+Incident majeur :
+
+- instruction communication interne/externe (ajout message au téléphone), réduire saturation des demandes
+- escalade hiérarchique, mobilisation ressources, PRA
 
 ## Structure de processus
 
