@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T12:31:48.236Z
+date: 2024-10-15T12:33:20.499Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1451,6 +1451,18 @@ Erreur connue (KE) est un incident dont la cause est connue mais la solution dé
 
 - Processus "Problem control" : va détecter le problème et trouver des solutions de contournement (devient erreur connue)
 - Processus "Error control" : fait suite au Problem control, permet de gérer l'erreur connue, rechercher une solution et implémenter la solution
+
+Diagramme Ischikawa pour trouver cause à effets : pourquoi problème arrivé ?
+
+5 familles :
+
+- pb méthode
+- pb moyen
+- pb de milieu
+- pb matières
+- pb de main d'oeuvre
+
+(ITIL : Gestion Problèmes 3/5 diapo)
 
 ## Structure de processus
 
