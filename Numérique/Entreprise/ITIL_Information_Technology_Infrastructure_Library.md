@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T15:03:40.479Z
+date: 2024-10-15T15:04:39.006Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1546,6 +1546,8 @@ pour chacun des indicateur, 2 point de vue :
 Aller retours entre Processus de Mise en production et processus Gestion de changement.
 
 Deployement en big bang : changement partout d'un coup, parfois necessaire (ex: changement de la BDD, obliger de changer toute l'application).
+
+PIR : Post Implementation Review : 
 
 ## Structure de processus
 
