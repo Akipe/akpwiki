@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T11:35:10.267Z
+date: 2024-10-15T11:35:27.013Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1362,7 +1362,7 @@ Il sera aidé par des contributeurs :
 
 ### Service opération
 
-Commencé par QuickWins -
+Commencé par QuickWins - résultat rapides
 
 
 ## Structure de processus
