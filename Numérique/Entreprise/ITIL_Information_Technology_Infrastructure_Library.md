@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T13:21:44.170Z
+date: 2024-10-15T13:22:06.896Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
