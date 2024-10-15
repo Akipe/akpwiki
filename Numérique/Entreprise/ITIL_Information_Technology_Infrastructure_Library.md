@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T12:33:20.499Z
+date: 2024-10-15T12:46:25.043Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1457,12 +1457,40 @@ Diagramme Ischikawa pour trouver cause à effets : pourquoi problème arrivé ?
 5 familles :
 
 - pb méthode
+	- doc technique
+  - mode opératoire
 - pb moyen
 - pb de milieu
 - pb matières
 - pb de main d'oeuvre
 
 (ITIL : Gestion Problèmes 3/5 diapo)
+
+process owner / pilote de processus :
+
+- analyse technique de l'erreur connue
+
+
+#### Gestion des événements
+
+- surveiller les événement significatifs
+- detecter ces événements
+- analyser ces événements
+- définir seuilles
+- action automatique
+
+#### Gestion des demandes
+
+Demande de changement simple et récurrente :
+- équipement
+- ressources
+
+plusieurs types demande :
+
+- demande de services
+- demande standard (défini et approuvé une première fois)
+
+
 
 ## Structure de processus
 
