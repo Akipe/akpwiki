@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T15:06:12.835Z
+date: 2024-10-15T15:07:34.250Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1548,6 +1548,9 @@ Aller retours entre Processus de Mise en production et processus Gestion de chan
 Deployement en big bang : changement partout d'un coup, parfois necessaire (ex: changement de la BDD, obliger de changer toute l'application).
 
 PIR : Post Implementation Review : 
+
+
+CAB EC : Change Advisory Board Emergency Change
 
 ## Structure de processus
 
