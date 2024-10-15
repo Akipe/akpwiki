@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T11:54:53.513Z
+date: 2024-10-15T11:57:25.081Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1370,6 +1370,8 @@ Il sera aidé par des contributeurs :
 tracabilité : enregistrer : idée volume, catégorie, justifier ressources par rapport au volume , tracer la résolution, calculer délais
 
 ensuite SLA : engagement sur période
+	- commencement engagement de moyen
+  - puis engagement de résultat
 
 
 template demande employé
