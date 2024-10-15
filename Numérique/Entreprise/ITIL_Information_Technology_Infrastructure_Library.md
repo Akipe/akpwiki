@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-09-11T14:35:36.695Z
+date: 2024-10-15T11:34:25.420Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1357,6 +1357,12 @@ Il sera aidé par des contributeurs :
 > Résoudre les problèmes du support client en 8h, il faudra peut être revoir l'organisation des activités, des instruction et des roles pour réduire le temps de résolution d'un problème
 
 > Equipe support : responsable service (management individus et ressource, hiérarchique, rh) et pilote procecus (orienté service, résultat, management de processus) définir un processus, processus de gestion incident
+
+## Résumé
+
+### Service opération
+
+
 
 
 ## Structure de processus
