@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T12:19:39.020Z
+date: 2024-10-15T12:31:48.236Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1425,6 +1425,32 @@ Incident majeur :
 
 - instruction communication interne/externe (ajout message au téléphone), réduire saturation des demandes
 - escalade hiérarchique, mobilisation ressources, PRA
+
+### Processus
+
+Il y a un pilote par processus.
+
+4 
+
+- définir le processus et les moyens (Plan)
+- déploit de dispositif (fait appliquer la manière de procédé) (Do)
+- mesure indicateur (Check)
+- amélioration / réfléchir actions correctives (Act)
+
+#### Gestion des problèmes
+
+Gérer les problèmes une fois que les incidents sont traitées.
+
+Analyse des causes de l'incident : solution de contournement pour aider processus incident 
+
+Une fois problème défini et trouvé cause : proposer la modification par une demande de changement par la Gestion des changement (RFC, request for changement)
+
+Problème (PB) : cause inconnue d'un incident
+
+Erreur connue (KE) est un incident dont la cause est connue mais la solution définitive pas implémentée
+
+- Processus "Problem control" : va détecter le problème et trouver des solutions de contournement (devient erreur connue)
+- Processus "Error control" : fait suite au Problem control, permet de gérer l'erreur connue, rechercher une solution et implémenter la solution
 
 ## Structure de processus
 
