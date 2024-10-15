@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T13:22:06.896Z
+date: 2024-10-15T14:42:24.618Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1495,6 +1495,31 @@ plusieurs types demande :
 donen droit d'accès aux utilisateurs
 
 matrice des droits ou justification
+
+### Service Transition (ST)
+
+Eviter les incidents lors de modifications : ne rien modifier n'est pas la solution.
+
+Trouver un équilibre entre modification et stabilité.
+
+Service transition va aider aux services sources de changement.
+
+#### Gestion changement
+
+Eviter les incidents lié aux changements.
+
+> Mise en place BDD Oracle n'impacte pas les autres applications
+
+- maitriser modification composants SI (CI : Configuration Item, ressource numérique)
+- définir si changement vaut le coup
+- agilité / adaptation pour la mise en place de changement
+- réaliser les changement réussi du première coup (préparer le changement)
+
+
+
+Changement : Ajout Modification Suppression de CI (composant) du Si
+
+
 
 ## Structure de processus
 
