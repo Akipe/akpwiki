@@ -2,7 +2,7 @@
 title: ITIL
 description: 
 published: true
-date: 2024-10-15T11:35:27.013Z
+date: 2024-10-15T11:54:53.513Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-08T15:11:41.834Z
@@ -1360,9 +1360,42 @@ Il sera aidé par des contributeurs :
 
 ## Résumé
 
+### A mettre en place
+
+- communiquer
+- enregistrer
+- mesurer
+- comprendre
+
+tracabilité : enregistrer : idée volume, catégorie, justifier ressources par rapport au volume , tracer la résolution, calculer délais
+
+ensuite SLA : engagement sur période
+
+
+template demande employé
+
+préciser plage horaire de présence (plage horaire de travail)
+
 ### Service opération
 
 Commencé par QuickWins - résultat rapides
+
+#### Centre de service
+
+SPOC de la structure informatique (single point of contact)
+
+Couplage de communauté (regroupement  de taches)
+
+indicateurs :
+
+- volume appels
+- demande résolues
+- incident mal orientés ou réouverture
+- taux satisfaction
+
+plusieurs type d'organisation :
+
+- mutualisation du support niveau 1 pour plusieurs sites ou 1 centre de service par site
 
 
 ## Structure de processus
