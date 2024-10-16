@@ -1,14 +1,14 @@
 ---
-title: Méthode avancé ingénierie des besoins
+title: Méthode avancé ingénierie des besoins NFE210
 description: 
 published: true
-date: 2024-09-12T12:50:46.588Z
+date: 2024-10-16T11:15:35.582Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-12T11:13:56.004Z
 ---
 
-# Méthode avancé ingénierie des besoins
+# Méthode avancé ingénierie des besoins NFE210
 
 ## Trame d'expression des besoins
 
@@ -39,3 +39,5 @@ Toutes les contraintes interne lié à l'entreprise ou de
 
 Contraintes extérieur
 ```
+
+## 
