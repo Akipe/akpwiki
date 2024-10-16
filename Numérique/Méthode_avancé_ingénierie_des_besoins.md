@@ -2,7 +2,7 @@
 title: Méthode avancé ingénierie des besoins NFE210
 description: 
 published: true
-date: 2024-10-16T11:39:51.295Z
+date: 2024-10-16T12:04:42.579Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-12T11:13:56.004Z
@@ -44,7 +44,11 @@ Contraintes extérieur
 
 critére rentabilité :
 
-- calcul du delais de récupération
+- amortissement : investissement dans immobilisation, il faut prévoir le remplacement. On mets un peu de coté pour "provisionner" les ressources qui s'usent
+
+- valeur résiduelle : valeur de revente de quelque chose, d'occasion
+
+### calcul du delais de récupération
 
 facile à calculer
 
@@ -60,3 +64,20 @@ somme flux actualisé divisé
 Permet de confirmer si un investissement sera rentable au bout d'un certain nombre d'année / de temps
 
 immobilisation : investissement rentable au bout de plusieurs années
+
+
+### Indice de profitabilité actualisé
+
+IP
+
+### valeur actualisé nette
+
+VAN
+
+### Taux interne de rentabilité ou taux de rendement interne
+
+TRI
+
+Si TRI est supérieur au taux inflation : investissement intéréssant
+
+Fonction
