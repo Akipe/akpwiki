@@ -1,3 +1,4 @@
+```mermaid
 mindmap
   root)Processus ITIL(
     [Service Opération
@@ -20,3 +21,4 @@ mindmap
     SS]
     [Service Amélioration
     CSI]
+```
