@@ -70,7 +70,7 @@ immobilisation : investissement rentable au bout de plusieurs années
 
 IP
 
-### valeur actualisé nette
+### valeur actualisé net
 
 VAN
 
@@ -81,3 +81,59 @@ TRI
 Si TRI est supérieur au taux inflation : investissement intéréssant
 
 Fonction
+
+### Calcul BFR
+
+Necessaire de connaitre principe du bilan comptable
+
+#### Bilan comptable
+
+bilan : santé de l'entreprise (comme bilan sanguin), pour avoir une photographie annuel de la santé financière d'une entreprise
+
+C'est une obligation de faire le bilan comptable. Il est necessaire pour calculer l'impot sur les société ou l'impot sur le revenu.
+
+Entreprise est une personne moral != fondateurs / propriétaires
+
+Dans bilan :
+
+- Actif
+	- (FDR) immobilisations : materiel ammortissable sur plus de 2ans, défini la valeur de l'entreprise, uniquement possédé et pas loué
+    	- terrain (achat)
+    	- batiments (achat)
+    	- materiel de production
+    	- materiel informatique
+    	- véhicules
+    	- ...
+- Passif (aide financement bien actif) :
+  - (FDR) capitaux propres : avoir pour financer entreprise
+    - apport actionnaire (entreprise privé)
+    - résultat en reserve : résultat après imposition, positif
+  - (FDR) prêt / financement long terme
+  - brevets
+  - (BFR) dette / délais de payement des fournisseurs (90-60 jours)
+    - doit de l'argent aux fournisseurs à payer après coup
+- écart entre passif et actif : écart fond de roulement
+  - surplus financier pour financer frais conjoncturelle (freins exceptionnels)
+    - toujours avoir un peu d'argent d'avance (encaisse de précaution)
+    - type de surplus :
+      - (BFR) financer en avance le premier lot de produit à vendre / stock
+      - (BFR) prévoir le délais de payement des clients (créances clients)
+
+BFR (besoin fond de roulement)
+
+- stock + créance clients - (dette fournisseur + pret à cours terme)
+  - créance clients :
+    - affacturage (escompte, effet de commerce) : payer directement les créances par la banque mais avec un taux d'escompte (pourcentage pris par la banque)
+
+FDR (Fond de roulement)
+
+- capitaux propres + emprunts long terme - immobilisation
+
+Trésorerie = FDR - BFR
+
+Si Trésorerie > 0 alors l'entreprise fonctionne correctement
+
+Si trésorerie < 0 :
+
+- augmentation capital par l'émission de titres supplémentaires pour les actionnaires
+- prêt/emprunts courts termes par les banques
