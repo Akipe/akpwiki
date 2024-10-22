@@ -169,6 +169,15 @@ On utilise le diagramme de causes à effet avec le diagramme Ishikawa.
 
 Diagramme p7
 
+## Diagramme Ishikawa
 
+1 pour objectif métier et 1 pour quel objectif à aider au niveau SI et solutions
+
+
+Ensuite tableau double entrée : objectif métier / objectif SI
+
+| x | Améliorer le cash flow
+|---|---
+| Accepter et refuser en temps réels les demandes de paiements | X
 
 
