@@ -1552,6 +1552,138 @@ PIR : Post Implementation Review :
 
 CAB EC : Change Advisory Board Emergency Change
 
+
+### Service Design (SD)
+
+#### Gestion niveau de service
+
+Accord de service entre fournisseur interne (DSI) et les métiers utilisateurs (clients internes)
+
+Mettre en place un catalogue de service (lié aux demandes standard + SLA (contrat de services))
+
+Contrat de service interne en entreprise == convention de service
+
+Relation Client et le DSI
+
+Comprendre les besoins et les ajuster en fonction coûts
+
+Objectivé fourniture de services (savoir combien la DSI rapporte avec indicateurs objectif qui mesure qualité de service produit)
+
+Indicateurs :
+
+- indicateur de volume : % de couverture des métier par SLM
+- nombre de revues - rapport suivi accords
+
+Catalogue : tronc commun de services proposé
+
+Conditions particulière dans catalogue de service : personnalisé services pour certains clients
+
+SLA : applicable également entre ESN et clients
+
+SLR : définir le niveau de service proposé (critères d'un SLA)
+
+Etude de solutions pour SLR :
+
+- capacité : infrastructure, équipement apportant réponse ?
+- disponibilité (fault tolerant) : dupliquer équipement ?
+- continuité: redémarrage lors de problèmes
+- sécurité
+- fournisseur
+- financière (fait partie Service Stratégique)
+
+Deux types de contrat :
+
+- SLA : avec client
+  - se base sur préstation
+    - interne
+    - externe (opérateur télécome : si plusieurs site, obligation) : capacité, délais d'intervention, etc : UC car externe
+
+Cannal de communication :
+
+- Canal com niveau client : SLM (Gestion Niveau de service) 
+  - définir l'engagement du support
+- canal de com niveau utilisateur : Centre de service : spoc (avec utilisateurs)
+  - réaliser le support par rapport à l'engagement qu'on à défini
+
+- Centre de profil : refacturation
+- centre de coup : cout assumer par SI
+
+Refacturation : permet de définir des couts par support (définir dans la SLA, qui sera tarrifié par Unité d'Oeuvre)
+
+Contenu SLA :
+
+- Partie (le fournisseur représenté par ... le client représenté par ...)
+- Périmètre : fonction/métier concerné, site, durée
+- Validité
+- description
+- tarif
+- place de service
+  - horaires
+  - conditions spécial (fin de mois)
+- disponibilités
+- sécurité
+- performance
+- assistance
+- tableau de bord (graphique)
+
+Best effort (service de base) : engagement de moyen que de résultat
+
+Le Service Level Manager peut représenter le DSI
+
+Catalogue de service permet de définir des engagement (temps, ressources, etc) car changement standard
+
+Server level manager :
+
+- PDCA (plan do check act)
+
+Description orienté client (pas 99.9% mais support sous 4h par ex)
+
+### Gestion des capacités
+
+Assurer ressources IT correspondent besoins acutels et future au meilleur cout.
+
+#### Activités
+
+Quotidiennement : (pour les deux dernière capacité, service et ressource)
+
+- surveillance (monitoring)
+  - outils mesure
+  - définir seil
+  - programmer alertes
+
+- analyse performances
+  - alertes
+  - tendances
+  - recherche causes
+
+- amélioration (tuning)
+  - rééquilibrage charge
+  - répartition ressources
+
+#### Type de capacités
+
+##### Métier
+
+conception configuration infrastructure
+
+capacity plan : quels composants à ajouter sur la période à venir (et profiter opportunité pour achat avec bonus suite à cette prévision)
+
+1 à 3 fois par an - prévision avec métier (espace stockage, puissance calcul...)
+
+##### Service
+
+opérationnel
+
+Orienté service (service paye)
+
+quotidienne
+
+##### Ressources
+
+opérationnel
+
+quotidienne
+
 ## Structure de processus
 
 Voir  p 75
@@ -1584,30 +1716,6 @@ Favorise la mise en place du modèle ITIL
 - Vérifier licence
 - Vérifier le nombre de licence correspond au nombre d'instance
 
-## Lexique
-
-- Risk based : basé sur les risque
-- SMSI : System Management System Information
-- ISO SMQ : System Management Quality
-- QSE
-- "Supply chain management" : la logistique inter-entreprise.
-- SPOC : Single Point Of Contact
-- DG : Direction Générale
-- DSI
-- MOE
-- aMO
-- SI : Système d'Information
-- gestion de la production assisté par ordinateur (GPAO)
-- CRM : custom relationship management
-- DWH : Data Ware House : entrepot de donnée
-- SLA : Service Level Agreement
-- ITSM : Information Technologie Service Management, discipline de gestion des services informatique
-- SMS : Système de Management Service, comme ITIL avec ISO-20000-1 ou pour la sécurité SMSI en ISO-27001
-- CI/CD
-- ESM : Enterprise Service Management : couvrir plus que le domaine informatique - influer sur d'autres domaine que IT
-- SLR : Service Level Requirements
-- RFC : Request For Change
-- Early Life Support :
 
 ## Ressources
 
