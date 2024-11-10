@@ -92,6 +92,12 @@ https://pacstall.dev/
 
 https://mpr.makedeb.org/
 
+#### Mise en place de serveur de cache apt-cacher
+
+```shell
+apt-cache policy apt-cacher-ng
+```
+
 ### Watchdog
 
 #### IPMI Watchdog
@@ -157,3 +163,4 @@ HandleLidSwitch=ignore
 HandleLidSwitchExternalPower=ignore
 HandleLidSwitchDocked=ignore
 ```
+
