@@ -58,8 +58,24 @@ Unattended-Upgrade::Allowed-Origins {
 };
 ```
 
-```
+```shell
 sudo unattended-upgrade --dry-run --debug
+```
+
+One line command :
+
+```shell
+apt install unattended-upgrades -y && \
+	dpkg-reconfigure -plow unattended-upgrades && \
+	apt install python3-distro -y && \
+	mkdir /tmp/apt && \
+	cd /tmp/apt && \
+	wget https://github.com/abhigenie92/unattended_upgrades_repos/raw/master/unattended_upgrades_repos.py && \
+	python3 ./unattended_upgrades_repos.py && \
+	sleep 10 && \
+	vim /etc/apt/apt.conf.d/50unattended-upgrades && \
+	apt purge python3-distro -y && \
+	unattended-upgrade --dry-run --debug
 ```
 
 ### Invité KVM (guest KVM)
